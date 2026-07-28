@@ -1,11 +1,8 @@
 ﻿"shop_code","shop_name","brand_name","region","box","product_qty","taras_qty","paper_qty","vm_qty","input_type","status","DO_num","GI_date","arrival_date","GR_date","note"
-"1062",CK VIVO,Charles & Keith,HCM,3,,,450,,CK-ESSKRAFTL=16;CK-ESSKRAFTM=120;CK-ESSKRAFTS=314,process,"1000500575","2026-07-09","2026-07-10",,-
-"1058",CK Biên Hòa,Charles & Keith,tỉnh,2,,,343,,CK-ESSKRAFTL=20;CK-ESSKRAFTM=51;CK-ESSKRAFTS=272,process,"1000500625","2026-07-09","2026-07-11",,-
 "1137",PD VŨNG TÀU,Pedro,tỉnh,1,8,,,,-,process,"1000500683","2026-07-09","2026-07-11",,-
 "1143",PD BIÊN HÒA,Pedro,tỉnh,1,,1,,,-,process,"1000500751","2026-07-09","2026-07-11",,-
 "1044",CK VŨNG TÀU,Charles & Keith,tỉnh,1,4,,,,-,process,"1000500903","2026-07-10","2026-07-13",,-
 "1122",PD ĐỒNG KHỞI,Pedro,HCM,16,253,,,,-,process,"1000502610","2026-07-16","2026-07-16",,-
-"1122",PD ĐỒNG KHỞI,Pedro,HCM,1,,,147,,PD-SALEBAG-S,process,"1000502607","2026-07-16","2026-07-16",,-
 "1122",PD ĐỒNG KHỞI,Pedro,HCM,1,1,,,,KCL,process,"1000502608","2026-07-16","2026-07-16",,-
 "1122",PD ĐỒNG KHỞI,Pedro,HCM,1,2,,,,túi ari lỗi ko put kệ,process,"1000502617","2026-07-16","2026-07-16",,-
 "1139",PD CẦN THƠ,Pedro,tỉnh,1,12,,,,-,process,"1000502699","2026-07-16","2026-07-20",,-
