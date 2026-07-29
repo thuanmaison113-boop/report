@@ -1,4 +1,4 @@
-﻿"shop_code","shop_name","brand_name","region","box","product_qty","taras_qty","paper_qty","vm_qty","input_type","status","DO_num","GI_date","arrival_date","GR_date","note"
+﻿"shop_code","shop_name","brand_name","region","box_qty","product_qty","taras_qty","paper_qty","vm_qty","input_type","status","DO_num","GI_date","arrival_date","GR_date","note"
 "1137",PD VŨNG TÀU,Pedro,tỉnh,1,8,,,,-,process,"1000500683","2026-07-09","2026-07-11",,-
 "1143",PD BIÊN HÒA,Pedro,tỉnh,1,,1,,,-,process,"1000500751","2026-07-09","2026-07-11",,-
 "1044",CK VŨNG TÀU,Charles & Keith,tỉnh,1,4,,,,-,process,"1000500903","2026-07-10","2026-07-13",,-
