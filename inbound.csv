@@ -21,9 +21,9 @@ PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,15,241.0,,,,-,process,80226502
 1061,CK Kiên Giang,Charles & Keith,tỉnh,12,160.0,,,,-,process,1000506242,2026-07-26,2026-07-27,,-
 1061,CK Kiên Giang,Charles & Keith,tỉnh,1,1.0,,,,-,process,1000506240,2026-07-26,2026-07-27,,-
 1068,CK ĐÀ NẴNG THANH KHÊ,Charles & Keith,tỉnh,0,15.0,,,,-,Pending,1000506318,2026-07-26,,,-
-CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,85,1064.0,,,,-,Pending,80226560,2026-07-28,,,-
+CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,85,1064.0,,,,-,process,80226560,2026-07-28,2026-07-30,,-
 CK D126,KHO HÀ NỘI - SÀI ĐỒNG - TARAS,Charles & Keith,tỉnh,23,205.0,,,,-,Pending,80226561,2026-07-28,,,-
-CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,8,82.0,,,,-,Pending,80226562,2026-07-28,,,-
+CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,8,82.0,,,,-,process,80226562,2026-07-28,2026-07-30,,-
 5807,Birkenstock Centre Hà Nội,BRIKENSTOCK,tỉnh,0,8.0,,,,-,Pending,1000506616,2026-07-28,,,-
 5803,Birkenstock Crescent Mall,BRIKENSTOCK,HCM,1,2.0,,,,-,process,1000506704,2026-07-28,2026-07-29,,-
 5808,Birkenstock Vạn Hạnh,BRIKENSTOCK,HCM,1,9.0,,,,-,process,1000506707,2026-07-28,2026-07-29,,-
@@ -60,3 +60,4 @@ CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,0,174.0,,,,-,Pending
 1062,CK VIVO,Charles & Keith,HCM,0,,9,,,-,Pending,1000507680,2026-07-30,,,-
 1063,CK PARC MALL Q8,Charles & Keith,HCM,0,103.0,,,,-,Pending,1000507694,2026-07-30,,,-
 1063,CK PARC MALL Q8,Charles & Keith,HCM,0,2.0,,,,-,Pending,1000507693,2026-07-30,,,-
+CK D126,KHO HÀ NỘI - SÀI ĐỒNG - TARAS,Charles & Keith,tỉnh,0,205.0,,,,-,process,-,,2026-07-30,,-
