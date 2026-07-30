@@ -1,4 +1,5 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
+58870,2026-07-30,2026-07-29,posted,pxk,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500222224,80226979,MKT ODER,4,36.0,,36
 58849,2026-07-30,2026-07-30,posted,pxk,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500222141,80226949,NEW364,18,329.0,,329
 58894,2026-07-30,2026-07-30,posted,pxk,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500222319,80227060,BSL1,2,40.0,,40
 58850,2026-07-30,2026-07-30,posted,pxk,Pedro,1125,PD VIVO,HCM,4500222142,80226950,NEW364,10,156.0,,156
@@ -40,5 +41,5 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 58868,2026-07-30,2026-07-30,posted,pxk,Pedro,1158,Pedro Cresscent Mall,HCM,4500222163,80226971,NEW364,13,213.0,,213
 58911,2026-07-30,2026-07-30,posted,pxk,Pedro,1158,Pedro Cresscent Mall,HCM,4500222336,80227077,BSL1,1,19.0,,19
 58869,2026-07-30,2026-07-30,posted,pxk,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500222164,80226972,NEW364,10,198.0,,198
-58913,2026-07-30,,post null,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500222338,80227079,BSL1,0,,,39
+58913,2026-07-30,2026-07-30,posted,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500222338,80227079,BSL1,2,39.0,,39
 58917,2026-07-30,2026-07-30,posted,pxk,MULTI,4000,KHO CHUNG VẬT TƯ ECOM,HCM,4500222340,80227110,trừ tồn vật tư cho ecom 99m3,0,,1522,1522
