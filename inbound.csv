@@ -4,17 +4,10 @@ shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm
 CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,18,282.0,,,,-,process,80225240,2026-07-17,2026-07-22,,-
 1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,tỉnh,9,92.0,,,,thiếu 4 con,process,1000504094,2026-07-20,2026-07-24,,-
 1141,PD BÌNH DƯƠNG,Pedro,tỉnh,12,267.0,,,,-,process,1000505029,2026-07-23,2026-07-24,,-
-1062,CK VIVO,Charles & Keith,HCM,1,1.0,,,,-,process,1000505259,2026-07-23,2026-07-24,,-
-1051,CK SÀI GÒN,Charles & Keith,HCM,1,1.0,,,,-,process,1000505304,2026-07-23,2026-07-24,,-
 1038,CK THẢO ĐIỀN,Charles & Keith,HCM,1,,4,,,KCL,process,1000505341,2026-07-23,2026-07-24,,-
 1063,CK PARC MALL Q8,Charles & Keith,HCM,9,151.0,,,,-,process,1000505441,2026-07-23,2026-07-24,,-
-1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,1,,1,,,-,process,1000505450,2026-07-23,2026-07-24,,-
-1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,1,7.0,,,,-,process,1000505496,2026-07-23,2026-07-24,,-
-1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,15,181.0,,,,-,process,1000505498,2026-07-23,2026-07-24,,-
-1052,CK BÌNH TÂN,Charles & Keith,HCM,11,145.0,,,,-,process,1000505518,2026-07-23,2026-07-24,,-
 1049,CK BÌNH DƯƠNG,Charles & Keith,HCM,11,158.0,,,,-,process,1000505656,2026-07-23,2026-07-24,,-
 1049,CK BÌNH DƯƠNG,Charles & Keith,HCM,1,6.0,,,,-,process,1000505662,2026-07-23,2026-07-24,,-
-1059,CK HÙNG VƯƠNG,Charles & Keith,HCM,9,135.0,,,,-,process,1000505721,2026-07-23,2026-07-24,,-
 CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,14,168.0,,,,-,process,80226297,2026-07-24,2026-07-27,,-
 PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,15,241.0,,,,-,process,80226502,2026-07-25,2026-07-28,,-
 1061,CK Kiên Giang,Charles & Keith,tỉnh,12,160.0,,,,-,process,1000506242,2026-07-26,2026-07-27,,-
@@ -49,7 +42,7 @@ PD 99M2,TIKI,Pedro,HCM,0,139.0,,,,-,Pending,1000507501,2026-07-30,,,-
 1125,PD VIVO,Pedro,HCM,1,19.0,,,,-,process,1000507509,2026-07-30,2026-07-30,,-
 1125,PD VIVO,Pedro,HCM,6,133.0,,,,-,process,1000507510,2026-07-30,2026-07-30,,-
 CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,0,174.0,,,,-,Pending,80227019,2026-07-30,,,-
-1141,PD BÌNH DƯƠNG,Pedro,tỉnh,13,144.0,,,,-,Pending,1000507511,2026-07-30,,,-
+1141,PD BÌNH DƯƠNG,Pedro,tỉnh,13,144.0,,,,-,process,1000507511,2026-07-30,2026-07-31,,-
 1158,Pedro Cresscent Mall,Pedro,HCM,5,71.0,,,,-,process,1000507535,2026-07-30,2026-07-30,,-
 1142,PD TÂN PHÚ,Pedro,HCM,5,106.0,,,,-,process,1000507551,2026-07-30,2026-07-30,,-
 1129,PD SÀI GÒN,Pedro,HCM,3,58.0,,,,-,process,1000507587,2026-07-30,2026-07-30,,-
