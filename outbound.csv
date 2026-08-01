@@ -1,3 +1,4 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-58999,2026-08-01,2026-08-01,posted,pxk,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500222616,80227379,chênh lệch pullback-trả hàng thiếu,0,4,,4
-58916,2026-08-01,2026-07-31,posted,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500222287,80227094,TIKI,25,506,,519
+58999,2026-08-01,2026-08-01,posted,pxk,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500222616,80227379,chênh lệch pullback-trả hàng thiếu,0,4.0,,4
+59000,2026-08-01,2026-07-03,posted,0,MULTI,EC D122,KHO HÀ NỘI - SÀI ĐỒNG,tỉnh,4500218610,80223534,D122,0,,3,3
+58916,2026-08-01,2026-07-31,posted,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500222287,80227094,TIKI,25,506.0,,519
