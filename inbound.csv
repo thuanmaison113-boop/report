@@ -1,8 +1,8 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1068,CK ĐÀ NẴNG THANH KHÊ,Charles & Keith,tỉnh,1,15.0,,,,đồng phục,process,1000506318,2026-07-26,2026-08-03,,-
-5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,tỉnh,0,8.0,,,,-,Pending,1000506616,2026-07-28,,,-
-5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,1,4.0,,,,2 DO tổng 1 thùng,Pending,1000506992,2026-07-29,,,-
-5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,0,,3,,,2 DO tổng 1 thùng,Pending,1000506993,2026-07-29,,,-
+5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,tỉnh,1,8.0,,,,-,process,1000506616,2026-07-28,2026-08-03,,-
+5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,1,4.0,,,,2 DO tổng 1 thùng,process,1000506992,2026-07-29,2026-08-03,,-
+5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,0,,3,,,2 DO tổng 1 thùng,process,1000506993,2026-07-29,2026-08-03,,-
 PD 99M2,TIKI,Pedro,HCM,0,139.0,,,,-,process,1000507501,2026-07-30,2026-08-01,,-
 CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,18,174.0,,,,staff sale,process,80227019,2026-07-30,2026-08-03,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,14,258.0,,,,-,process,1000507640,2026-07-30,2026-07-31,,-
@@ -23,7 +23,7 @@ CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,18,174.0,,,,staff sa
 1067,CK Crescent Mall,Charles & Keith,HCM,2,,,320,,CK-ESSKRAFTL=41;CK-ESSKRAFTM=120;CK-ESSKRAFTS=159,process,1000507889,2026-07-30,2026-07-31,,-
 1137,PD VŨNG TÀU,Pedro,tỉnh,1,1.0,,,,KCL,process,1000507890,2026-07-30,2026-08-01,,-
 1140,PD HẢI PHÒNG,Pedro,tỉnh,0,12.0,,,,-,Pending,1000507891,2026-07-30,,,-
-1145,PD INDO PLAZA HN,Pedro,tỉnh,0,2.0,,,,-,Pending,1000507913,2026-07-30,,,-
+1145,PD INDO PLAZA HN,Pedro,tỉnh,1,2.0,,,,-,process,1000507913,2026-07-30,2026-08-03,,-
 1153,PD HUẾ,Pedro,tỉnh,8,96.0,,,,-,Pending,1000507918,2026-07-30,,,-
 1058,CK Biên Hòa,Charles & Keith,tỉnh,6,155.0,,,,-,process,1000507934,2026-07-30,2026-08-01,,-
 1058,CK Biên Hòa,Charles & Keith,tỉnh,1,,3,,,-,process,1000507933,2026-07-30,2026-08-01,,-
