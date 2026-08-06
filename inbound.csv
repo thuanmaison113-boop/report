@@ -26,7 +26,7 @@ CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,18,174.0,,,,staff sa
 1144,PD DN VINCOM,Pedro,tỉnh,12,153.0,,,,-,process,1000508230,2026-07-31,2026-08-03,,-
 1143,PD BIÊN HÒA,Pedro,tỉnh,7,99.0,,,,-,process,1000508282,2026-07-31,2026-08-01,,-
 1068,CK ĐÀ NẴNG THANH KHÊ,Charles & Keith,tỉnh,0,1.0,,,,con này lệch chiếc; bỏ trong thùng đồng phục; gửi về để chênh lệch với con của CK NT sắp chuyển về,process,1000508293,2026-07-31,2026-08-03,,-
-PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,36,258.0,,,,cần có tồn trong tuần này,Pending,80227253,2026-08-01,,,-
+PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,36,258.0,,,,cần có tồn trong tuần này,process,80227253,2026-08-01,2026-08-06,,-
 PD 99M2,TIKI,Pedro,HCM,1,3.0,,,,-,process,1000508895,2026-08-03,2026-08-01,,-
 NBL 99M2,TIKI,NEW BALANCE,HCM,1,9.0,,,,-,process,1000508896,2026-08-03,2026-08-01,,-
 CV 99M2,TIKI,CONVERSE,HCM,1,4.0,,,,-,process,1000508906,2026-08-04,2026-08-01,,-
@@ -53,19 +53,19 @@ CK 99M3,KHO ECOM THỦ ĐỨC,Charles & Keith,HCM,0,142.0,,,,QC,process,10005093
 1136,PD HAI BÀ TRƯNG,Pedro,HCM,1,,3,,,-,process,1000509781,2026-08-06,2026-08-06,,-
 1125,PD VIVO,Pedro,HCM,4,82.0,,,,-,process,1000509789,2026-08-06,2026-08-06,,-
 1125,PD VIVO,Pedro,HCM,1,2.0,,,,-,process,1000509790,2026-08-06,2026-08-06,,-
-1141,PD BÌNH DƯƠNG,Pedro,tỉnh,0,244.0,,,,-,process,1000509800,2026-08-06,2026-08-06,,-
+1141,PD BÌNH DƯƠNG,Pedro,tỉnh,25,244.0,,,,-,process,1000509800,2026-08-06,2026-08-06,,-
 1151,PD QUANG TRUNG,Pedro,HCM,1,,2,,,-,process,1000509812,2026-08-06,2026-08-06,,-
 1151,PD QUANG TRUNG,Pedro,HCM,2,31.0,,,,-,process,1000509813,2026-08-06,2026-08-06,,-
 1132,PD LÊ VĂN SỸ,Pedro,HCM,4,84.0,,,,thiếu 1,process,1000509815,2026-08-06,2026-08-06,,-
 1132,PD LÊ VĂN SỸ,Pedro,HCM,1,,2,,,-,process,1000509820,2026-08-06,2026-08-06,,-
 1132,PD LÊ VĂN SỸ,Pedro,HCM,1,4.0,,,,KCL,process,1000509823,2026-08-06,2026-08-06,,-
-1129,PD SÀI GÒN,Pedro,HCM,1,5.0,,,,-,Pending,-,,2026-08-06,,-
-1129,PD SÀI GÒN,Pedro,HCM,2,25.0,,,,-,Pending,-,,2026-08-06,,-
-1130,PD THẢO ĐIỀN,Pedro,HCM,7,79.0,,,,-,Pending,-,,2026-08-06,,-
-1131,PD VẠN HẠNH,Pedro,HCM,2,24.0,,,,-,Pending,-,,2026-08-06,,-
 1142,PD TÂN PHÚ,Pedro,HCM,1,,6,,,-,process,-,,2026-08-06,,-
 1142,PD TÂN PHÚ,Pedro,HCM,2,35.0,,,,-,process,-,,2026-08-06,,-
-1150,PD NGUYỄN TRÃI FLAGSHIP,Pedro,HCM,4,93.0,,,,-,Pending,-,,2026-08-06,,-
-1152,PD PARC MALL Q8,Pedro,HCM,3,44.0,,,,-,process,-,,2026-08-06,,-
-1152,PD PARC MALL Q8,Pedro,HCM,1,,1,,,-,process,-,,2026-08-06,,-
-1157,PD BÌNH TÂN,Pedro,HCM,1,,1,,,-,process,-,,2026-08-06,,-
+1150,PD NGUYỄN TRÃI FLAGSHIP,Pedro,HCM,4,93.0,,,,-,process,1000509848,2026-08-06,2026-08-06,,-
+1157,PD BÌNH TÂN,Pedro,HCM,1,,1,,,-,process,1000509849,2026-08-06,2026-08-06,,-
+1130,PD THẢO ĐIỀN,Pedro,HCM,7,79.0,,,,-,process,1000509898,2026-08-06,2026-08-06,,-
+1131,PD VẠN HẠNH,Pedro,HCM,2,24.0,,,,-,process,1000509906,2026-08-06,2026-08-06,,-
+1152,PD PARC MALL Q8,Pedro,HCM,1,,1,,,-,process,1000509913,2026-08-06,2026-08-06,,-
+1129,PD SÀI GÒN,Pedro,HCM,1,,5,,,-,process,1000509926,2026-08-06,2026-08-06,,-
+1129,PD SÀI GÒN,Pedro,HCM,2,25.0,,,,-,process,1000509927,2026-08-06,2026-08-06,,-
+1152,PD PARC MALL Q8,Pedro,HCM,3,44.0,,,,-,process,1000509934,2026-08-06,2026-08-06,,-
