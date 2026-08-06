@@ -1,4 +1,5 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
+59277,2026-08-06,2026-08-06,posted,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500223392,80228147,chênh lệch pullback-trả DO món thiếu,0,1.0,,1
 59120,2026-08-06,,post null,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500222980,80227870,NEW + BS 381,13,168.0,,168
 59152,2026-08-06,,post null,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500223205,80227951,BSL2,2,47.0,,47
 59121,2026-08-06,,post null,0,Pedro,1125,PD VIVO,HCM,4500222981,80227871,NEW + BS 381,4,59.0,,59
