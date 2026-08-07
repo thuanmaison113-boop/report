@@ -16,7 +16,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59223,2026-08-07,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500223351,80228089,BSL2,11,209.0,,209
 59240,2026-08-07,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500223334,80228208,BSL2 + cont 381,0,,,29
 59176,2026-08-07,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500223182,80227978,NEW 800,9,124.0,,124
-59195,2026-08-07,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500223165,80228186,NEW + 381,0,,,10
+59195,2026-08-07,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500223165,80228186,NEW + 381,1,10.0,,10
 59224,2026-08-07,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500223352,80228090,BSL2,10,153.0,,153
 59241,2026-08-07,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500223335,80228209,BSL2 + cont 381,0,,,11
 59257,2026-08-07,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500223369,80228109,BSL2 804,2,22.0,,22
@@ -35,7 +35,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59261,2026-08-07,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500223373,80228113,BSL2 804,1,1.0,,1
 59272,2026-08-07,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500223384,80228125,TÚI GIẤY,0,,,200
 59177,2026-08-07,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500223187,80227979,NEW 800,8,105.0,,105
-59196,2026-08-07,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500223170,80228187,NEW + 381,0,,,37
+59196,2026-08-07,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500223170,80228187,NEW + 381,2,37.0,,37
 59229,2026-08-07,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500223357,80228095,BSL2,7,133.0,,133
 59246,2026-08-07,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500223340,80228214,BSL2 + cont 381,0,,,20
 59262,2026-08-07,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500223374,80228114,BSL2 804,1,12.0,,12
@@ -47,7 +47,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59248,2026-08-07,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500223342,80228216,BSL2 + cont 381,0,,,22
 59264,2026-08-07,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500223376,80228116,BSL2 804,1,9.0,,9
 59178,2026-08-07,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500223190,80227980,NEW 800,7,103.0,,103
-59197,2026-08-07,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500223173,80228188,NEW + 381,0,,,29
+59197,2026-08-07,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500223173,80228188,NEW + 381,1,29.0,,29
 59232,2026-08-07,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500223360,80228098,BSL2,5,100.0,,100
 59249,2026-08-07,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500223343,80228217,BSL2 + cont 381,0,,,13
 59265,2026-08-07,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500223377,80228117,BSL2 804,1,3.0,,3
