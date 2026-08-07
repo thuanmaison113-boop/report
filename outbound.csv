@@ -1,16 +1,16 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 59219,2026-08-07,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500223347,80228085,BSL2,12,219.0,,220
-59236,2026-08-07,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500223330,80228204,BSL2 + cont 381,0,,,34
+59236,2026-08-07,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500223330,80228204,BSL2 + cont 381,3,31.0,,34
 59253,2026-08-07,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500223365,80228105,BSL2 804,2,34.0,,34
 59220,2026-08-07,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500223348,80228086,BSL2,13,207.0,,207
 59237,2026-08-07,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500223331,80228205,BSL2 + cont 381,0,,,18
 59254,2026-08-07,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500223366,80228106,BSL2 804,4,47.0,,47
 59269,2026-08-07,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500223381,80228122,TÚI GIẤY,0,,,450
 59221,2026-08-07,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500223349,80228087,BSL2,17,319.0,,319
-59238,2026-08-07,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500223332,80228206,BSL2 + cont 381,0,,,79
+59238,2026-08-07,2026-08-07,posted,0,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500223332,80228206,BSL2 + cont 381,7,79.0,,79
 59255,2026-08-07,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500223367,80228107,BSL2 804,1,9.0,,9
 59222,2026-08-07,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,HCM,4500223350,80228088,BSL2,7,130.0,,130
-59239,2026-08-07,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,HCM,4500223333,80228207,BSL2 + cont 381,0,,,22
+59239,2026-08-07,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,HCM,4500223333,80228207,BSL2 + cont 381,2,19.0,,22
 59256,2026-08-07,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,HCM,4500223368,80228108,BSL2 804,1,17.0,,17
 59270,2026-08-07,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,HCM,4500223382,80228123,TÚI GIẤY,0,,,200
 59223,2026-08-07,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500223351,80228089,BSL2,11,209.0,,209
@@ -25,7 +25,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59242,2026-08-07,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,HCM,4500223336,80228210,BSL2 + cont 381,0,,,47
 59258,2026-08-07,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,HCM,4500223370,80228110,BSL2 804,1,13.0,,13
 59226,2026-08-07,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500223354,80228092,BSL2,13,198.0,,198
-59243,2026-08-07,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500223337,80228211,BSL2 + cont 381,0,,,46
+59243,2026-08-07,2026-08-07,posted,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500223337,80228211,BSL2 + cont 381,6,46.0,,46
 59259,2026-08-07,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500223371,80228111,BSL2 804,1,5.0,,5
 59227,2026-08-07,,post null,0,Charles & Keith,1051,CK SÀI GÒN,HCM,4500223355,80228093,BSL2,16,284.0,,284
 59244,2026-08-07,,post null,0,Charles & Keith,1051,CK SÀI GÒN,HCM,4500223338,80228212,BSL2 + cont 381,0,,,40
@@ -52,7 +52,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59249,2026-08-07,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500223343,80228217,BSL2 + cont 381,0,,,13
 59265,2026-08-07,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500223377,80228117,BSL2 804,1,3.0,,3
 59274,2026-08-07,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500223386,80228127,TÚI GIẤY,0,,,200
-59289,2026-08-07,2026-08-07,posted,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500223494,80228238,chênh lệch pullback-trả hàng lỗi,0,1.0,,1
+59289,2026-08-07,2026-08-07,posted,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500223494,80228238,chênh lệch pullback-trả hàng lỗi,1,1.0,,1
 59233,2026-08-07,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500223361,80228099,BSL2,5,126.0,,126
 59250,2026-08-07,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500223344,80228218,BSL2 + cont 381,0,,,14
 59266,2026-08-07,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500223378,80228118,BSL2 804,1,2.0,,2
