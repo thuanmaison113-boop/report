@@ -1,3 +1,4 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-59299,2026-08-08,2026-08-08,posted,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500223540,80228282,túi giấy mkt,0,,,400
+59299,2026-08-08,2026-08-08,posted,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500223540,80228282,túi giấy mkt,0,,400.0,400
+59300,2026-08-08,2026-08-08,posted,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500223542,80228291,chênh lệch pullback-trả DO món thiếu,0,1,,1
 59288,2026-08-08,,post null,0,Pedro,PD D122,KHO HÀ NỘI - SÀI ĐỒNG,tỉnh,4500223456,80228225,Hàng LC,3,53,,53
