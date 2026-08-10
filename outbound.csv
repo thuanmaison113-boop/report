@@ -1,7 +1,8 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 59179,2026-08-10,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500223177,80227981,NEW800,25,295.0,,295
 59198,2026-08-10,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500223160,80228189,NEW + 381,3,80.0,,80
-59298,2026-08-10,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500223525,80228272,Đồng Phục,0,,,14
+59298,2026-08-10,2026-08-10,posted,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500223525,80228272,Đồng Phục,1,14.0,,14
+59312,2026-08-10,2026-08-10,posted,pxk,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500223667,80228381,chênh lệch pullback-trả món lỗi,1,1.0,,1
 59180,2026-08-10,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500223178,80227982,NEW800,0,,,286
 59199,2026-08-10,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500223161,80228190,NEW + 381,2,53.0,,53
 59181,2026-08-10,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500223179,80227983,NEW800,33,343.0,,343
