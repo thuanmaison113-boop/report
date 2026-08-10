@@ -6,6 +6,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59199,2026-08-10,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500223161,80228190,NEW + 381,2,53.0,,53
 59181,2026-08-10,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500223179,80227983,NEW800,33,343.0,,343
 59200,2026-08-10,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500223162,80228191,NEW + 381,3,81.0,,81
+59311,2026-08-10,2026-08-10,posted,pxk,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500223606,80228360,chênh lệch pullback-trả món thiếu,0,1.0,,1
 59182,2026-08-10,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,HCM,4500223180,80227984,NEW800,14,171.0,,171
 59201,2026-08-10,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,HCM,4500223163,80228192,NEW + 381,2,37.0,,37
 59183,2026-08-10,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500223181,80227985,NEW800,20,236.0,,236
