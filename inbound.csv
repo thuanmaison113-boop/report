@@ -1,5 +1,4 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
-PD 99M2,TIKI,Pedro,HCM,0,139.0,,,,-,process,1000507501,2026-07-30,2026-08-08,,-
 CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,18,174.0,,,,staff sale,process,80227019,2026-07-30,2026-08-03,,-
 1135,PD STAR CITY TDH HN,Pedro,tỉnh,1,6.0,,,,-,process,1000507745,2026-07-30,2026-08-05,,-
 1140,PD HẢI PHÒNG,Pedro,tỉnh,3,12.0,,,,-,process,1000507891,2026-07-30,2026-08-05,,-
@@ -14,6 +13,6 @@ CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,20,251.0,,,,-,proces
 1143,PD BIÊN HÒA,Pedro,tỉnh,1,11.0,,,,KCL,process,1000510574,2026-08-07,2026-08-08,,-
 1061,CK Kiên Giang,Charles & Keith,tỉnh,6,66.0,,,,-,process,1000510584,2026-08-07,2026-08-10,,-
 1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,tỉnh,7,78.0,,,,-,process,1000510595,2026-08-07,2026-08-10,,-
-CK 99M2,TIKI,Charles & Keith,HCM,0,104.0,,,,-,process,1000510599,2026-08-07,2026-08-08,,-
+CK 99M2,TIKI,Charles & Keith,HCM,0,104.0,,,,-,Pending,1000510599,2026-08-07,,,-
 1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,tỉnh,1,3.0,,,,-,process,1000510719,2026-08-07,2026-08-10,,-
 PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,0,137.0,,,,-,Pending,80228176,2026-08-10,,,-
