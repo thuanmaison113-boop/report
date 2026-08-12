@@ -19,8 +19,8 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59414,2026-08-12,,post null,0,BIRKENSTOCK,5803,Birkenstock Crescent Mall,HCM,4500223844,80228628,Hàng BS,12,119.0,,120
 59416,2026-08-12,,post null,0,BIRKENSTOCK,5805,Birkens Gold Coast NT,tỉnh,4500223846,80228630,Hàng BS,31,293.0,,295
 59421,2026-08-12,,post null,0,BIRKENSTOCK,5805,Birkens Gold Coast NT,tỉnh,4500223851,80228635,TÚI GIẤY,2,,300,300
-59417,2026-08-12,,post null,0,BIRKENSTOCK,5806,Birkenstock Lotte Tây Hồ,tỉnh,4500223847,80228631,Hàng BS,0,,,207
-59418,2026-08-12,,post null,0,BIRKENSTOCK,5807,Birkenstock Centre Hà Nội,tỉnh,4500223848,80228632,Hàng BS,0,,,125
+59417,2026-08-12,,post null,0,BIRKENSTOCK,5806,Birkenstock Lotte Tây Hồ,tỉnh,4500223847,80228631,Hàng BS,21,206.0,,207
+59418,2026-08-12,,post null,0,BIRKENSTOCK,5807,Birkenstock Centre Hà Nội,tỉnh,4500223848,80228632,Hàng BS,13,124.0,,125
 59415,2026-08-12,,post null,0,BIRKENSTOCK,5808,Birkenstock Vạn Hạnh,HCM,4500223845,80228629,Hàng BS,17,167.0,,167
 59455,2026-08-12,2026-08-12,posted,pxk,BIRKENSTOCK,5808,Birkenstock Vạn Hạnh,HCM,4500224070,80228825,chênh lệch pullback-trả hàng lỗi,1,1.0,,1
 59419,2026-08-12,,post null,0,BIRKENSTOCK,5809,Birkenstock Đà Nẵng,tỉnh,4500223849,80228633,Hàng BS,22,209.0,,209
