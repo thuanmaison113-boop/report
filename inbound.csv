@@ -1,18 +1,11 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
-1135,PD STAR CITY TDH HN,Pedro,tỉnh,1,6.0,,,,-,process,1000507745,2026-07-30,2026-08-05,,-
-1140,PD HẢI PHÒNG,Pedro,tỉnh,3,12.0,,,,-,process,1000507891,2026-07-30,2026-08-05,,-
 1127,PD BÀ TRIỆU ,Pedro,tỉnh,1,2.0,,,,-,process,1000508012,2026-07-30,2026-08-10,,-
 5809,Birkenstock Đà Nẵng,BIRKENSTOCK,tỉnh,1,7.0,,,,-,process,1000509122,2026-08-04,2026-08-10,,-
 5809,Birkenstock Đà Nẵng,BIRKENSTOCK,tỉnh,1,,6,,,bỏ riêng con 4067707625963 để claim hãng,process,1000509145,2026-08-04,2026-08-10,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,10,88.0,,,,-,process,1000509442,2026-08-05,2026-08-10,,-
 5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,tỉnh,2,21.0,,,,-,process,1000509593,2026-08-05,2026-08-10,,-
-1153,PD HUẾ,Pedro,tỉnh,4,76.0,,,,-,process,1000510208,2026-08-06,2026-08-11,,-
-1144,PD DN VINCOM,Pedro,tỉnh,10,111.0,,,,-,process,1000510279,2026-08-06,2026-08-10,,-
-1143,PD BIÊN HÒA,Pedro,tỉnh,1,11.0,,,,KCL,process,1000510574,2026-08-07,2026-08-08,,-
 1061,CK Kiên Giang,Charles & Keith,tỉnh,6,66.0,,,,-,process,1000510584,2026-08-07,2026-08-10,,-
-1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,tỉnh,7,78.0,,,,-,process,1000510595,2026-08-07,2026-08-10,,-
 CK 99M2,TIKI,Charles & Keith,HCM,0,104.0,,,,-,Pending,1000510599,2026-08-07,,,-
-1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,tỉnh,1,3.0,,,,-,process,1000510719,2026-08-07,2026-08-10,,-
 PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,0,137.0,,,,-,Pending,80228176,2026-08-10,,,-
 1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,0,1.0,,,,-,Pending,1000511418,2026-08-11,,,-
 5805,Birkens Gold Coast NT,BIRKENSTOCK,tỉnh,0,11.0,,,,-,Pending,1000511456,2026-08-11,,,-

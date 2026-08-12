@@ -6,7 +6,8 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59213,2026-08-12,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500223198,80228203,Hàng CONT381 OPEN CT,46,554.0,,555
 59214,2026-08-12,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500223202,80228002,804 OPEN CT,2,18.0,,18
 59215,2026-08-12,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500223203,80228013,TÚI GIẤY OPEN CT,6,,900,900
-59450,2026-08-12,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500223918,80228707,GWP OPEN CT,0,,,155
+59450,2026-08-12,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500223918,80228707,GWP OPEN CT,1,155.0,,155
+59451,2026-08-12,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500223915,80228732,BS OPEN CK CT,0,,,39
 59437,2026-08-12,,post null,0,Pedro,1144,PD DN VINCOM,tỉnh,4500223868,80228654,NEW,0,,,112
 59438,2026-08-12,,post null,0,Pedro,1146,PD DN LÊ DUẨN,tỉnh,4500223869,80228655,NEW,0,,,73
 59439,2026-08-12,,post null,0,Pedro,1153,PD HUẾ,tỉnh,4500223870,80228656,NEW,0,,,77
