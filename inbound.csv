@@ -1,5 +1,4 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
-1127,PD BÀ TRIỆU ,Pedro,tỉnh,1,2.0,,,,-,process,1000508012,2026-07-30,2026-08-10,,-
 5809,Birkenstock Đà Nẵng,BIRKENSTOCK,tỉnh,1,7.0,,,,-,process,1000509122,2026-08-04,2026-08-10,,-
 5809,Birkenstock Đà Nẵng,BIRKENSTOCK,tỉnh,1,,6,,,bỏ riêng con 4067707625963 để claim hãng,process,1000509145,2026-08-04,2026-08-10,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,10,88.0,,,,-,process,1000509442,2026-08-05,2026-08-10,,-
