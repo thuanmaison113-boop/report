@@ -1,6 +1,6 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 59423,2026-08-13,2026-08-13,posted,pxk,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500223854,80228640,NEW,11,144.0,,144
-59481,2026-08-13,,post null,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500224140,80228888,Hàng BS,0,,,32
+59481,2026-08-13,2026-08-13,posted,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500224140,80228888,Hàng BS,2,32.0,,32
 59424,2026-08-13,2026-08-13,posted,pxk,Pedro,1125,PD VIVO,HCM,4500223855,80228641,NEW,6,78.0,,78
 59482,2026-08-13,,post null,0,Pedro,1125,PD VIVO,HCM,4500224141,80228889,Hàng BS,0,,,28
 59425,2026-08-13,2026-08-13,posted,pxk,Pedro,1129,PD SÀI GÒN,HCM,4500223856,80228642,NEW,10,139.0,,139
