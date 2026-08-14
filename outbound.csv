@@ -36,8 +36,8 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59515,2026-08-14,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500224365,80229064,800,0,,,83
 59532,2026-08-14,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500224398,80229081,804,0,,,18
 59544,2026-08-14,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500224408,80229105,TÚI GIẤY,0,,,300
-59462,2026-08-14,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500224094,80228867,HÀNG NEW 800,0,,,89
-59516,2026-08-14,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500224366,80229065,800,0,,,56
+59462,2026-08-14,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500224094,80228867,HÀNG NEW 800,8,89,,89
+59516,2026-08-14,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500224366,80229065,800,4,56,,56
 59545,2026-08-14,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500224410,80229106,TÚI GIẤY,0,,,300
 59517,2026-08-14,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500224367,80229066,800,0,,,50
 59533,2026-08-14,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500224399,80229082,804,0,,,6
