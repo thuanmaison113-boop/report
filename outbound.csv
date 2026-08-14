@@ -23,7 +23,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59510,2026-08-14,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500224360,80229059,800,0,,,274
 59527,2026-08-14,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500224393,80229076,804,0,,,7
 59542,2026-08-14,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500224407,80229103,TÚI GIẤY,0,,,300
-59511,2026-08-14,,post null,0,Charles & Keith,1051,CK SÀI GÒN,HCM,4500224361,80229060,800,0,,,155
+59511,2026-08-14,2026-08-14,posted,0,Charles & Keith,1051,CK SÀI GÒN,HCM,4500224361,80229060,800,10,155,,155
 59528,2026-08-14,,post null,0,Charles & Keith,1051,CK SÀI GÒN,HCM,4500224394,80229077,804,0,,,10
 59512,2026-08-14,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500224362,80229061,800,0,,,132
 59529,2026-08-14,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500224395,80229078,804,0,,,2
