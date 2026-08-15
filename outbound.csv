@@ -1,3 +1,4 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-59598,2026-08-15,2026-08-15,posted,pxk,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500224671,80229267,chênh lệch pullback-trả DO món thiếu,0,1.0,,1
-59597,2026-08-15,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500224492,80229266,Book grab ,0,,,7
+59598,2026-08-15,2026-08-15,posted,pxk,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500224671,80229267,chênh lệch pullback-trả DO món thiếu,0,1,,1
+59597,2026-08-15,2026-08-15,posted,pxk,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500224492,80229266,Book grab ,1,7,,7
+59599,2026-08-15,2026-08-15,posted,0,BIRKENSTOCK,5806,Birkenstock Lotte Tây Hồ,tỉnh,4500224672,80229278,hỗ trợ xuất ,1,5,,5
