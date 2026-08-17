@@ -68,7 +68,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59475,2026-08-17,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500224095,80228880,HÀNG NEW 800,9,96.0,,96
 59615,2026-08-17,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500224690,80229332,New 401,4,74.0,,74
 59621,2026-08-17,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500224696,80229338,804,1,5.0,,5
-59647,2026-08-17,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500224731,80229376,Hàng BSL1,0,,,95
+59647,2026-08-17,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500224731,80229376,Hàng BSL1,6,95.0,,95
 59665,2026-08-17,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500224749,80229394,804,0,,,1
 59476,2026-08-17,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500224096,80228881,HÀNG NEW 800,9,94.0,,94
 59616,2026-08-17,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500224691,80229333,New 401,5,79.0,,79
@@ -79,7 +79,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59477,2026-08-17,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500224097,80228882,HÀNG NEW 800,12,115.0,,115
 59617,2026-08-17,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500224692,80229334,New 401,7,106.0,,106
 59623,2026-08-17,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500224698,80229340,804,1,12.0,,12
-59649,2026-08-17,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500224733,80229378,Hàng BSL1,0,,,109
+59649,2026-08-17,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500224733,80229378,Hàng BSL1,9,109.0,,109
 59667,2026-08-17,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500224751,80229396,804,0,,,4
 59570,2026-08-17,,post null,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500224041,80229212,NEW 401,13,140.0,,140
 59571,2026-08-17,,post null,0,Pedro,1125,PD VIVO,HCM,4500224042,80229213,NEW 401,4,47.0,,47
