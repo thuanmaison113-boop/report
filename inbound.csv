@@ -1,11 +1,9 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 CK 99M2,TIKI,Charles & Keith,HCM,0,104,,,,-,Pending,1000510599,2026-08-07,,,-
-PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,10,137,,,,-,process,80228176,2026-08-10,2026-08-14,,-
 CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,12,147,,,,-,process,80228970,2026-08-13,2026-08-17,,-
 1156,Pedro HN Centre,Pedro,tỉnh,2,8,,,,-,Pending,1000512945,2026-08-13,,,-
 PD 9904,ECOM LIVESTREAM,Pedro,HCM,2,26,,,,-,process,80229482,2026-08-17,2026-08-17,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,0,22,,,,-,Pending,1000513934,2026-08-18,,,-
-5805,Birkens Gold Coast NT,BIRKENSTOCK,tỉnh,0,1,,,,nằm trong lô 3 thùng,Pending,1000513966,2026-08-18,,,-
 5805,Birkens Gold Coast NT,BIRKENSTOCK,tỉnh,3,11,,,,-,Pending,1000513967,2026-08-18,,,-
 5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,tỉnh,2,16,,,,-,Pending,1000514138,2026-08-18,,,-
 5809,Birkenstock Đà Nẵng,BIRKENSTOCK,tỉnh,1,3,,,,-,Pending,1000514172,2026-08-19,,,-
