@@ -42,4 +42,4 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59760,2026-08-20,,post null,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500225229,80229903,New,4,70.0,,70
 59830,2026-08-20,,post null,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500225391,80229961,Hàng BS,0,,,34
 59761,2026-08-20,,post null,0,Charles & Keith,CK D122,KHO HÀ NỘI - SÀI ĐỒNG,tỉnh,4500225270,80229905,GWP,0,,,455
-59757,2026-08-20,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500225226,80229900,New,5,86.0,,86
+59757,2026-08-20,2026-08-20,posted,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500225226,80229900,TIKI,5,86.0,,86
