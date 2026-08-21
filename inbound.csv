@@ -10,18 +10,47 @@ PD 9904,ECOM LIVESTREAM,Pedro,HCM,2,26,,,,-,process,80229482,2026-08-17,2026-08-
 1141,PD BÌNH DƯƠNG,Pedro,tỉnh,10,145,,,,-,process,1000514660,2026-08-19,2026-08-20,,-
 1151,PD QUANG TRUNG,Pedro,HCM,1,4,,,,KCL,process,1000514666,2026-08-19,2026-08-20,,-
 1158,Pedro Cresscent Mall,Pedro,HCM,1,7,,,,KCL,process,1000514690,2026-08-20,2026-08-20,,-
-1152,PD PARC MALL Q8,Pedro,HCM,3,29,,,,-,Pending,-,,2026-08-20,,-
 1130,PD THẢO ĐIỀN,Pedro,HCM,1,7,,,,KCL,process,1000514716,2026-08-20,2026-08-20,,-
-1052,CK BÌNH TÂN,Charles & Keith,HCM,0,129,,,,-,Pending,1000514845,2026-08-20,,,-
-1052,CK BÌNH TÂN,Charles & Keith,HCM,0,38,,,,-,Pending,1000514846,2026-08-20,,,-
-1063,CK PARC MALL Q8,Charles & Keith,HCM,0,22,,,,-,Pending,1000514858,2026-08-20,,,-
-1063,CK PARC MALL Q8,Charles & Keith,HCM,0,111,,,,-,Pending,1000514859,2026-08-20,,,-
-1050,CK TÂN PHÚ,Charles & Keith,HCM,0,11,,,,-,Pending,1000514872,2026-08-20,,,-
-1062,CK VIVO,Charles & Keith,HCM,0,117,,,,-,Pending,1000514983,2026-08-20,,,-
-1062,CK VIVO,Charles & Keith,HCM,0,4,,,,-,Pending,1000514982,2026-08-20,,,-
+1052,CK BÌNH TÂN,Charles & Keith,HCM,4,129,,,,-,process,1000514845,2026-08-20,2026-08-21,,-
+1052,CK BÌNH TÂN,Charles & Keith,HCM,3,38,,,,-,process,1000514846,2026-08-20,2026-08-21,,-
+1063,CK PARC MALL Q8,Charles & Keith,HCM,2,22,,,,write off,process,1000514858,2026-08-20,2026-08-21,,-
+1063,CK PARC MALL Q8,Charles & Keith,HCM,6,111,,,,-,process,1000514859,2026-08-20,2026-08-21,,-
+1050,CK TÂN PHÚ,Charles & Keith,HCM,1,11,,,,write off,process,1000514872,2026-08-20,2026-08-21,,-
+1062,CK VIVO,Charles & Keith,HCM,6,117,,,,-,process,1000514983,2026-08-20,2026-08-21,,-
+1062,CK VIVO,Charles & Keith,HCM,1,4,,,,write off,process,1000514982,2026-08-20,2026-08-21,,-
 1158,Pedro Cresscent Mall,Pedro,HCM,6,53,,,,-,process,1000514689,2026-08-20,2026-08-20,,-
-1050,CK TÂN PHÚ,Charles & Keith,HCM,0,196,,,,-,Pending,1000514987,2026-08-20,,,-
-1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,0,56,,,,-,Pending,1000514988,2026-08-20,,,-
+1050,CK TÂN PHÚ,Charles & Keith,HCM,8,196,,,,-,process,1000514987,2026-08-20,2026-08-21,,-
+1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,4,56,,,,-,process,1000514988,2026-08-20,2026-08-21,,-
 1137,PD VŨNG TÀU,Pedro,tỉnh,0,54,,,,-,Pending,1000515047,2026-08-20,,,-
 1139,PD CẦN THƠ,Pedro,tỉnh,0,111,,,,-,Pending,1000515049,2026-08-20,,,-
 1139,PD CẦN THƠ,Pedro,tỉnh,0,334,,,,-,Pending,1000515048,2026-08-20,,,-
+1038,CK THẢO ĐIỀN,Charles & Keith,HCM,9,177,,,,-,process,1000515064,2026-08-20,2026-08-21,,-
+1038,CK THẢO ĐIỀN,Charles & Keith,HCM,1,34,,,,write off,process,1000515065,2026-08-20,2026-08-21,,-
+1038,CK THẢO ĐIỀN,Charles & Keith,HCM,0,177,,,,dup DO,process,1000515066,2026-08-20,2026-08-21,,-
+1038,CK THẢO ĐIỀN,Charles & Keith,HCM,0,177,,,,dup DO,process,1000515069,2026-08-20,2026-08-21,,-
+1038,CK THẢO ĐIỀN,Charles & Keith,HCM,0,34,,,,dup DO,process,1000515067,2026-08-20,2026-08-21,,-
+1038,CK THẢO ĐIỀN,Charles & Keith,HCM,0,34,,,,dup DO,process,1000515068,2026-08-20,2026-08-21,,-
+1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,12,122,,,,-,process,1000515074,2026-08-20,2026-08-21,,-
+1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,0,122,,,,-,process,1000515084,2026-08-20,2026-08-21,,-
+1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,0,122,,,,-,process,1000515098,2026-08-20,2026-08-21,,-
+1152,PD PARC MALL Q8,Pedro,HCM,3,29,,,,-,process,1000515112,2026-08-20,2026-08-20,,-
+1144,PD DN VINCOM,Pedro,tỉnh,0,127,,,,-,Pending,1000515124,2026-08-20,,,-
+1152,PD PARC MALL Q8,Pedro,HCM,0,29,,,,dup DO,process,1000515138,2026-08-20,2026-08-20,,-
+1152,PD PARC MALL Q8,Pedro,HCM,0,29,,,,dup DO,process,1000515148,2026-08-20,2026-08-20,,-
+1153,PD HUẾ,Pedro,tỉnh,0,107,,,,-,Pending,1000515150,2026-08-20,,,-
+1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,14,210,,,,-,process,1000515205,2026-08-20,2026-08-21,,-
+1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,1,27,,,,write off,process,1000515206,2026-08-20,2026-08-21,,-
+1059,CK HÙNG VƯƠNG,Charles & Keith,HCM,5,104,,,,-,process,1000515212,2026-08-20,2026-08-21,,-
+1059,CK HÙNG VƯƠNG,Charles & Keith,HCM,3,34,,,,write off,process,1000515214,2026-08-20,2026-08-21,,-
+1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,23,384,,,,-,process,1000515241,2026-08-20,2026-08-21,,-
+1058,CK Biên Hòa,Charles & Keith,tỉnh,9,153,,,,-,process,1000515242,2026-08-20,2026-08-21,,-
+1058,CK Biên Hòa,Charles & Keith,tỉnh,1,22,,,,write off,process,1000515243,2026-08-20,2026-08-21,,-
+1146,PD DN LÊ DUẨN,Pedro,tỉnh,0,33,,,,-,Pending,1000515248,2026-08-20,,,-
+1067,CK Crescent Mall,Charles & Keith,HCM,9,175,,,,-,process,1000515271,2026-08-20,2026-08-21,,-
+1049,CK BÌNH DƯƠNG,Charles & Keith,HCM,2,41,,,,write off,process,1000515340,2026-08-20,2026-08-21,,-
+1025,CK LÊ VĂN SỸ,Charles & Keith,HCM,10,223,,,,-,process,1000515347,2026-08-20,2026-08-21,,-
+1049,CK BÌNH DƯƠNG,Charles & Keith,HCM,10,218,,,,-,process,1000515352,2026-08-20,2026-08-21,,-
+1039,CK VẠN HẠNH,Charles & Keith,HCM,17,233,,,,-,process,1000515374,2026-08-20,2026-08-21,,-
+1039,CK VẠN HẠNH,Charles & Keith,HCM,1,5,,,,write off,process,1000515377,2026-08-20,2026-08-21,,-
+CK 99M2,TIKI,Charles & Keith,HCM,0,8,,,,-,Pending,1000515443,2026-08-21,,,-
+1051,CK SÀI GÒN,Charles & Keith,HCM,13,257,,,,-,Pending,-,,2026-08-21,,-
