@@ -16,6 +16,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59789,2026-08-21,2026-08-21,posted,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500225282,80229915,new,4,52.0,,52
 59837,2026-08-21,2026-08-21,posted,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500225432,80229984,BSL2 800,4,62.0,,62
 59855,2026-08-21,2026-08-21,posted,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500225450,80230010,BSL2 804,1,6.0,,6
+59881,2026-08-21,2026-08-21,posted,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500225722,80230184,pullback-trả món lỗi,1,1.0,,1
 59790,2026-08-21,2026-08-21,posted,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225283,80229917,new,6,67.0,,67
 59838,2026-08-21,2026-08-21,posted,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225433,80229985,BSL2 800,3,57.0,,57
 59856,2026-08-21,2026-08-21,posted,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225451,80230011,BSL2 804,1,8.0,,8
@@ -34,6 +35,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59843,2026-08-21,2026-08-21,posted,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500225438,80229990,BSL2 800,3,40.0,,41
 59860,2026-08-21,2026-08-21,posted,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500225455,80230015,BSL2 804,1,1.0,,1
 59874,2026-08-21,2026-08-21,posted,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500225470,80230075,TÚI GIẤY,0,,,100
+59882,2026-08-21,2026-08-21,posted,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500225723,80230185,pullback-trả món lỗi,1,1.0,,1
 59844,2026-08-21,2026-08-21,posted,0,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500225439,80229991,BSL2 800,2,30.0,,30
 59875,2026-08-21,2026-08-21,posted,0,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500225469,80230074,TÚI GIẤY,0,,,100
 59845,2026-08-21,2026-08-21,posted,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500225440,80229992,BSL2 800,3,42.0,,42
