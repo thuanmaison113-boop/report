@@ -19,17 +19,9 @@ PD 9904,ECOM LIVESTREAM,Pedro,HCM,2,26.0,,,,-,process,80229482,2026-08-17,2026-0
 1139,PD CẦN THƠ,Pedro,tỉnh,0,334.0,,,,-,Pending,1000515048,2026-08-20,,,-
 1038,CK THẢO ĐIỀN,Charles & Keith,HCM,9,177.0,,,,-,process,1000515064,2026-08-20,2026-08-21,,-
 1038,CK THẢO ĐIỀN,Charles & Keith,HCM,1,34.0,,,,write off,process,1000515065,2026-08-20,2026-08-21,,-
-1038,CK THẢO ĐIỀN,Charles & Keith,HCM,0,177.0,,,,dup DO,process,1000515066,2026-08-20,2026-08-21,,-
-1038,CK THẢO ĐIỀN,Charles & Keith,HCM,0,177.0,,,,dup DO,process,1000515069,2026-08-20,2026-08-21,,-
-1038,CK THẢO ĐIỀN,Charles & Keith,HCM,0,34.0,,,,dup DO,process,1000515067,2026-08-20,2026-08-21,,-
-1038,CK THẢO ĐIỀN,Charles & Keith,HCM,0,34.0,,,,dup DO,process,1000515068,2026-08-20,2026-08-21,,-
 1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,12,122.0,,,,-,process,1000515074,2026-08-20,2026-08-21,,-
-1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,0,122.0,,,,dup DO,process,1000515084,2026-08-20,2026-08-21,,-
-1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,0,122.0,,,,dup DO,process,1000515098,2026-08-20,2026-08-21,,-
 1152,PD PARC MALL Q8,Pedro,HCM,3,29.0,,,,-,process,1000515112,2026-08-20,2026-08-20,,-
 1144,PD DN VINCOM,Pedro,tỉnh,9,127.0,,,,-,Pending,1000515124,2026-08-20,,,-
-1152,PD PARC MALL Q8,Pedro,HCM,0,29.0,,,,dup DO,process,1000515138,2026-08-20,2026-08-20,,-
-1152,PD PARC MALL Q8,Pedro,HCM,0,29.0,,,,dup DO,process,1000515148,2026-08-20,2026-08-20,,-
 1153,PD HUẾ,Pedro,tỉnh,5,107.0,,,,-,Pending,1000515150,2026-08-20,,,-
 1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,14,210.0,,,,-,process,1000515205,2026-08-20,2026-08-21,,-
 1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,1,27.0,,,,write off,process,1000515206,2026-08-20,2026-08-21,,-
@@ -45,3 +37,5 @@ PD 9904,ECOM LIVESTREAM,Pedro,HCM,2,26.0,,,,-,process,80229482,2026-08-17,2026-0
 1143,PD BIÊN HÒA,Pedro,tỉnh,5,68.0,,,,-,Pending,1000515484,2026-08-21,,,-
 1061,CK Kiên Giang,Charles & Keith,tỉnh,5,89.0,,,,-,Pending,1000515515,2026-08-21,,,-
 1061,CK Kiên Giang,Charles & Keith,tỉnh,3,27.0,,,,write off,Pending,1000515516,2026-08-21,,,-
+1044,CK VŨNG TÀU,Charles & Keith,tỉnh,0,92.0,,,,có 1 thùng write off,Pending,1000515567,2026-08-21,,,-
+1049,CK BÌNH DƯƠNG,Charles & Keith,HCM,0,1.0,,,,-,Pending,1000515625,2026-08-21,,,-
