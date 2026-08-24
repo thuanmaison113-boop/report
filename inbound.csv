@@ -1,5 +1,5 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
-1156,Pedro HN Centre,Pedro,tỉnh,2,8.0,,,,-,Pending,1000512945,2026-08-13,,,-
+1156,Pedro HN Centre,Pedro,tỉnh,2,8.0,,,,-,process,1000512945,2026-08-13,2026-08-24,,-
 PD 9904,ECOM LIVESTREAM,Pedro,HCM,2,26.0,,,,-,process,80229482,2026-08-17,2026-08-17,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,3,22.0,,,,-,Pending,1000513934,2026-08-18,,,-
 5805,Birkens Gold Coast NT,BIRKENSTOCK,tỉnh,3,11.0,,,,-,process,1000513967,2026-08-18,2026-08-21,,-
