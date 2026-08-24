@@ -9,6 +9,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59887,2026-08-24,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,HCM,4500225346,80230190,NEW CONT 432,10,106.0,,106
 59797,2026-08-24,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500225281,80229925,new,7,81.0,,81
 59888,2026-08-24,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500225345,80230191,NEW CONT 432,13,135.0,,135
+59939,2026-08-24,2026-08-24,posted,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500225875,80230373,chênh lệch pullback-trao đổi DO,0,,,1
 59889,2026-08-24,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500225344,80230192,NEW CONT 432,5,57.0,,57
 59890,2026-08-24,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225343,80230193,NEW CONT 432,0,,,71
 59798,2026-08-24,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,HCM,4500225284,80229926,new,5,68.0,,68
@@ -32,4 +33,5 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59806,2026-08-24,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500225294,80229934,new,5,67.0,,67
 59901,2026-08-24,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500225332,80230204,NEW CONT 432,0,,,112
 59931,2026-08-24,2026-08-22,posted,0,Pedro,1125,PD VIVO,HCM,4500225821,80230314,oder thêm,1,2.0,,2
+59921,2026-08-24,2026-08-20,posted,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500225392,80229962,TIKI,1,12.0,,12
 59788,2026-08-24,2026-08-22,posted,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500225248,80230262,TIKI,9,122.0,,122
