@@ -1,6 +1,7 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 59793,2026-08-24,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500225277,80229921,new,7,82.0,,82
 59884,2026-08-24,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500225349,80230187,NEW CONT 432,10,121.0,,121
+59940,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500225876,80230386,chênh lệch pullback-trả hàng lỗi,1,1.0,,1
 59794,2026-08-24,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500225278,80229922,new,7,82.0,,82
 59885,2026-08-24,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500225348,80230188,NEW CONT 432,8,93.0,,93
 59795,2026-08-24,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500225279,80229923,new,8,82.0,,82
@@ -9,7 +10,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59887,2026-08-24,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,HCM,4500225346,80230190,NEW CONT 432,10,106.0,,106
 59797,2026-08-24,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500225281,80229925,new,7,81.0,,81
 59888,2026-08-24,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500225345,80230191,NEW CONT 432,13,135.0,,135
-59939,2026-08-24,2026-08-24,posted,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500225875,80230373,chênh lệch pullback-trao đổi DO,0,,,1
+59939,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500225875,80230373,chênh lệch pullback-trao đổi DO,0,,,1
 59889,2026-08-24,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500225344,80230192,NEW CONT 432,5,57.0,,57
 59890,2026-08-24,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225343,80230193,NEW CONT 432,0,,,71
 59798,2026-08-24,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,HCM,4500225284,80229926,new,5,68.0,,68
@@ -19,7 +20,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59800,2026-08-24,,post null,0,Charles & Keith,1051,CK SÀI GÒN,HCM,4500225286,80229928,new,7,82.0,,82
 59893,2026-08-24,,post null,0,Charles & Keith,1051,CK SÀI GÒN,HCM,4500225340,80230196,NEW CONT 432,8,91.0,,91
 59801,2026-08-24,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500225287,80229929,new,5,68.0,,68
-59894,2026-08-24,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500225339,80230197,NEW CONT 432,0,,,113
+59894,2026-08-24,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500225339,80230197,NEW CONT 432,12,113.0,,113
 59895,2026-08-24,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500225338,80230198,NEW CONT 432,0,,,75
 59802,2026-08-24,,post null,0,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500225289,80229930,new,4,53.0,,53
 59896,2026-08-24,,post null,0,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500225337,80230199,NEW CONT 432,9,92.0,,92
