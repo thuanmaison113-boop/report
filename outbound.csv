@@ -32,7 +32,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59988,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500225941,80230492,túi totte,1,20.0,,20
 59890,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225343,80230193,NEW CONT 432,6,71.0,,71
 59957,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225887,80230403,Bin 800,19,249.0,,249
-59976,2026-08-24,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225905,80230440,BIN 804,0,,,26
+59976,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225905,80230440,BIN 804,1,21.0,,26
 59989,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225942,80230493,túi totte,1,30.0,,30
 60011,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225929,80230522,TÚI GIẤY,3,,400,400
 60018,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225971,80230539,TÚI GIẤY kho trả shop,2,,246,246
@@ -43,8 +43,8 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 60012,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1049,CK BÌNH DƯƠNG,HCM,4500225930,80230523,TÚI GIẤY,1,,200,200
 59799,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500225285,80229927,new,6,70.0,,70
 59892,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500225341,80230195,NEW CONT 432,9,94.0,,94
-59959,2026-08-24,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500225889,80230405,Bin 800,0,,,140
-59978,2026-08-24,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500225907,80230442,BIN 804,0,,,9
+59959,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500225889,80230405,Bin 800,8,139.0,,140
+59978,2026-08-24,2026-08-24,posted,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500225907,80230442,BIN 804,1,9.0,,9
 60013,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500225931,80230524,TÚI GIẤY,1,,100,100
 59800,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1051,CK SÀI GÒN,HCM,4500225286,80229928,new,7,82.0,,82
 59893,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1051,CK SÀI GÒN,HCM,4500225340,80230196,NEW CONT 432,8,91.0,,91
@@ -57,7 +57,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59980,2026-08-24,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500225909,80230445,BIN 804,0,,,11
 60015,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500225933,80230526,TÚI GIẤY,1,,100,100
 59895,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500225338,80230198,NEW CONT 432,7,75.0,,75
-59962,2026-08-24,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500225892,80230408,Bin 800,0,,,87
+59962,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500225892,80230408,Bin 800,7,87.0,,87
 59981,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500225910,80230446,BIN 804,1,6.0,,6
 59990,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500225947,80230494,túi totte,1,20.0,,20
 59802,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500225289,80229930,new,4,53.0,,53
@@ -69,7 +69,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59964,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500225894,80230410,Bin 800,7,90.0,,90
 59983,2026-08-24,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500225912,80230448,BIN 804,0,,,20
 59898,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500225335,80230201,NEW CONT 432,7,81.0,,81
-59965,2026-08-24,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500225895,80230411,Bin 800,0,,,43
+59965,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500225895,80230411,Bin 800,4,43.0,,43
 59984,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500225913,80230449,BIN 804,1,7.0,,7
 59991,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500225950,80230495,túi totte,1,10.0,,10
 59804,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1062,CK VIVO,HCM,4500225292,80229932,new,4,54.0,,54
