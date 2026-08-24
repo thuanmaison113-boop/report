@@ -35,6 +35,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59976,2026-08-24,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225905,80230440,BIN 804,0,,,26
 59989,2026-08-24,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225942,80230493,túi totte,0,,,30
 60011,2026-08-24,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225929,80230522,TÚI GIẤY,0,,,400
+60018,2026-08-24,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500225971,80230539,TÚI GIẤY kho trả shop,0,,,246
 59798,2026-08-24,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,HCM,4500225284,80229926,new,5,68.0,,68
 59891,2026-08-24,2026-08-24,posted,0,Charles & Keith,1049,CK BÌNH DƯƠNG,HCM,4500225342,80230194,NEW CONT 432,9,97.0,,97
 59958,2026-08-24,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,HCM,4500225888,80230404,Bin 800,0,,,162
@@ -73,7 +74,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59991,2026-08-24,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500225950,80230495,túi totte,0,,,10
 59804,2026-08-24,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500225292,80229932,new,4,54.0,,54
 59899,2026-08-24,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500225334,80230202,NEW CONT 432,8,84.0,,84
-59966,2026-08-24,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500225896,80230412,Bin 800,0,,,103
+59966,2026-08-24,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500225896,80230412,Bin 800,7,103.0,,103
 59985,2026-08-24,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500225914,80230450,BIN 804,0,,,9
 60016,2026-08-24,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500225934,80230527,TÚI GIẤY,0,,,300
 59805,2026-08-24,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500225293,80229933,new,4,53.0,,53
