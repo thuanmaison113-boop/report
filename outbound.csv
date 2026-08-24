@@ -2,7 +2,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59793,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500225277,80229921,new,7,82.0,,82
 59884,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500225349,80230187,NEW CONT 432,10,121.0,,121
 59940,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500225876,80230386,chênh lệch pullback-trả hàng lỗi,1,1.0,,1
-59951,2026-08-24,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500225881,80230397,Bin 800,0,,,134
+59951,2026-08-24,2026-08-24,posted,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500225881,80230397,Bin 800,12,134.0,,134
 59970,2026-08-24,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500225899,80230431,BIN 804,0,,,4
 60006,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500225964,80230517,chênh lệch pullback-trả hàng thiếu,0,1.0,,1
 60007,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500225925,80230518,TÚI GIẤY,2,,220,220
@@ -58,7 +58,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 60015,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500225933,80230526,TÚI GIẤY,1,,100,100
 59895,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500225338,80230198,NEW CONT 432,7,75.0,,75
 59962,2026-08-24,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500225892,80230408,Bin 800,0,,,87
-59981,2026-08-24,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500225910,80230446,BIN 804,0,,,6
+59981,2026-08-24,2026-08-24,posted,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500225910,80230446,BIN 804,1,6.0,,6
 59990,2026-08-24,2026-08-24,posted,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500225947,80230494,túi totte,1,20.0,,20
 59802,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500225289,80229930,new,4,53.0,,53
 59896,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500225337,80230199,NEW CONT 432,9,92.0,,92
@@ -70,7 +70,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59983,2026-08-24,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500225912,80230448,BIN 804,0,,,20
 59898,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500225335,80230201,NEW CONT 432,7,81.0,,81
 59965,2026-08-24,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500225895,80230411,Bin 800,0,,,43
-59984,2026-08-24,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500225913,80230449,BIN 804,0,,,7
+59984,2026-08-24,2026-08-24,posted,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500225913,80230449,BIN 804,1,7.0,,7
 59991,2026-08-24,2026-08-24,posted,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500225950,80230495,túi totte,1,10.0,,10
 59804,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1062,CK VIVO,HCM,4500225292,80229932,new,4,54.0,,54
 59899,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1062,CK VIVO,HCM,4500225334,80230202,NEW CONT 432,8,84.0,,84
@@ -87,5 +87,6 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 59987,2026-08-24,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500225916,80230452,BIN 804,0,,,3
 60017,2026-08-24,2026-08-24,posted,pxk,Charles & Keith,1067,CK Crescent Mall,HCM,4500225935,80230528,TÚI GIẤY,1,,200,200
 59931,2026-08-24,2026-08-22,posted,pxk,Pedro,1125,PD VIVO,HCM,4500225821,80230314,oder thêm,1,2.0,,2
+60020,2026-08-24,2026-08-24,posted,pxk,BIRKENSTOCK,5803,Birkenstock Crescent Mall,HCM,4500226002,80230594,oder khách,1,1.0,,1
 59921,2026-08-24,2026-08-20,posted,pxk,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500225392,80229962,TIKI,1,12.0,,12
 59788,2026-08-24,2026-08-22,posted,pxk,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500225248,80230262,TIKI,9,122.0,,122
