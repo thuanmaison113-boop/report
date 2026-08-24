@@ -1,18 +1,14 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
-1156,Pedro HN Centre,Pedro,tỉnh,2,8.0,,,,-,process,1000512945,2026-08-13,2026-08-24,,-
-PD 9904,ECOM LIVESTREAM,Pedro,HCM,2,26.0,,,,-,process,80229482,2026-08-17,2026-08-17,,-
-5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,3,22.0,,,,-,process,1000513934,2026-08-18,2026-08-24,,-
-5805,Birkens Gold Coast NT,BIRKENSTOCK,tỉnh,3,11.0,,,,-,process,1000513967,2026-08-18,2026-08-21,,-
-5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,tỉnh,2,16.0,,,,-,process,1000514138,2026-08-18,2026-08-24,,-
-5809,Birkenstock Đà Nẵng,BIRKENSTOCK,tỉnh,1,3.0,,,,-,process,1000514172,2026-08-19,2026-08-22,,-
-1137,PD VŨNG TÀU,Pedro,tỉnh,3,54.0,,,,-,process,1000515047,2026-08-20,2026-08-22,,-
-1139,PD CẦN THƠ,Pedro,tỉnh,8,111.0,,,,-,process,1000515049,2026-08-20,2026-08-24,,-
-1139,PD CẦN THƠ,Pedro,tỉnh,2,,,334,,PD-SALEBAG-S,process,1000515048,2026-08-20,2026-08-24,,-
-1144,PD DN VINCOM,Pedro,tỉnh,9,127.0,,,,-,Pending,1000515124,2026-08-20,,,-
-1153,PD HUẾ,Pedro,tỉnh,5,107.0,,,,-,Pending,1000515150,2026-08-20,,,-
-1146,PD DN LÊ DUẨN,Pedro,tỉnh,2,33.0,,,,-,Pending,1000515248,2026-08-20,,,-
-1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,tỉnh,0,105.0,,,,-,Pending,1000515481,2026-08-21,,,-
-1143,PD BIÊN HÒA,Pedro,tỉnh,5,68.0,,,,-,process,1000515484,2026-08-21,2026-08-22,,-
-PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,0,43.0,,,,-,Pending,80230293,2026-08-22,,,-
-CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,0,335.0,,,,-,Pending,80230307,2026-08-22,,,-
-1145,PD INDO PLAZA HN,Pedro,tỉnh,0,5.0,,,,-,Pending,1000515782,2026-08-22,,,-
+1156,Pedro HN Centre,Pedro,tỉnh,2,8,,,,-,process,1000512945,2026-08-13,2026-08-24,,-
+PD 9904,ECOM LIVESTREAM,Pedro,HCM,2,26,,,,-,process,80229482,2026-08-17,2026-08-17,,-
+5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,3,22,,,,-,process,1000513934,2026-08-18,2026-08-24,,-
+5805,Birkens Gold Coast NT,BIRKENSTOCK,tỉnh,3,11,,,,-,process,1000513967,2026-08-18,2026-08-21,,-
+5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,tỉnh,2,16,,,,-,process,1000514138,2026-08-18,2026-08-24,,-
+5809,Birkenstock Đà Nẵng,BIRKENSTOCK,tỉnh,1,3,,,,-,process,1000514172,2026-08-19,2026-08-22,,-
+1144,PD DN VINCOM,Pedro,tỉnh,9,127,,,,-,Pending,1000515124,2026-08-20,,,-
+1153,PD HUẾ,Pedro,tỉnh,5,107,,,,-,Pending,1000515150,2026-08-20,,,-
+1146,PD DN LÊ DUẨN,Pedro,tỉnh,2,33,,,,-,Pending,1000515248,2026-08-20,,,-
+1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,tỉnh,0,105,,,,-,Pending,1000515481,2026-08-21,,,-
+PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,0,43,,,,-,Pending,80230293,2026-08-22,,,-
+CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,0,335,,,,-,Pending,80230307,2026-08-22,,,-
+1145,PD INDO PLAZA HN,Pedro,tỉnh,0,5,,,,-,Pending,1000515782,2026-08-22,,,-
