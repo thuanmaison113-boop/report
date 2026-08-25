@@ -1,8 +1,5 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
-1144,PD DN VINCOM,Pedro,tỉnh,9,127.0,,,,-,process,1000515124,2026-08-20,2026-08-25,,-
 1153,PD HUẾ,Pedro,tỉnh,5,107.0,,,,-,Pending,1000515150,2026-08-20,,,-
-1146,PD DN LÊ DUẨN,Pedro,tỉnh,2,33.0,,,,-,process,1000515248,2026-08-20,2026-08-25,,-
-1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,tỉnh,6,105.0,,,,-,process,1000515481,2026-08-21,2026-08-25,,-
 PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,0,43.0,,,,-,Pending,80230293,2026-08-22,,,-
 CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,0,335.0,,,,-,Pending,80230307,2026-08-22,,,-
 1145,PD INDO PLAZA HN,Pedro,tỉnh,0,5.0,,,,-,Pending,1000515782,2026-08-22,,,-
