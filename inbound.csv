@@ -1,5 +1,4 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
-1156,Pedro HN Centre,Pedro,tỉnh,2,8.0,,,,-,process,1000512945,2026-08-13,2026-08-24,,-
 PD 9904,ECOM LIVESTREAM,Pedro,HCM,2,26.0,,,,-,process,80229482,2026-08-17,2026-08-17,,-
 1144,PD DN VINCOM,Pedro,tỉnh,9,127.0,,,,-,Pending,1000515124,2026-08-20,,,-
 1153,PD HUẾ,Pedro,tỉnh,5,107.0,,,,-,Pending,1000515150,2026-08-20,,,-
@@ -8,7 +7,7 @@ PD 9904,ECOM LIVESTREAM,Pedro,HCM,2,26.0,,,,-,process,80229482,2026-08-17,2026-0
 PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,0,43.0,,,,-,Pending,80230293,2026-08-22,,,-
 CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,0,335.0,,,,-,Pending,80230307,2026-08-22,,,-
 1145,PD INDO PLAZA HN,Pedro,tỉnh,0,5.0,,,,-,Pending,1000515782,2026-08-22,,,-
-5810,Birkenstock VINCOM TDH,BIRKENSTOCK,tỉnh,0,1.0,,,,-,Pending,1000516124,2026-08-24,,,-
+5810,Birkenstock VINCOM TDH,BIRKENSTOCK,tỉnh,1,1.0,,,,-,Pending,1000516124,2026-08-24,,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,tỉnh,0,,3,,,-,Pending,1000516125,2026-08-24,,,-
 5803,Birkenstock Crescent Mall,BIRKENSTOCK,HCM,0,8.0,,,,-,process,1000516150,2026-08-24,2026-08-25,,-
 5801,Birkenstock Sài Gòn Centre,BIRKENSTOCK,HCM,0,3.0,,,,-,process,1000516160,2026-08-24,2026-08-25,,-
@@ -16,5 +15,5 @@ CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,0,335.0,,,,-,Pending
 5808,Birkenstock Vạn Hạnh,BIRKENSTOCK,HCM,0,,2,,,-,process,1000516214,2026-08-24,2026-08-25,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,0,4.0,,,,-,Pending,1000516216,2026-08-24,,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,0,,4,,,-,Pending,1000516227,2026-08-24,,,-
-PD 99M1,KHO HẬU MÃI QUẬN 8,Pedro,HCM,0,249.0,,,,-,Pending,1000516231,2026-08-24,,,-
+PD 99M1,KHO HẬU MÃI QUẬN 8,Pedro,HCM,20,249.0,,,,-,Pending,1000516231,2026-08-24,,,-
 5802,Birkenstock Vincom Đồng Khởi,BIRKENSTOCK,HCM,0,1.0,,,,-,process,1000516233,2026-08-24,2026-08-25,,-
