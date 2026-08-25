@@ -40,7 +40,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 60058,2026-08-25,2026-08-25,posted,pxk,Pedro,1158,Pedro Cresscent Mall,HCM,4500226071,80230681,BSL1,2,50.0,,50
 60081,2026-08-25,2026-08-25,posted,pxk,Pedro,1158,Pedro Cresscent Mall,HCM,4500226092,80230708,TÚI GIẤY,4,,350,350
 60083,2026-08-25,2026-08-25,posted,pxk,Pedro,1158,Pedro Cresscent Mall,HCM,4500226138,80230749,chênh lệch pullback-trao đổi DO,0,1.0,,1
-60060,2026-08-25,,post null,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500226073,80230683,BSL1,0,,,108
+60060,2026-08-25,2026-08-25,posted,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500226073,80230683,BSL1,6,108.0,,108
 60080,2026-08-25,2026-08-25,posted,pxk,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500226091,80230707,TÚI GIẤY,5,,500,500
 60021,2026-08-25,2026-08-25,posted,pxk,BIRKENSTOCK,5801,Birkenstock Sài Gòn Centre,HCM,4500226008,80230604,bs,11,114.0,,114
 60030,2026-08-25,2026-08-25,posted,pxk,BIRKENSTOCK,5801,Birkenstock Sài Gòn Centre,HCM,4500226017,80230613,TÚI GIẤY,1,,150,150
