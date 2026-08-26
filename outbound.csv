@@ -3,5 +3,6 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 60113,2026-08-26,,post null,0,Pedro,1146,PD DN LÊ DUẨN,tỉnh,4500226187,80230863,NEW 451 + 800,0,,,114
 60114,2026-08-26,,post null,0,Pedro,1153,PD HUẾ,tỉnh,4500226188,80230864,NEW 451 + 800,0,,,106
 60118,2026-08-26,,post null,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500226192,80230868,NEW 451 + 800,0,,,165
-59945,2026-08-26,,post null,0,Charles & Keith,CK D122,KHO HÀ NỘI - SÀI ĐỒNG,tỉnh,4500225824,80230946,JOB 440,0,,,1555
+60122,2026-08-26,2026-08-26,posted,0,BIRKENSTOCK,5808,Birkenstock Vạn Hạnh,HCM,4500226376,80230992,chênh lệch pullback-đẩy bù DO,0,1,,1
+59945,2026-08-26,2026-08-26,posted,0,Charles & Keith,CK D122,KHO HÀ NỘI - SÀI ĐỒNG,tỉnh,4500225824,80230946,JOB 440,4,1555,,1555
 60019,2026-08-26,,post null,0,Charles & Keith,CK D122,KHO HÀ NỘI - SÀI ĐỒNG,tỉnh,4500225822,80230846,CONT 440,0,,,1728
