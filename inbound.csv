@@ -1,7 +1,7 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,6,43.0,,,,-,Pending,80230293,2026-08-22,,,-
 CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,16,335.0,,,,-,process,80230307,2026-08-22,2026-08-26,,-
-1145,PD INDO PLAZA HN,Pedro,tỉnh,0,5.0,,,,-,Pending,1000515782,2026-08-22,,,-
+1145,PD INDO PLAZA HN,Pedro,tỉnh,1,5.0,,,,-,Pending,1000515782,2026-08-22,,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,tỉnh,1,1.0,,,,-,Pending,1000516124,2026-08-24,,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,tỉnh,0,,3,,,-,Pending,1000516125,2026-08-24,,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,2,4.0,,,,-,Pending,1000516216,2026-08-24,,,-
@@ -65,3 +65,4 @@ CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,14,,,1437,,ESSKRAFTL
 1132,PD LÊ VĂN SỸ,Pedro,HCM,3,26.0,,,,-,Pending,-,,2026-08-27,,-
 1132,PD LÊ VĂN SỸ,Pedro,HCM,1,,3,,,-,Pending,-,,2026-08-27,,-
 1142,PD TÂN PHÚ,Pedro,HCM,2,35.0,,,,-,Pending,-,,2026-08-27,,-
+1047,CK CẦN THƠ,Charles & Keith,tỉnh,7,,,,,KIỆN GIẤY CARTON,process,-,,2026-08-27,,-
