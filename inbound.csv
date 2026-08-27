@@ -1,6 +1,6 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,6,43.0,,,,-,Pending,80230293,2026-08-22,,,-
-CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,16,335.0,,,,-,Pending,80230307,2026-08-22,,,-
+CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,16,335.0,,,,-,process,80230307,2026-08-22,2026-08-26,,-
 1145,PD INDO PLAZA HN,Pedro,tỉnh,0,5.0,,,,-,Pending,1000515782,2026-08-22,,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,tỉnh,1,1.0,,,,-,Pending,1000516124,2026-08-24,,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,tỉnh,0,,3,,,-,Pending,1000516125,2026-08-24,,,-
