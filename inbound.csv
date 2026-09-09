@@ -1,6 +1,5 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 CV 99M2,TIKI,CONVERSE,HCM,0,1.0,,,,-,Pending,1000517962,2026-08-28,,,-
-CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,1,,,25,,-,Pending,80231734,2026-09-03,,,-
 1049,CK BÌNH DƯƠNG,Charles & Keith,HCM,1,,13,,,taras,process,1000519940,2026-09-07,2026-09-08,,-
 1049,CK BÌNH DƯƠNG,Charles & Keith,HCM,1,4.0,,,,defect - nhập xong để riêng,process,1000519941,2026-09-07,2026-09-08,,-
 1049,CK BÌNH DƯƠNG,Charles & Keith,HCM,108,1695.0,,,,CK2 - CK6,process,1000519947,2026-09-07,2026-09-08,,-
