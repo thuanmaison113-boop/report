@@ -16,7 +16,6 @@ EC D119,KHO NVL Q7,MULTI,HCM,0,75.0,,,,-,Pending,80232375,2026-09-08,,,-
 5802,Birkenstock Vincom Đồng Khởi,BIRKENSTOCK,HCM,1,6.0,,,,-,process,1000520126,2026-09-08,2026-09-09,,-
 5808,Birkenstock Vạn Hạnh,BIRKENSTOCK,HCM,1,7.0,,,,-,process,1000520172,2026-09-08,2026-09-09,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,1,3.0,,,,-,Pending,1000520215,2026-09-08,,,-
-CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,0,15.0,,,,-,Pending,80232664,2026-09-09,,,-
 5805,Birkens Gold Coast NT,BIRKENSTOCK,tỉnh,0,13.0,,,,-,Pending,1000520466,2026-09-09,,,-
 1152,PD PARC MALL Q8,Pedro,HCM,1,1.0,,,,KCL,process,1000520611,2026-09-09,2026-09-10,,-
 1152,PD PARC MALL Q8,Pedro,HCM,1,,3,,,-,process,1000520618,2026-09-09,2026-09-10,,-
@@ -32,13 +31,14 @@ CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,0,15.0,,,,-,Pending,
 1151,PD QUANG TRUNG,Pedro,HCM,1,,2,,,-,process,1000520930,2026-09-10,2026-09-10,,-
 1152,PD PARC MALL Q8,Pedro,HCM,8,119.0,,,,-,process,1000520933,2026-09-10,2026-09-10,,-
 1136,PD HAI BÀ TRƯNG,Pedro,HCM,6,100.0,,,,-,process,1000520969,2026-09-10,2026-09-10,,-
-1141,PD BÌNH DƯƠNG,Pedro,tỉnh,0,453.0,,,,-,process,1000520971,2026-09-10,2026-09-10,,-
-1141,PD BÌNH DƯƠNG,Pedro,tỉnh,0,8.0,,,,-,process,1000520970,2026-09-10,2026-09-10,,-
+1141,PD BÌNH DƯƠNG,Pedro,tỉnh,37,453.0,,,,-,process,1000520971,2026-09-10,2026-09-10,,-
+1141,PD BÌNH DƯƠNG,Pedro,tỉnh,1,8.0,,,,KCL,process,1000520970,2026-09-10,2026-09-10,,-
 1122,PD ĐỒNG KHỞI,Pedro,HCM,6,109.0,,,,-,process,1000520973,2026-09-10,2026-09-10,,-
 1122,PD ĐỒNG KHỞI,Pedro,HCM,1,5.0,,,,KCL,process,1000520974,2026-09-10,2026-09-10,,-
 1125,PD VIVO,Pedro,HCM,11,147.0,,,,-,process,1000520975,2026-09-10,2026-09-10,,-
 1150,PD NGUYỄN TRÃI FLAGSHIP,Pedro,HCM,10,193.0,,,,-,process,1000520976,2026-09-10,2026-09-10,,-
-1158,Pedro Cresscent Mall,Pedro,HCM,0,127.0,,,,-,process,1000520977,2026-09-10,2026-09-10,,-
+1158,Pedro Cresscent Mall,Pedro,HCM,12,127.0,,,,-,process,1000520977,2026-09-10,2026-09-10,,-
 1129,PD SÀI GÒN,Pedro,HCM,8,126.0,,,,-,Pending,-,,2026-09-10,,-
 1130,PD THẢO ĐIỀN,Pedro,HCM,10,173.0,,,,-,Pending,-,,2026-09-10,,-
 1142,PD TÂN PHÚ,Pedro,HCM,11,164.0,,,,-,Pending,-,,2026-09-10,,-
+1157,PD BÌNH TÂN,Pedro,HCM,10,136.0,,,,-,Pending,-,,2026-09-10,,-
