@@ -1,6 +1,5 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 CV 99M2,TIKI,CONVERSE,HCM,0,1.0,,,,-,Pending,1000517962,2026-08-28,,,-
-1049,CK BÌNH DƯƠNG,Charles & Keith,HCM,1,,13,,,taras,process,1000519940,2026-09-07,2026-09-08,,-
 1049,CK BÌNH DƯƠNG,Charles & Keith,HCM,1,4.0,,,,defect - nhập xong để riêng,process,1000519941,2026-09-07,2026-09-08,,-
 1049,CK BÌNH DƯƠNG,Charles & Keith,HCM,9,,,1023,,túi giấy,process,1000519945,2026-09-07,2026-09-08,,-
 EC D119,KHO NVL Q7,MULTI,HCM,0,100.0,,,,-,Pending,80232373,2026-09-08,,,-
@@ -70,3 +69,8 @@ PD 99M2,TIKI,Pedro,HCM,0,76.0,,,,-,Pending,1000521180,2026-09-10,,,-
 1047,CK CẦN THƠ,Charles & Keith,tỉnh,0,81.0,,,,-,Pending,1000521537,2026-09-10,,,-
 1059,CK HÙNG VƯƠNG,Charles & Keith,HCM,5,62.0,,,,-,process,1000521546,2026-09-10,2026-09-11,,-
 1061,CK Kiên Giang,Charles & Keith,tỉnh,0,116.0,,,,-,Pending,1000521578,2026-09-10,,,-
+CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,0,342.0,,,,-,Pending,80232895,2026-09-11,,,-
+CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,0,4.0,,,,-,Pending,80233035,2026-09-11,,,-
+PD 99M3,KHO ECOM THỦ ĐỨC,Pedro,HCM,0,28.0,,,,-,process,1000521629,2026-09-11,2026-09-11,,-
+1143,PD BIÊN HÒA,Pedro,tỉnh,0,364.0,,,,-,Pending,1000521630,2026-09-11,,,-
+1146,PD DN LÊ DUẨN,Pedro,tỉnh,0,238.0,,,,-,Pending,1000521655,2026-09-11,,,-
