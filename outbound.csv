@@ -1,7 +1,7 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 60676,2026-09-14,2026-09-14,posted,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500228181,80232863,New,7.0,84.0,,84
 60689,2026-09-14,2026-09-14,posted,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500228164,80232878,800,1.0,27.0,,27
-60731,2026-09-14,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500228668,80233144,800,,,,93
+60731,2026-09-14,2026-09-14,posted,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500228668,80233144,800,9.0,93.0,,93
 60748,2026-09-14,2026-09-14,posted,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500228686,80233205,804,1.0,,,11
 60765,2026-09-14,2026-09-14,posted,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500228720,80233222,Túi Giấy,4.0,,200,200
 60677,2026-09-14,2026-09-14,posted,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500228182,80232864,New,6.0,96.0,,96
