@@ -1,8 +1,5 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 CV 99M2,TIKI,CONVERSE,HCM,0,1.0,,,,-,Pending,1000517962,2026-08-28,,,-
-EC D119,KHO NVL Q7,MULTI,HCM,5,100.0,,,,-,process,80232373,2026-09-08,2026-09-11,,-
-EC D119,KHO NVL Q7,MULTI,HCM,2,50.0,,,,-,process,80232374,2026-09-08,2026-09-11,,-
-EC D119,KHO NVL Q7,MULTI,HCM,2,75.0,,,,-,process,80232375,2026-09-08,2026-09-11,,-
 1152,PD PARC MALL Q8,Pedro,HCM,1,,3,,,-,process,1000520618,2026-09-09,2026-09-10,,-
 1151,PD QUANG TRUNG,Pedro,HCM,1,,2,,,kiểm kê 17.9,process,1000520930,2026-09-10,2026-09-10,,-
 CK 99M2,TIKI,Charles & Keith,HCM,0,21.0,,,,-,Pending,1000521011,2026-09-10,,,-
