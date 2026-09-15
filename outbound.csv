@@ -34,7 +34,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 60817,2026-09-15,2026-09-15,posted,pxk,Pedro,1158,Pedro Cresscent Mall,HCM,4500228843,80233352,TÚI GIẤY,1,,100,100
 60805,2026-09-15,2026-09-15,posted,pxk,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500228831,80233327,800 BS,6,98.0,,99
 60816,2026-09-15,2026-09-15,posted,pxk,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500228842,80233351,TÚI GIẤY,1,,100,100
-60820,2026-09-15,,post null,0,BIRKENSTOCK,BK 9900,Outlet Multibrand HCM,HCM,4500229098,80233430,maison online KOL,0,,,2
+60820,2026-09-15,2026-09-15,posted,0,BIRKENSTOCK,BK 9900,Outlet Multibrand HCM,HCM,4500229098,80233430,maison online KOL,1,2.0,,2
 59941,2026-09-15,2026-09-14,posted,dã in,Charles & Keith,CK 9902,staff sale,HCM,4500225812,80230389,staff sale 2026 CK,74,1929.0,,1929
 59942,2026-09-15,2026-09-14,posted,đã in,Charles & Keith,CK 9902,staff sale,HCM,4500225817,80230390,staff sale 2026 CK,22,253.0,,253
 59943,2026-09-15,2026-09-14,posted,đã in,Charles & Keith,CK 9902,staff sale,HCM,4500225811,80230391,staff sale 2026 CK,19,233.0,,233
