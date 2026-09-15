@@ -1,6 +1,7 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 60786,2026-09-15,,post null,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500228812,80233308,800 BS,0,,,178
 60806,2026-09-15,,post null,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500228832,80233341,TÚI GIẤY,0,,,450
+60819,2026-09-15,2026-09-15,posted,pxk,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500229022,80233396,chênh lệch pullback-trao đổi DO,0,1,,1
 60787,2026-09-15,,post null,0,Pedro,1125,PD VIVO,HCM,4500228813,80233309,800 BS,0,,,41
 60788,2026-09-15,,post null,0,Pedro,1129,PD SÀI GÒN,HCM,4500228814,80233310,800 BS,0,,,117
 60807,2026-09-15,,post null,0,Pedro,1129,PD SÀI GÒN,HCM,4500228833,80233342,TÚI GIẤY,0,,,100
