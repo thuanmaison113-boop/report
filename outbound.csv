@@ -1,4 +1,5 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
+60843,2026-09-16,2026-09-16,posted,pxk,Pedro,1143,PD BIÊN HÒA,tỉnh,4500229193,80233558,chênh lệch pullback-trao đổi DO,0,1.0,,1
 60821,2026-09-16,2026-09-16,posted,0,BIRKENSTOCK,5801,Birkenstock Sài Gòn Centre,HCM,4500229102,80233432,Hàng BS,9,101.0,,101
 60822,2026-09-16,2026-09-16,posted,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,HCM,4500229103,80233433,Hàng BS,9,89.0,,89
 60831,2026-09-16,2026-09-16,posted,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,HCM,4500229112,80233444,TÚI GIẤY,1,,150,150
@@ -12,5 +13,4 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 60824,2026-09-16,2026-09-16,posted,0,BIRKENSTOCK,5808,Birkenstock Vạn Hạnh,HCM,4500229105,80233435,Hàng BS,10,97.0,,97
 60829,2026-09-16,2026-09-16,posted,0,BIRKENSTOCK,5809,Birkenstock Đà Nẵng,tỉnh,4500229110,80233440,Hàng BS,3,23.0,,23
 60830,2026-09-16,2026-09-16,posted,0,BIRKENSTOCK,5810,Birkenstock VINCOM TDH,tỉnh,4500229111,80233441,Hàng BS,3,33.0,,33
-60777,2026-09-16,,post null,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500228807,80233268,BS,0,,,486
 60842,2026-09-16,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229159,80233546,TiKi,0,,,477
