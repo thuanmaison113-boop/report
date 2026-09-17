@@ -1,7 +1,5 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 CV 99M2,TIKI,CONVERSE,HCM,0,1.0,,,,-,Pending,1000517962,2026-08-28,,,-
-1152,PD PARC MALL Q8,Pedro,HCM,1,,3,,,-,process,1000520618,2026-09-09,2026-09-10,,-
-1151,PD QUANG TRUNG,Pedro,HCM,1,,2,,,kiểm kê 17.9,process,1000520930,2026-09-10,2026-09-10,,-
 CK 99M2,TIKI,Charles & Keith,HCM,0,21.0,,,,-,Pending,1000521011,2026-09-10,,,-
 CK 99M2,TIKI,Charles & Keith,HCM,0,5.0,,,,-,Pending,1000521095,2026-09-10,,,-
 CV 99M2,TIKI,CONVERSE,HCM,0,1.0,,,,-,Pending,1000521096,2026-09-10,,,-
@@ -21,7 +19,6 @@ NBL 99M2,TIKI,NEW BALANCE,HCM,0,2.0,,,,-,Pending,1000522234,2026-09-14,,,-
 5805,Birkens Gold Coast NT,BIRKENSTOCK,tỉnh,0,37.0,,,,-,Pending,1000522534,2026-09-15,,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,0,55.0,,,,-,Pending,1000522595,2026-09-15,,,-
 5809,Birkenstock Đà Nẵng,BIRKENSTOCK,tỉnh,0,49.0,,,,-,Pending,1000522619,2026-09-15,,,-
-5808,Birkenstock Vạn Hạnh,BIRKENSTOCK,HCM,1,,3,,,-,process,1000522637,2026-09-15,2026-09-16,,-
 5803,Birkenstock Crescent Mall,BIRKENSTOCK,HCM,6,55.0,,,,-,process,1000522725,2026-09-15,2026-09-16,,-
 5808,Birkenstock Vạn Hạnh,BIRKENSTOCK,HCM,9,71.0,,,,-,process,1000522747,2026-09-15,2026-09-16,,-
 5802,Birkenstock Vincom Đồng Khởi,BIRKENSTOCK,HCM,8,73.0,,,,-,process,1000522780,2026-09-15,2026-09-16,,-
