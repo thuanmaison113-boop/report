@@ -1,5 +1,4 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-61013,2026-09-17,,post null,0,,,,,-,-,-,0,,,0
 60867,2026-09-17,2026-09-16,posted,pxk,Charles & Keith,1051,CK SÀI GÒN,HCM,4500229210,80233593,hàng khách đặt,1,1,,1
 60845,2026-09-17,2026-09-17,posted,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500229077,80233571,NEW,7,84,,84
 60910,2026-09-17,2026-09-17,posted,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500229282,80233651,BS,4,79,,79
