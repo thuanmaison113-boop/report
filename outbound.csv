@@ -1,6 +1,7 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 60971,2026-09-18,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500229434,80233903,BS,0,,,135
 60988,2026-09-18,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500229451,80233920,804,0,,,24
+61023,2026-09-18,2026-09-18,posted,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500229553,80233990,chênh lệch pullback- trả hàng lỗi,1,1,,1
 60972,2026-09-18,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500229435,80233904,BS,0,,,125
 60989,2026-09-18,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500229452,80233921,804,0,,,9
 60973,2026-09-18,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500229436,80233905,BS,0,,,291
@@ -17,7 +18,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 60976,2026-09-18,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500229439,80233908,BS,0,,,104
 60993,2026-09-18,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500229456,80233925,804,0,,,8
 60875,2026-09-18,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500229257,80233614,NEW 800,12,129,,129
-60892,2026-09-18,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500229240,80233631,NEW 491,0,,,92
+60892,2026-09-18,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500229240,80233631,NEW 491,6,92,,92
 60977,2026-09-18,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500229440,80233909,BS,0,,,256
 60994,2026-09-18,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500229457,80233926,804,0,,,11
 61008,2026-09-18,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500229471,80233940,TÚI GIẤY,0,,,300
@@ -71,7 +72,5 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 60952,2026-09-18,,post null,0,Pedro,1158,Pedro Cresscent Mall,HCM,4500229432,80233892,NEW,0,,,73
 60953,2026-09-18,,post null,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500229433,80233893,NEW,0,,,76
 60777,2026-09-18,2026-09-16,posted,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500228807,80233268,TiKi,33,484,,486
-60931,2026-09-18,,post null,0,Charles & Keith,CK D122,KHO HÀ NỘI - SÀI ĐỒNG,tỉnh,4500229369,80233864,Hàng LC ,0,,,645
-61015,2026-09-18,,post null,0,Distribution Center,D126,KHO HÀ NỘI - SÀI ĐỒNG - TARAS,tỉnh,4500229536,80233958,-,0,,,1
 60842,2026-09-18,2026-09-17,posted,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229159,80233546,TiKi,22,473,,473
 60862,2026-09-18,2026-09-17,posted,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229094,80233588,TiKi,4,60,,60
