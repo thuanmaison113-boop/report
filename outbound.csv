@@ -1,9 +1,9 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 61024,2026-09-18,2026-09-18,posted,pxk,Charles & Keith,1000,KHO CHUNG CK,HCM,4500229563,80234004,MKT grab,1,2.0,,2
-60971,2026-09-18,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500229434,80233903,BS,0,,,135
+60971,2026-09-18,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500229434,80233903,BS,9,135.0,,135
 60988,2026-09-18,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500229451,80233920,804,2,24.0,,24
 61023,2026-09-18,2026-09-18,posted,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500229553,80233990,chênh lệch pullback- trả hàng lỗi,1,1.0,,1
-60972,2026-09-18,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500229435,80233904,BS,0,,,125
+60972,2026-09-18,2026-09-18,posted,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500229435,80233904,BS,9,124.0,,125
 60989,2026-09-18,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500229452,80233921,804,1,9.0,,9
 60973,2026-09-18,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500229436,80233905,BS,0,,,291
 60990,2026-09-18,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500229453,80233922,804,2,22.0,,22
@@ -53,7 +53,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 61004,2026-09-18,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500229467,80233936,804,1,8.0,,8
 60933,2026-09-18,2026-09-18,posted,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500229413,80233873,NEW,8,100.0,,100
 60934,2026-09-18,,post null,0,Pedro,1125,PD VIVO,HCM,4500229414,80233874,NEW,5,53.0,,53
-60935,2026-09-18,,post null,0,Pedro,1129,PD SÀI GÒN,HCM,4500229415,80233875,NEW,0,,,98
+60935,2026-09-18,,post null,0,Pedro,1129,PD SÀI GÒN,HCM,4500229415,80233875,NEW,8,98.0,,98
 60936,2026-09-18,,post null,0,Pedro,1130,PD THẢO ĐIỀN,HCM,4500229416,80233876,NEW,6,73.0,,73
 60937,2026-09-18,,post null,0,Pedro,1131,PD VẠN HẠNH,HCM,4500229417,80233877,NEW,6,71.0,,71
 60938,2026-09-18,,post null,0,Pedro,1132,PD LÊ VĂN SỸ,HCM,4500229418,80233878,NEW,6,78.0,,78
