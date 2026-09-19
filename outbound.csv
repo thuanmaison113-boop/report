@@ -1,4 +1,4 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-60950,2026-09-19,,post null,0,TEMP,99M3,KHO ECOM THỦ ĐỨC,HCM,4500229430,80233890,NEW,0,,,73
 60931,2026-09-19,,post null,0,Charles & Keith,CK D122,KHO HÀ NỘI - SÀI ĐỒNG,tỉnh,4500229369,80233864,Hàng LC ,0,,,645
-61015,2026-09-19,,post null,0,Distribution Center,D126,KHO HÀ NỘI - SÀI ĐỒNG - TARAS,tỉnh,4500229536,80233958,-,0,,,1
+61015,2026-09-19,,post null,0,Distribution Center,D126,KHO HÀ NỘI - SÀI ĐỒNG - TARAS,tỉnh,4500229536,80233958,chuyển kho D122,0,,,1
+61041,2026-09-19,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229430,80233890,TIKI,0,,,73

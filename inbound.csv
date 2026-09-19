@@ -52,7 +52,18 @@ PD 99M2,TIKI,Pedro,HCM,0,1.0,,,,-,Pending,1000523614,2026-09-17,,,-
 1146,PD DN LÊ DUẨN,Pedro,tỉnh,6,96.0,,,,-,Pending,1000523858,2026-09-17,,,-
 1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,8,83.0,,,,-,process,1000523884,2026-09-17,2026-09-18,,-
 1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,1,6.0,,,,CK BD,process,1000523885,2026-09-17,2026-09-18,,-
-1058,CK Biên Hòa,Charles & Keith,tỉnh,0,13.0,,,,kiểm kê 24.9,Pending,1000523907,2026-09-17,,,-
-1058,CK Biên Hòa,Charles & Keith,tỉnh,0,35.0,,,,kiểm kê 24.9,Pending,1000523908,2026-09-17,,,-
-1058,CK Biên Hòa,Charles & Keith,tỉnh,0,2.0,,,,kiểm kê 24.9,Pending,1000523910,2026-09-17,,,-
+1058,CK Biên Hòa,Charles & Keith,tỉnh,1,13.0,,,,CK BD,Pending,1000523907,2026-09-17,,,-
+1058,CK Biên Hòa,Charles & Keith,tỉnh,3,35.0,,,,kiểm kê 24.9,Pending,1000523908,2026-09-17,,,-
+1058,CK Biên Hòa,Charles & Keith,tỉnh,1,2.0,,,,kiểm kê 24.9,Pending,1000523910,2026-09-17,,,-
 1139,PD CẦN THƠ,Pedro,tỉnh,10,177.0,,,,-,Pending,1000523921,2026-09-17,,,-
+EC D119,KHO NVL Q7,MULTI,HCM,0,2.0,,,,-,Pending,80234042,2026-09-18,,,-
+CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,0,172.0,,,,-,Pending,80233747,2026-09-18,,,-
+CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,0,5.0,,,,-,Pending,80234011,2026-09-18,,,-
+CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,0,17.0,,,,-,Pending,80233748,2026-09-18,,,-
+CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,0,109.0,,,,-,Pending,80233954,2026-09-18,,,-
+1143,PD BIÊN HÒA,Pedro,tỉnh,3,59.0,,,,-,Pending,1000523929,2026-09-18,,,-
+1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,tỉnh,0,209.0,,,,-,Pending,1000523972,2026-09-18,,,-
+1129,PD SÀI GÒN,Pedro,HCM,0,2.0,,,,CL,Pending,1000523978,2026-09-18,,,-
+1144,PD DN VINCOM,Pedro,tỉnh,0,127.0,,,,-,Pending,1000524013,2026-09-18,,,-
+1044,CK VŨNG TÀU,Charles & Keith,tỉnh,3,39.0,,,,-,Pending,1000524051,2026-09-18,,,-
+1047,CK CẦN THƠ,Charles & Keith,tỉnh,8,92.0,,,,-,Pending,1000524058,2026-09-18,,,-
