@@ -1,19 +1,19 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-61025,2026-09-19,,post null,0,Charles & Keith,1029,CK LÊ THÁI TỔ ,tỉnh,4500229564,80234018,Đồng phục,0,,,48
-61026,2026-09-19,,post null,0,Charles & Keith,1040,CK TIME CITY HN,tỉnh,4500229565,80234019,Đồng phục,0,,,32
-61027,2026-09-19,,post null,0,Charles & Keith,1042,CK STAR CITY HN,tỉnh,4500229566,80234020,Đồng phục,0,,,40
-61028,2026-09-19,,post null,0,Charles & Keith,1043,CK AEONMALL HN,tỉnh,4500229567,80234021,Đồng phục,0,,,56
-61029,2026-09-19,,post null,0,Charles & Keith,1046,CK Hà Đông HN,tỉnh,4500229568,80234022,Đồng phục,0,,,48
-61030,2026-09-19,,post null,0,Charles & Keith,1048,CK HẢI  PHÒNG,tỉnh,4500229569,80234023,Đồng phục,0,,,32
-61031,2026-09-19,,post null,0,Charles & Keith,1053,CK VC Bà Triệu HN,tỉnh,4500229570,80234024,Đồng phục,0,,,40
-61032,2026-09-19,,post null,0,Charles & Keith,1054,CK INDOCHINA PLAZA HN,tỉnh,4500229571,80234025,Đồng phục,0,,,40
-61033,2026-09-19,,post null,0,Charles & Keith,1056,CK LOTE HT HN,tỉnh,4500229572,80234026,Đồng phục,0,,,48
-61044,2026-09-19,2026-09-19,posted,pxk,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500229613,80234061,khách đặt riêng; chiều mang qua shop,1,1,,1
-61034,2026-09-19,,post null,0,Charles & Keith,1065,CK Royal City HN,tỉnh,4500229573,80234027,Đồng phục,0,,,40
-61035,2026-09-19,,post null,0,Charles & Keith,1066,Charles & Keith HN Centre,tỉnh,4500229574,80234028,Đồng phục,0,,,40
-61042,2026-09-19,,post null,0,MULTI,4000,KHO CHUNG VẬT TƯ ECOM,HCM,4500229555,80234057,VẬT TƯ- CK LÊ THÁI TỔ,1,,,175
-61043,2026-09-19,2026-09-19,posted,pxk,BIRKENSTOCK,5807,Birkenstock Centre Hà Nội,tỉnh,4500229610,80234059,hàng bổ sung do khách đặt,1,1,,1
-61014,2026-09-19,2026-09-18,posted,pxk,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229509,80233945,TIKI,13,155,,156
-60931,2026-09-19,2026-09-19,posted,pxk,Charles & Keith,CK D122,KHO HÀ NỘI - SÀI ĐỒNG,tỉnh,4500229369,80233864,Hàng LC ,40,645,,645
-61015,2026-09-19,,post null,0,Distribution Center,D126,KHO HÀ NỘI - SÀI ĐỒNG - TARAS,tỉnh,4500229536,80233958,chuyển kho D122,0,,,1
-61041,2026-09-19,2026-09-19,posted,pxk,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229430,80233890,TIKI,7,73,,73
+61025,2026-09-19,2026-09-19,posted,pxk,Charles & Keith,1029,CK LÊ THÁI TỔ ,tỉnh,4500229564,80234018,Đồng phục,2,48.0,,48
+61026,2026-09-19,2026-09-19,posted,pxk,Charles & Keith,1040,CK TIME CITY HN,tỉnh,4500229565,80234019,Đồng phục,1,32.0,,32
+61027,2026-09-19,2026-09-19,posted,pxk,Charles & Keith,1042,CK STAR CITY HN,tỉnh,4500229566,80234020,Đồng phục,2,40.0,,40
+61028,2026-09-19,2026-09-19,posted,pxk,Charles & Keith,1043,CK AEONMALL HN,tỉnh,4500229567,80234021,Đồng phục,2,56.0,,56
+61029,2026-09-19,2026-09-19,posted,pxk,Charles & Keith,1046,CK Hà Đông HN,tỉnh,4500229568,80234022,Đồng phục,2,48.0,,48
+61030,2026-09-19,2026-09-19,posted,pxk,Charles & Keith,1048,CK HẢI  PHÒNG,tỉnh,4500229569,80234023,Đồng phục,1,32.0,,32
+61031,2026-09-19,2026-09-19,posted,pxk,Charles & Keith,1053,CK VC Bà Triệu HN,tỉnh,4500229570,80234024,Đồng phục,1,40.0,,40
+61032,2026-09-19,2026-09-19,posted,pxk,Charles & Keith,1054,CK INDOCHINA PLAZA HN,tỉnh,4500229571,80234025,Đồng phục,1,40.0,,40
+61033,2026-09-19,2026-09-19,posted,pxk,Charles & Keith,1056,CK LOTE HT HN,tỉnh,4500229572,80234026,Đồng phục,2,48.0,,48
+61044,2026-09-19,2026-09-19,posted,pxk,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500229613,80234061,khách đặt riêng; chiều mang qua shop,1,1.0,,1
+61034,2026-09-19,2026-09-19,posted,pxk,Charles & Keith,1065,CK Royal City HN,tỉnh,4500229573,80234027,Đồng phục,1,40.0,,40
+61035,2026-09-19,2026-09-19,posted,pxk,Charles & Keith,1066,Charles & Keith HN Centre,tỉnh,4500229574,80234028,Đồng phục,1,40.0,,40
+61042,2026-09-19,2026-09-19,posted,0,MULTI,4000,KHO CHUNG VẬT TƯ ECOM,HCM,4500229555,80234057,VẬT TƯ- CK LÊ THÁI TỔ,1,,,175
+61043,2026-09-19,2026-09-19,posted,pxk,BIRKENSTOCK,5807,Birkenstock Centre Hà Nội,tỉnh,4500229610,80234059,hàng bổ sung do khách đặt,1,1.0,,1
+61014,2026-09-19,2026-09-18,posted,pxk,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229509,80233945,TIKI,13,155.0,,156
+60931,2026-09-19,2026-09-19,posted,pxk,Charles & Keith,CK D122,KHO HÀ NỘI - SÀI ĐỒNG,tỉnh,4500229369,80233864,Hàng LC ,40,645.0,,645
+61015,2026-09-19,2026-09-19,posted,pxk,Distribution Center,D126,KHO HÀ NỘI - SÀI ĐỒNG - TARAS,tỉnh,4500229536,80233958,chuyển kho D122,1,1.0,,1
+61041,2026-09-19,2026-09-19,posted,pxk,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229430,80233890,TIKI,7,73.0,,73
