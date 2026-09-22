@@ -1,1 +1,10 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
+61106,2026-09-22,,post null,0,BIRKENSTOCK,BK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229821,80234216,ecom,0,1,,1
+61112,2026-09-22,,post null,0,BIRKENSTOCK,BK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229632,80234091,ecom,0,6,,6
+61104,2026-09-22,,post null,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229819,80234214,ecom,0,4,,4
+61107,2026-09-22,,post null,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229738,80234209,ecom,0,26,,26
+61109,2026-09-22,,post null,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229629,80234088,ecom,0,20,,20
+61111,2026-09-22,,post null,0,CONVERSE,CV 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229631,80234090,ecom,0,1,,1
+61105,2026-09-22,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229820,80234215,ecom,0,4,,4
+61108,2026-09-22,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229739,80234210,ecom,0,7,,7
+61110,2026-09-22,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229630,80234089,ecom,0,8,,8
