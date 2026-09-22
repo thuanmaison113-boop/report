@@ -1,5 +1,4 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-61181,2026-09-22,2026-09-22,posted,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500229925,80234316,MKT grab tặng ngoại giao,1,1.0,,1
 61114,2026-09-22,2026-09-22,posted,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500229839,80234237,HÀNG BSL1,10,178.0,,184
 61134,2026-09-22,2026-09-22,posted,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500229859,80234257,TÚI GIẤY,4,,350,350
 61167,2026-09-22,2026-09-22,posted,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500229905,80234298,Bs,2,20.0,,20
