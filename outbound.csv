@@ -1,5 +1,9 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 61181,2026-09-23,,post null,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500229925,80234316,MKT grab tặng ngoại giao,1,,,1
+61206,2026-09-23,,post null,0,Pedro,1144,PD DN VINCOM,tỉnh,4500229986,80234471,-,0,,,73
+61207,2026-09-23,,post null,0,Pedro,1146,PD DN LÊ DUẨN,tỉnh,4500229987,80234472,-,0,,,28
+61208,2026-09-23,,post null,0,Pedro,1153,PD HUẾ,tỉnh,4500229988,80234473,-,0,,,28
+61212,2026-09-23,,post null,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500229992,80234477,-,0,,,77
 61154,2026-09-23,,post null,0,BIRKENSTOCK,5801,Birkenstock Sài Gòn Centre,HCM,4500229892,80234284,Bổ sung,9,97,,97
 61163,2026-09-23,,post null,0,BIRKENSTOCK,5801,Birkenstock Sài Gòn Centre,HCM,4500229901,80234294,Túi giấy,0,,,150
 61155,2026-09-23,,post null,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,HCM,4500229893,80234285,Bổ sung,0,,,94
@@ -13,5 +17,5 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 61161,2026-09-23,,post null,0,BIRKENSTOCK,5809,Birkenstock Đà Nẵng,tỉnh,4500229899,80234292,Bổ sung,0,,,61
 61162,2026-09-23,,post null,0,BIRKENSTOCK,5810,Birkenstock VINCOM TDH,tỉnh,4500229900,80234293,Bổ sung,2,21,,21
 61103,2026-09-23,2026-09-22,posted,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229831,80234223,TIKI ,21,338,,339
-61153,2026-09-23,,post null,0,Distribution Center,D122,KHO HÀ NỘI - SÀI ĐỒNG,HCM,4500229891,80234282,NEW 500,0,,,2
+61190,2026-09-23,,post null,0,Charles & Keith,CK D122,KHO HÀ NỘI - SÀI ĐỒNG,tỉnh,4500229891,80234282,NEW 500,0,,,2
 61182,2026-09-23,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500229917,80234310,TIKI,0,,,10
