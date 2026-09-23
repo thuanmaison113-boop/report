@@ -1,5 +1,5 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-61181,2026-09-23,,post null,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500229925,80234316,MKT grab tặng ngoại giao,1,,,1
+61181,2026-09-23,2026-09-23,posted,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500229925,80234316,MKT grab tặng ngoại giao,1,,,1
 61228,2026-09-23,2026-09-23,posted,0,Pedro,1144,PD DN VINCOM,tỉnh,4500230008,80234493,NEW 800,4,51,,51
 61229,2026-09-23,2026-09-23,posted,0,Pedro,1146,PD DN LÊ DUẨN,tỉnh,4500230009,80234494,NEW 800,3,40,,40
 61230,2026-09-23,2026-09-23,posted,0,Pedro,1153,PD HUẾ,tỉnh,4500230010,80234495,NEW 800,3,38,,38
