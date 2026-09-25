@@ -24,7 +24,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 61369,2026-09-25,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500230499,80234730,804,0,,,10
 61394,2026-09-25,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500230531,80234772,Đồng Phục,0,,,48
 61395,2026-09-25,,post null,0,Charles & Keith,1045,CK ĐÀ NẴNG LÊ DUẪN,tỉnh,4500230532,80234773,Đồng Phục,0,,,32
-61276,2026-09-25,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500230223,80234615,NEW LIST1,0,,,225
+61276,2026-09-25,2026-09-25,posted,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500230223,80234615,NEW LIST1,19,225,,225
 61294,2026-09-25,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500230240,80234632,NEW LIST 2,0,,,18
 61353,2026-09-25,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500230440,80234712,BS,0,,,179
 61370,2026-09-25,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500230500,80234731,804,0,,,8
@@ -41,32 +41,32 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 61373,2026-09-25,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500230503,80234734,804,0,,,1
 61399,2026-09-25,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500230536,80234777,Đồng Phục,0,,,40
 61400,2026-09-25,,post null,0,Charles & Keith,1057,CK VINCOM DN,tỉnh,4500230538,80234778,Đồng Phục,0,,,56
-61277,2026-09-25,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500230227,80234616,NEW LIST1,0,,,146
+61277,2026-09-25,2026-09-25,posted,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500230227,80234616,NEW LIST1,11,146,,146
 61295,2026-09-25,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500230244,80234633,NEW LIST 2,0,,,14
 61310,2026-09-25,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500230253,80234649,804,0,,,6
 61357,2026-09-25,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500230444,80234716,BS,0,,,56
 61374,2026-09-25,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500230504,80234735,804,0,,,4
 61388,2026-09-25,,post null,0,Charles & Keith,1058,CK Biên Hòa,tỉnh,4500230525,80234766,Đồng Phục,0,,,104
-61358,2026-09-25,,post null,0,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500230445,80234717,BS,0,,,44
+61358,2026-09-25,2026-09-25,posted,0,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500230445,80234717,BS,3,44,,44
 61375,2026-09-25,,post null,0,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500230505,80234736,804,0,,,4
 61401,2026-09-25,,post null,0,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500230539,80234779,Đồng Phục,0,,,40
-61359,2026-09-25,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500230446,80234718,BS,0,,,53
+61359,2026-09-25,2026-09-25,posted,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500230446,80234718,BS,4,53,,53
 61376,2026-09-25,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500230506,80234737,804,0,,,36
 61402,2026-09-25,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500230540,80234780,Đồng Phục,0,,,48
 61278,2026-09-25,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500230230,80234617,NEW LIST1,12,150,,150
 61296,2026-09-25,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500230247,80234634,NEW LIST 2,0,,,14
 61311,2026-09-25,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500230256,80234650,804,0,,,4
-61360,2026-09-25,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500230447,80234719,BS,0,,,32
+61360,2026-09-25,2026-09-25,posted,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500230447,80234719,BS,2,32,,32
 61377,2026-09-25,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500230507,80234738,804,0,,,2
 61403,2026-09-25,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500230541,80234781,Đồng Phục,0,,,40
 61361,2026-09-25,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500230448,80234720,BS,0,,,73
 61378,2026-09-25,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500230508,80234739,804,0,,,13
 61404,2026-09-25,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500230542,80234782,Đồng Phục,0,,,48
-61362,2026-09-25,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500230449,80234721,BS,0,,,42
+61362,2026-09-25,2026-09-25,posted,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500230449,80234721,BS,3,42,,42
 61379,2026-09-25,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500230509,80234740,804,0,,,9
 61405,2026-09-25,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500230543,80234783,Đồng Phục,0,,,46
 61406,2026-09-25,,post null,0,Charles & Keith,1064,CK AEON HUẾ,tỉnh,4500230544,80234784,Đồng Phục,0,,,48
-61363,2026-09-25,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500230450,80234722,BS,0,,,77
+61363,2026-09-25,2026-09-25,posted,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500230450,80234722,BS,5,77,,77
 61380,2026-09-25,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500230510,80234741,804,0,,,7
 61387,2026-09-25,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500230556,80234748,TÚI GIẤY,0,,,200
 61407,2026-09-25,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500230545,80234785,Đồng Phục,0,,,48
