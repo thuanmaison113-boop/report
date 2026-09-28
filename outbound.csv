@@ -30,6 +30,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 61479,2026-09-28,2026-09-28,posted,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500230936,80235269,BS L1,12,194.0,,194
 61496,2026-09-28,2026-09-28,posted,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500230953,80235314,804,1,2.0,,2
 61513,2026-09-28,2026-09-28,posted,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500230971,80235331,TÚI GIẤY,4,,200,200
+61526,2026-09-28,2026-09-28,posted,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500231027,80235361,chênh lệch pullback- trao đổi DO,0,1.0,,1
 61480,2026-09-28,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500230937,80235270,BS L1,0,,,60
 61497,2026-09-28,2026-09-28,posted,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500230954,80235315,804,1,10.0,,10
 61514,2026-09-28,2026-09-28,posted,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500230972,80235332,TÚI GIẤY,2,,300,300
@@ -67,7 +68,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 61487,2026-09-28,2026-09-28,posted,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500230944,80235277,BS L1,5,110.0,,110
 61504,2026-09-28,2026-09-28,posted,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500230961,80235322,804,1,10.0,,10
 61522,2026-09-28,2026-09-28,posted,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500231020,80235358,khách đặt- grab,1,1.0,,1
-61488,2026-09-28,,post null,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500230945,80235278,BS L1,0,,,62
+61488,2026-09-28,2026-09-28,posted,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500230945,80235278,BS L1,4,62.0,,62
 61505,2026-09-28,2026-09-28,posted,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500230962,80235323,804,1,3.0,,3
 61517,2026-09-28,2026-09-28,posted,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500230975,80235335,TÚI GIẤY,2,,200,200
 61289,2026-09-28,2026-09-28,posted,0,Charles & Keith,1062,CK VIVO,HCM,4500230231,80234628,NEW LIST1,13,166.0,,166
@@ -87,6 +88,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 61491,2026-09-28,2026-09-28,posted,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500230948,80235281,BS L1,6,77.0,,80
 61508,2026-09-28,2026-09-28,posted,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500230965,80235326,804,1,4.0,,4
 61520,2026-09-28,2026-09-28,posted,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500230992,80235352,chênh lệch pullback-trao đổi DO,0,1.0,,1
+61527,2026-09-28,2026-09-28,posted,0,Pedro,1100,KHO CHUNG PD,HCM,4500230993,80235363,trừ tồn mkt mượn ,0,4.0,,4
 61525,2026-09-28,2026-09-28,posted,0,Pedro,1129,PD SÀI GÒN,HCM,4500231023,80235360,chênh lệch pullback- trao đổi DO,0,1.0,,1
 61470,2026-09-28,2026-09-28,posted,0,Pedro,1132,PD LÊ VĂN SỸ,HCM,4500230871,80235234,GWP,1,8.0,,8
 61471,2026-09-28,2026-09-28,posted,0,Pedro,1136,PD HAI BÀ TRƯNG,HCM,4500230872,80235235,GWP,1,7.0,,7
