@@ -83,6 +83,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 61318,2026-09-28,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500230259,80234657,804,0,,,4
 61491,2026-09-28,2026-09-28,posted,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500230948,80235281,BS L1,6,77.0,,80
 61508,2026-09-28,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500230965,80235326,804,0,,,4
+61520,2026-09-28,2026-09-28,posted,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500230992,80235352,chênh lệch pullback-trao đổi DO,0,1.0,,1
 61470,2026-09-28,2026-09-28,posted,0,Pedro,1132,PD LÊ VĂN SỸ,HCM,4500230871,80235234,GWP,1,8.0,,8
 61471,2026-09-28,2026-09-28,posted,0,Pedro,1136,PD HAI BÀ TRƯNG,HCM,4500230872,80235235,GWP,1,7.0,,7
 61473,2026-09-28,2026-09-28,posted,0,Pedro,1137,PD VŨNG TÀU,tỉnh,4500230874,80235237,GWP,1,5.0,,5
