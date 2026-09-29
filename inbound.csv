@@ -32,17 +32,22 @@ ONR 9922,OUTLET TÂN PHÚ,ON RUNNING,HCM,10,111.0,,,,chốt số đóng shop,pro
 1143,PD BIÊN HÒA,Pedro,tỉnh,12,128.0,,,,-,process,1000526288,2026-09-25,2026-09-26,,-
 1061,CK Kiên Giang,Charles & Keith,tỉnh,5,56.0,,,,-,process,1000526345,2026-09-25,2026-09-28,,-
 1047,CK CẦN THƠ,Charles & Keith,tỉnh,12,117.0,,,,-,process,1000526393,2026-09-25,2026-09-28,,-
-1129,PD SÀI GÒN,Pedro,HCM,0,1.0,,,,-,Pending,1000526463,2026-09-26,,,-
+1129,PD SÀI GÒN,Pedro,HCM,0,1.0,,,,CL,Pending,1000526463,2026-09-26,,,-
 CK 99M3,KHO ECOM THỦ ĐỨC,Charles & Keith,HCM,0,1.0,,,,QC,process,1000526476,2026-09-26,2026-09-28,,-
-1130,PD THẢO ĐIỀN,Pedro,HCM,0,1.0,,,,-,Pending,1000526787,2026-09-27,,,-
+1130,PD THẢO ĐIỀN,Pedro,HCM,0,1.0,,,,CL,Pending,1000526787,2026-09-27,,,-
 PD 99M2,TIKI,Pedro,HCM,0,6.0,,,,-,Pending,1000526860,2026-09-27,,,-
 PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,0,72.0,,,,-,Pending,80235232,2026-09-28,,,-
 CK 99M2,TIKI,Charles & Keith,HCM,0,20.0,,,,-,Pending,1000526942,2026-09-28,,,-
 1151,PD QUANG TRUNG,Pedro,HCM,0,1.0,,,,CL,process,1000526962,2026-09-28,2026-09-29,,-
-1130,PD THẢO ĐIỀN,Pedro,HCM,3,247.0,,,,chốt số đóng shop-chăm sóc giày,process,1000527007,2026-09-28,2026-09-29,,close shop
-1130,PD THẢO ĐIỀN,Pedro,HCM,11,476.0,,,,chốt số đóng shop-phụ kiện,process,1000527008,2026-09-28,2026-09-29,,close shop
-1130,PD THẢO ĐIỀN,Pedro,HCM,121,835.0,,,,chốt số đóng shop-giày nam,process,1000527011,2026-09-28,2026-09-29,,close shop
-1130,PD THẢO ĐIỀN,Pedro,HCM,22,304.0,,,,chốt số đóng shop-túi nam,process,1000527010,2026-09-28,2026-09-29,,close shop
-1130,PD THẢO ĐIỀN,Pedro,HCM,62,679.0,,,,chốt số đóng shop-giày nữ,process,1000527012,2026-09-28,2026-09-29,,close shop
-1130,PD THẢO ĐIỀN,Pedro,HCM,55,596.0,,,,chốt số đóng shop-túi nữ,process,1000527016,2026-09-28,2026-09-29,,close shop
-1130,PD THẢO ĐIỀN,Pedro,HCM,12,1088.0,,,,chốt số đóng shop-túi giấy,process,1000527013,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,3,247.0,,,,đóng shop-chăm sóc giày,process,1000527007,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,11,476.0,,,,đóng shop-phụ kiện,process,1000527008,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,121,835.0,,,,đóng shop-giày nam,process,1000527011,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,22,304.0,,,,đóng shop-túi nam,process,1000527010,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,62,679.0,,,,đóng shop-giày nữ,process,1000527012,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,55,596.0,,,,đóng shop-túi nữ,process,1000527016,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,12,1088.0,,,,đóng shop-túi giấy,process,1000527013,2026-09-28,2026-09-29,,close shop
+1039,CK VẠN HẠNH,Charles & Keith,HCM,0,1.0,,,,CL,process,1000527061,2026-09-29,2026-09-29,,-
+5803,Birkenstock Crescent Mall,BIRKENSTOCK,HCM,0,7.0,,,,-,process,1000527073,2026-09-29,2026-09-30,,-
+5810,Birkenstock VINCOM TDH,BIRKENSTOCK,tỉnh,0,7.0,,,,-,Pending,1000527080,2026-09-29,,,-
+5805,Birkens Gold Coast NT,BIRKENSTOCK,tỉnh,0,22.0,,,,-,Pending,1000527110,2026-09-29,,,-
+5805,Birkens Gold Coast NT,BIRKENSTOCK,tỉnh,0,,5,,,-,Pending,1000527113,2026-09-29,,,-
