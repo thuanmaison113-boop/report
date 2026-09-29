@@ -33,7 +33,7 @@ ONR 9922,OUTLET TÂN PHÚ,ON RUNNING,HCM,10,111.0,,,,chốt số đóng shop,pro
 1047,CK CẦN THƠ,Charles & Keith,tỉnh,12,117.0,,,,-,process,1000526393,2026-09-25,2026-09-28,,-
 1129,PD SÀI GÒN,Pedro,HCM,0,1.0,,,,CL,Pending,1000526463,2026-09-26,,,-
 CK 99M3,KHO ECOM THỦ ĐỨC,Charles & Keith,HCM,0,1.0,,,,QC,process,1000526476,2026-09-26,2026-09-28,,-
-1130,PD THẢO ĐIỀN,Pedro,HCM,0,1.0,,,,CL,Pending,1000526787,2026-09-27,,,-
+1130,PD THẢO ĐIỀN,Pedro,HCM,0,1.0,,,,KCL,Pending,1000526787,2026-09-27,,,-
 PD 99M2,TIKI,Pedro,HCM,0,6.0,,,,-,Pending,1000526860,2026-09-27,,,-
 PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,0,72.0,,,,-,Pending,80235232,2026-09-28,,,-
 CK 99M2,TIKI,Charles & Keith,HCM,0,20.0,,,,-,Pending,1000526942,2026-09-28,,,-
@@ -44,7 +44,7 @@ CK 99M2,TIKI,Charles & Keith,HCM,0,20.0,,,,-,Pending,1000526942,2026-09-28,,,-
 1130,PD THẢO ĐIỀN,Pedro,HCM,22,304.0,,,,đóng shop-túi nam,process,1000527010,2026-09-28,2026-09-29,,close shop
 1130,PD THẢO ĐIỀN,Pedro,HCM,62,679.0,,,,đóng shop-giày nữ,process,1000527012,2026-09-28,2026-09-29,,close shop
 1130,PD THẢO ĐIỀN,Pedro,HCM,55,596.0,,,,đóng shop-túi nữ,process,1000527016,2026-09-28,2026-09-29,,close shop
-1130,PD THẢO ĐIỀN,Pedro,HCM,12,,,1088,,đóng shop-túi giấy,process,1000527013,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,12,,,1088,,PD-PAPERBAG-M = 52; PD-PAPERBAG-S = 411; PD-PAPERBAG-XS = 599; PD-PRGIFTBOX-M = 5; PD-WHTDUSTBAG-XS = 21,process,1000527013,2026-09-28,2026-09-29,,close shop
 1039,CK VẠN HẠNH,Charles & Keith,HCM,0,1.0,,,,CL,process,1000527061,2026-09-29,2026-09-29,,-
 5803,Birkenstock Crescent Mall,BIRKENSTOCK,HCM,0,7.0,,,,-,process,1000527073,2026-09-29,2026-09-30,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,tỉnh,0,7.0,,,,-,Pending,1000527080,2026-09-29,,,-
