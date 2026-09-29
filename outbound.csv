@@ -17,12 +17,12 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 61532,2026-09-29,,post null,0,Pedro,1125,PD VIVO,HCM,4500231049,80235376,túi giấy,0,,,50
 61533,2026-09-29,,post null,0,Pedro,1129,PD SÀI GÒN,HCM,4500231031,80235377,bs,0,,,100
 61534,2026-09-29,,post null,0,Pedro,1129,PD SÀI GÒN,HCM,4500231050,80235378,túi giấy,0,,,100
-61535,2026-09-29,,post null,0,Pedro,1131,PD VẠN HẠNH,HCM,4500231032,80235379,bs,0,,,96
+61535,2026-09-29,2026-09-29,posted,0,Pedro,1131,PD VẠN HẠNH,HCM,4500231032,80235379,bs,3,95.0,,96
 61536,2026-09-29,,post null,0,Pedro,1131,PD VẠN HẠNH,HCM,4500231052,80235380,túi giấy,0,,,100
 61537,2026-09-29,,post null,0,Pedro,1132,PD LÊ VĂN SỸ,HCM,4500231033,80235381,bs,0,,,62
 61538,2026-09-29,,post null,0,Pedro,1136,PD HAI BÀ TRƯNG,HCM,4500231034,80235382,bs,0,,,84
 61473,2026-09-29,2026-09-28,posted,0,Pedro,1137,PD VŨNG TÀU,tỉnh,4500230874,80235237,GWP,1,5.0,,5
-61539,2026-09-29,,post null,0,Pedro,1137,PD VŨNG TÀU,tỉnh,4500231038,80235383,bs,0,,,19
+61539,2026-09-29,2026-09-29,posted,0,Pedro,1137,PD VŨNG TÀU,tỉnh,4500231038,80235383,bs,1,19.0,,19
 61540,2026-09-29,,post null,0,Pedro,1137,PD VŨNG TÀU,tỉnh,4500231056,80235384,túi giấy,0,,,50
 61541,2026-09-29,,post null,0,Pedro,1139,PD CẦN THƠ,tỉnh,4500231039,80235385,bs,0,,,67
 61542,2026-09-29,,post null,0,Pedro,1139,PD CẦN THƠ,tỉnh,4500231057,80235386,túi giấy,0,,,150
@@ -49,5 +49,4 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 61562,2026-09-29,,post null,0,Pedro,1158,Pedro Cresscent Mall,HCM,4500231063,80235406,túi giấy,0,,,350
 61563,2026-09-29,,post null,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500231047,80235407,bs,0,,,55
 61564,2026-09-29,,post null,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,tỉnh,4500231061,80235408,túi giấy,0,,,150
-61528,2026-09-29,,post null,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500231080,80235411,BS L1,0,,,336
 61467,2026-09-29,2026-09-28,posted,0,Charles & Keith,CK D122,KHO HÀ NỘI - SÀI ĐỒNG,tỉnh,4500230869,80235223,MKT,5,960.0,,960
