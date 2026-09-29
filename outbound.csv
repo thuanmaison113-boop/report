@@ -1,5 +1,5 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-61480,2026-09-29,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500230937,80235270,BS L1,0,,,60
+61480,2026-09-29,2026-09-29,posted,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500230937,80235270,BS L1,0,,,60
 61497,2026-09-29,2026-09-28,posted,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500230954,80235315,804,1,10,,10
 61514,2026-09-29,2026-09-28,posted,0,Charles & Keith,1044,CK VŨNG TÀU,tỉnh,4500230972,80235332,TÚI GIẤY,2,,300,300
 61481,2026-09-29,,post null,0,Charles & Keith,1047,CK CẦN THƠ,tỉnh,4500230938,80235271,BS L1,0,,,206
