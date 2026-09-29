@@ -21,7 +21,6 @@ PD 99M2,TIKI,Pedro,HCM,0,3.0,,,,-,Pending,1000525891,2026-09-24,,,-
 1153,PD HUẾ,Pedro,tỉnh,6,98.0,,,,-,Pending,1000525946,2026-09-24,,,-
 1144,PD DN VINCOM,Pedro,tỉnh,0,116.0,,,,-,Pending,1000525980,2026-09-24,,,-
 1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,tỉnh,11,157.0,,,,-,process,1000526075,2026-09-24,2026-09-29,,-
-CV 9922,OUTLET TÂN PHÚ,CONVERSE,HCM,0,76.0,,,,-,Pending,1000526076,2026-09-24,,,-
 1139,PD CẦN THƠ,Pedro,tỉnh,0,1.0,,,,CL,Pending,1000526164,2026-09-24,,,-
 1146,PD DN LÊ DUẨN,Pedro,tỉnh,0,183.0,,,,-,Pending,1000526245,2026-09-24,,,-
 CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,6,89.0,,,,-,process,80234843,2026-09-25,2026-09-29,,-
@@ -45,7 +44,7 @@ CK 99M2,TIKI,Charles & Keith,HCM,0,20.0,,,,-,Pending,1000526942,2026-09-28,,,-
 1130,PD THẢO ĐIỀN,Pedro,HCM,22,304.0,,,,đóng shop-túi nam,process,1000527010,2026-09-28,2026-09-29,,close shop
 1130,PD THẢO ĐIỀN,Pedro,HCM,62,679.0,,,,đóng shop-giày nữ,process,1000527012,2026-09-28,2026-09-29,,close shop
 1130,PD THẢO ĐIỀN,Pedro,HCM,55,596.0,,,,đóng shop-túi nữ,process,1000527016,2026-09-28,2026-09-29,,close shop
-1130,PD THẢO ĐIỀN,Pedro,HCM,12,1088.0,,,,đóng shop-túi giấy,process,1000527013,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,12,,,1088,,đóng shop-túi giấy,process,1000527013,2026-09-28,2026-09-29,,close shop
 1039,CK VẠN HẠNH,Charles & Keith,HCM,0,1.0,,,,CL,process,1000527061,2026-09-29,2026-09-29,,-
 5803,Birkenstock Crescent Mall,BIRKENSTOCK,HCM,0,7.0,,,,-,process,1000527073,2026-09-29,2026-09-30,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,tỉnh,0,7.0,,,,-,Pending,1000527080,2026-09-29,,,-
