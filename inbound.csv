@@ -18,11 +18,9 @@ CK 99M2,TIKI,Charles & Keith,HCM,0,4.0,,,,-,Pending,1000525881,2026-09-24,,,-
 CV 99M2,TIKI,CONVERSE,HCM,0,2.0,,,,-,Pending,1000525890,2026-09-24,,,-
 PD 99M2,TIKI,Pedro,HCM,0,3.0,,,,-,Pending,1000525891,2026-09-24,,,-
 1050,CK TÂN PHÚ,Charles & Keith,HCM,9,121.0,,,,-,process,1000525892,2026-09-24,2026-09-25,,-
-1137,PD VŨNG TÀU,Pedro,tỉnh,9,154.0,,,,-,process,1000525907,2026-09-24,2026-09-26,,-
 1137,PD VŨNG TÀU,Pedro,tỉnh,1,1.0,,,,KCL,process,1000525910,2026-09-24,2026-09-26,,-
 1153,PD HUẾ,Pedro,tỉnh,6,98.0,,,,-,Pending,1000525946,2026-09-24,,,-
 1144,PD DN VINCOM,Pedro,tỉnh,0,116.0,,,,-,Pending,1000525980,2026-09-24,,,-
-1058,CK Biên Hòa,Charles & Keith,tỉnh,6,85.0,,,,-,process,1000526070,2026-09-24,2026-09-26,,-
 1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,tỉnh,11,157.0,,,,-,process,1000526075,2026-09-24,2026-09-29,,-
 CV 9922,OUTLET TÂN PHÚ,CONVERSE,HCM,0,76.0,,,,-,Pending,1000526076,2026-09-24,,,-
 1139,PD CẦN THƠ,Pedro,tỉnh,0,1.0,,,,CL,Pending,1000526164,2026-09-24,,,-
@@ -35,7 +33,6 @@ ONR 9922,OUTLET TÂN PHÚ,ON RUNNING,HCM,10,111.0,,,,chốt số đóng shop,pro
 1143,PD BIÊN HÒA,Pedro,tỉnh,12,128.0,,,,-,process,1000526288,2026-09-25,2026-09-26,,-
 1061,CK Kiên Giang,Charles & Keith,tỉnh,5,56.0,,,,-,process,1000526345,2026-09-25,2026-09-28,,-
 1047,CK CẦN THƠ,Charles & Keith,tỉnh,12,117.0,,,,-,process,1000526393,2026-09-25,2026-09-28,,-
-1044,CK VŨNG TÀU,Charles & Keith,tỉnh,15,149.0,,,,-,process,1000526385,2026-09-25,2026-09-28,,-
 1129,PD SÀI GÒN,Pedro,HCM,0,1.0,,,,-,Pending,1000526463,2026-09-26,,,-
 CK 99M3,KHO ECOM THỦ ĐỨC,Charles & Keith,HCM,0,1.0,,,,QC,process,1000526476,2026-09-26,2026-09-28,,-
 1130,PD THẢO ĐIỀN,Pedro,HCM,0,1.0,,,,-,Pending,1000526787,2026-09-27,,,-
@@ -45,10 +42,10 @@ CK 99M2,TIKI,Charles & Keith,HCM,0,20.0,,,,-,Pending,1000526942,2026-09-28,,,-
 1025,CK LÊ VĂN SỸ,Charles & Keith,HCM,0,2.0,,,,CL,process,1000526946,2026-09-28,2026-09-29,,-
 1025,CK LÊ VĂN SỸ,Charles & Keith,HCM,0,1.0,,,,CL,process,1000526961,2026-09-28,2026-09-29,,-
 1151,PD QUANG TRUNG,Pedro,HCM,0,1.0,,,,CL,Pending,1000526962,2026-09-28,,,-
-1130,PD THẢO ĐIỀN,Pedro,HCM,3,247.0,,,,chăm sóc giày,process,1000527007,2026-09-28,2026-09-29,,close shop
-1130,PD THẢO ĐIỀN,Pedro,HCM,11,476.0,,,,phụ kiện,process,1000527008,2026-09-28,2026-09-29,,close shop
-1130,PD THẢO ĐIỀN,Pedro,HCM,121,835.0,,,,giày nam,process,1000527011,2026-09-28,2026-09-29,,close shop
-1130,PD THẢO ĐIỀN,Pedro,HCM,22,304.0,,,,túi nam,process,1000527010,2026-09-28,2026-09-29,,close shop
-1130,PD THẢO ĐIỀN,Pedro,HCM,62,679.0,,,,giày nữ,process,1000527012,2026-09-28,2026-09-29,,close shop
-1130,PD THẢO ĐIỀN,Pedro,HCM,55,596.0,,,,túi nữ,process,1000527016,2026-09-28,2026-09-29,,close shop
-1130,PD THẢO ĐIỀN,Pedro,HCM,12,1088.0,,,,túi giấy,process,1000527013,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,3,247.0,,,,chốt số đóng shop-chăm sóc giày,process,1000527007,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,11,476.0,,,,chốt số đóng shop-phụ kiện,process,1000527008,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,121,835.0,,,,chốt số đóng shop-giày nam,process,1000527011,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,22,304.0,,,,chốt số đóng shop-túi nam,process,1000527010,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,62,679.0,,,,chốt số đóng shop-giày nữ,process,1000527012,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,55,596.0,,,,chốt số đóng shop-túi nữ,process,1000527016,2026-09-28,2026-09-29,,close shop
+1130,PD THẢO ĐIỀN,Pedro,HCM,12,1088.0,,,,chốt số đóng shop-túi giấy,process,1000527013,2026-09-28,2026-09-29,,close shop
