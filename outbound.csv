@@ -2,7 +2,8 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 61586,2026-09-30,,post null,0,BIRKENSTOCK,5801,Birkenstock Sài Gòn Centre,HCM,4500231164,80235539,Hàng BS,0,,,75
 61577,2026-09-30,,post null,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,HCM,4500231165,80235500,Hàng BS,0,,,54
 61594,2026-09-30,,post null,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,HCM,4500231190,80235702,Hàng BS thêm,0,,,1
-61596,2026-09-30,2026-09-30,posted,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,HCM,4500231315,80235729,Hàng BS thêm,1,1,,1
+61596,2026-09-30,2026-09-30,posted,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,HCM,4500231315,80235729,khách đặt -book grab,1,1,,1
+61601,2026-09-30,2026-09-30,posted,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,HCM,4500231321,80235756,khách đặt -book grab,1,1,,1
 61578,2026-09-30,,post null,0,BIRKENSTOCK,5803,Birkenstock Crescent Mall,HCM,4500231166,80235501,Hàng BS,0,,,32
 61581,2026-09-30,,post null,0,BIRKENSTOCK,5805,Birkens Gold Coast NT,tỉnh,4500231169,80235504,Hàng BS,0,,,44
 61582,2026-09-30,,post null,0,BIRKENSTOCK,5806,Birkenstock Lotte Tây Hồ,tỉnh,4500231170,80235505,Hàng BS,0,,,35
