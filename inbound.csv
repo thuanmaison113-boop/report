@@ -33,7 +33,6 @@ CK 99M2,TIKI,Charles & Keith,HCM,0,20.0,,,,-,Pending,1000526942,2026-09-28,,,-
 1151,PD QUANG TRUNG,Pedro,HCM,0,1.0,,,,CL,process,1000526962,2026-09-28,2026-09-29,,-
 1130,PD THẢO ĐIỀN,Pedro,HCM,3,247.0,,,,đóng shop-chăm sóc giày,process,1000527007,2026-09-28,2026-09-29,,close shop
 1130,PD THẢO ĐIỀN,Pedro,HCM,11,476.0,,,,đóng shop-phụ kiện,process,1000527008,2026-09-28,2026-09-29,,close shop
-1130,PD THẢO ĐIỀN,Pedro,HCM,121,835.0,,,,đóng shop-giày nam,process,1000527011,2026-09-28,2026-09-29,,close shop
 1130,PD THẢO ĐIỀN,Pedro,HCM,22,304.0,,,,đóng shop-túi nam,process,1000527010,2026-09-28,2026-09-29,,close shop
 1130,PD THẢO ĐIỀN,Pedro,HCM,62,679.0,,,,đóng shop-giày nữ,process,1000527012,2026-09-28,2026-09-29,,close shop
 1130,PD THẢO ĐIỀN,Pedro,HCM,55,596.0,,,,đóng shop-túi nữ,process,1000527016,2026-09-28,2026-09-29,,close shop
@@ -52,4 +51,16 @@ CK 99M2,TIKI,Charles & Keith,HCM,0,20.0,,,,-,Pending,1000526942,2026-09-28,,,-
 CK 99M1,KHO HẬU MÃI QUẬN 8,Charles & Keith,HCM,0,1.0,,,,-,process,1000527414,2026-09-30,2026-09-30,,-
 PD 99M1,KHO HẬU MÃI QUẬN 8,Pedro,HCM,1,6.0,,,,-,process,1000527415,2026-09-30,2026-09-30,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,0,4.0,,,,-,Pending,1000527472,2026-09-30,,,-
-1125,PD VIVO,Pedro,HCM,0,5.0,,,,-,Pending,1000527576,2026-09-30,,,-
+1125,PD VIVO,Pedro,HCM,1,5.0,,,,KCL,process,1000527576,2026-09-30,2026-10-01,,-
+PD 99M3,KHO ECOM THỦ ĐỨC,Pedro,HCM,0,12.0,,,,-,process,1000527602,2026-09-30,2026-10-01,,-
+CK 99M3,KHO ECOM THỦ ĐỨC,Charles & Keith,HCM,0,15.0,,,,-,process,1000527604,2026-09-30,2026-10-01,,-
+BK 99M3,KHO ECOM THỦ ĐỨC,BIRKENSTOCK,HCM,0,9.0,,,,-,process,1000527605,2026-09-30,2026-10-01,,-
+CK 99M3,KHO ECOM THỦ ĐỨC,Charles & Keith,HCM,0,70.0,,,,-,process,1000527626,2026-09-30,2026-10-01,,-
+1158,Pedro Cresscent Mall,Pedro,HCM,0,50.0,,,,-,process,1000527851,2026-09-30,2026-10-01,,-
+1157,PD BÌNH TÂN,Pedro,HCM,0,117.0,,,,-,process,1000527865,2026-09-30,2026-10-01,,-
+1152,PD PARC MALL Q8,Pedro,HCM,0,1.0,,,,-,process,1000527887,2026-10-01,2026-10-01,,-
+1152,PD PARC MALL Q8,Pedro,HCM,0,85.0,,,,-,process,1000527888,2026-10-01,2026-10-01,,-
+1141,PD BÌNH DƯƠNG,Pedro,tỉnh,0,219.0,,,,-,process,1000527890,2026-10-01,2026-10-01,,-
+1151,PD QUANG TRUNG,Pedro,HCM,0,103.0,,,,-,process,1000527907,2026-10-01,2026-10-01,,-
+1122,PD ĐỒNG KHỞI,Pedro,HCM,11,155.0,,,,-,Pending,-,,2026-10-01,,-
+1125,PD VIVO,Pedro,HCM,11,126.0,,,,-,Pending,-,,2026-10-01,,-
