@@ -1,4 +1,7 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
+57480,2026-10-02,2026-10-02,posted,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500217339,80222662,defect claim-taras 04-2026,2,60.0,,60
+57933,2026-10-02,2026-10-02,posted,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500219228,80224246,defect claim-taras 05-2026,3,82.0,,82
+59449,2026-10-02,2026-10-02,posted,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500223892,80228689,defect claim-taras 06-2026,2,49.0,,0
 61742,2026-10-02,2026-10-02,posted,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500231814,80236104,VMR kho Sài Đồng,13,456.0,,456
 61745,2026-10-02,2026-10-02,posted,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500231808,80236116,VMR chuyển D122,13,500.0,,500
 61746,2026-10-02,2026-10-02,posted,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500231805,80236117,VMR thanh hoá chuyển D122,1,20.0,,20
