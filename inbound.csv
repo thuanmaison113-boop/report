@@ -18,13 +18,13 @@ PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,5,72.0,,,,-,process,80235232,2
 CK 99M2,TIKI,Charles & Keith,HCM,0,20.0,,,,-,Pending,1000526942,2026-09-28,,,-
 1130,PD THẢO ĐIỀN,Pedro,HCM,3,247.0,,,,đóng shop-chăm sóc giày,process,1000527007,2026-09-28,2026-09-29,,close shop
 1130,PD THẢO ĐIỀN,Pedro,HCM,12,,,1088,,PD-PAPERBAG-M = 52; PD-PAPERBAG-S = 411; PD-PAPERBAG-XS = 599; PD-PRGIFTBOX-M = 5; PD-WHTDUSTBAG-XS = 21,process,1000527013,2026-09-28,2026-09-29,,close shop
-5810,Birkenstock VINCOM TDH,BIRKENSTOCK,tỉnh,0,7.0,,,,-,Pending,1000527080,2026-09-29,,,-
-5805,Birkens Gold Coast NT,BIRKENSTOCK,tỉnh,0,22.0,,,,-,Pending,1000527110,2026-09-29,,,-
-5805,Birkens Gold Coast NT,BIRKENSTOCK,tỉnh,0,,5,,,-,Pending,1000527113,2026-09-29,,,-
+5810,Birkenstock VINCOM TDH,BIRKENSTOCK,tỉnh,1,7.0,,,,-,Pending,1000527080,2026-09-29,,,-
+5805,Birkens Gold Coast NT,BIRKENSTOCK,tỉnh,3,22.0,,,,-,Pending,1000527110,2026-09-29,,,-
+5805,Birkens Gold Coast NT,BIRKENSTOCK,tỉnh,1,,5,,,-,Pending,1000527113,2026-09-29,,,-
 5809,Birkenstock Đà Nẵng,BIRKENSTOCK,tỉnh,0,3.0,,,,-,Pending,1000527138,2026-09-29,,,-
-5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,tỉnh,0,1.0,,,,-,Pending,1000527140,2026-09-29,,,-
+5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,tỉnh,1,1.0,,,,-,Pending,1000527140,2026-09-29,,,-
 PD 99M1,KHO HẬU MÃI QUẬN 8,Pedro,HCM,1,6.0,,,,đẩy bổ sung hàng dư,process,1000527415,2026-09-30,2026-09-30,,-
-5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,0,4.0,,,,-,Pending,1000527472,2026-09-30,,,-
+5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,1,4.0,,,,-,Pending,1000527472,2026-09-30,,,-
 1125,PD VIVO,Pedro,HCM,1,5.0,,,,KCL,process,1000527576,2026-09-30,2026-10-01,,-
 PD 99M3,KHO ECOM THỦ ĐỨC,Pedro,HCM,0,12.0,,,,-,process,1000527602,2026-09-30,2026-10-01,,-
 BK 99M3,KHO ECOM THỦ ĐỨC,BIRKENSTOCK,HCM,0,9.0,,,,-,process,1000527605,2026-09-30,2026-10-01,,-
@@ -56,7 +56,7 @@ BK 99M3,KHO ECOM THỦ ĐỨC,BIRKENSTOCK,HCM,0,9.0,,,,-,process,1000527605,2026
 1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,7,135.0,,,,-,process,1000528312,2026-10-01,2026-10-02,,-
 1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,6,77.0,,,,-,process,1000528352,2026-10-01,2026-10-02,,-
 1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,1,2.0,,,,CK BD,process,1000528353,2026-10-01,2026-10-02,,-
-1153,PD HUẾ,Pedro,tỉnh,0,159.0,,,,-,Pending,1000528357,2026-10-01,,,-
+1153,PD HUẾ,Pedro,tỉnh,8,159.0,,,,-,Pending,1000528357,2026-10-01,,,-
 PD 99M3,KHO ECOM THỦ ĐỨC,Pedro,HCM,0,10.0,,,,-,process,1000528368,2026-10-01,2026-10-01,,-
 BK 99M3,KHO ECOM THỦ ĐỨC,BIRKENSTOCK,HCM,0,2.0,,,,-,process,1000528369,2026-10-01,2026-10-01,,-
 1137,PD VŨNG TÀU,Pedro,tỉnh,0,190.0,,,,-,Pending,1000528321,2026-10-01,,,-
@@ -66,7 +66,7 @@ BK 99M3,KHO ECOM THỦ ĐỨC,BIRKENSTOCK,HCM,0,2.0,,,,-,process,1000528369,2026
 1134,PD ROYAL CITY,Pedro,tỉnh,0,19.0,,,,-,Pending,1000528404,2026-10-01,,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,1,3.0,,,,CK BD,process,1000528411,2026-10-01,2026-10-02,,-
 1051,CK SÀI GÒN,Charles & Keith,HCM,1,8.0,,,,đồng phục,process,1000528441,2026-10-01,2026-10-02,,-
-1146,PD DN LÊ DUẨN,Pedro,tỉnh,0,164.0,,,,-,Pending,1000528455,2026-10-01,,,-
+1146,PD DN LÊ DUẨN,Pedro,tỉnh,10,164.0,,,,-,Pending,1000528455,2026-10-01,,,-
 1145,PD INDO PLAZA HN,Pedro,tỉnh,0,7.0,,,,-,Pending,1000528463,2026-10-01,,,-
 1051,CK SÀI GÒN,Charles & Keith,HCM,9,110.0,,,,-,process,1000528487,2026-10-01,2026-10-02,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,9,112.0,,,,-,process,1000528494,2026-10-01,2026-10-02,,-
