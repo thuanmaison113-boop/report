@@ -1,5 +1,5 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-61742,2026-10-02,,post null,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500231814,80236104,VMR kho Sài Đồng,0,,,456
+61742,2026-10-02,,post null,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500231814,80236104,VMR kho Sài Đồng,13,456,,456
 61745,2026-10-02,2026-10-02,posted,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500231808,80236116,VMR chuyển D122,13,500,,500
 61746,2026-10-02,2026-10-02,posted,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500231805,80236117,VMR thanh hoá chuyển D122,1,20,,20
 61747,2026-10-02,2026-10-02,posted,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500231804,80236118,VMR Ecom D122,1,10,,10
@@ -49,7 +49,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 61738,2026-10-02,2026-10-02,posted,0,Charles & Keith,1061,CK Kiên Giang,tỉnh,4500231790,80236099,TÚI GIẤY,1,100,,100
 61709,2026-10-02,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500231761,80236070,BS 800,8,133,,133
 61726,2026-10-02,2026-10-02,posted,0,Charles & Keith,1062,CK VIVO,HCM,4500231778,80236087,BS 804,1,7,,7
-61710,2026-10-02,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500231762,80236071,BS 800,0,,,145
+61710,2026-10-02,2026-10-02,posted,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500231762,80236071,BS 800,10,145,,145
 61727,2026-10-02,2026-10-02,posted,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500231779,80236088,BS 804,1,2,,2
 61739,2026-10-02,2026-10-02,posted,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500231791,80236100,TÚI GIẤY,1,100,,100
 61711,2026-10-02,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500231763,80236072,BS 800,7,81,,81
