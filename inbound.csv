@@ -1,7 +1,6 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1146,PD DN LÊ DUẨN,Pedro,tỉnh,0,,1.0,,,-,process,1000521954,2026-09-12,2026-09-14,,-
 PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,7,84,,,,staff sale,process,80233985,2026-09-21,2026-09-25,,-
-1143,PD BIÊN HÒA,Pedro,tỉnh,12,128,,,,-,process,1000526288,2026-09-25,2026-09-26,,-
 1130,PD THẢO ĐIỀN,Pedro,HCM,0,1,,,,KCL,process,1000526787,2026-09-27,2026-09-29,,-
 PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,5,72,,,,staff sale,process,80235232,2026-09-28,2026-09-30,,-
 1130,PD THẢO ĐIỀN,Pedro,HCM,3,247,,,,đóng shop-chăm sóc giày,process,1000527007,2026-09-28,2026-09-29,,close shop
@@ -21,11 +20,9 @@ PD 99M1,KHO HẬU MÃI QUẬN 8,Pedro,HCM,1,6,,,,đẩy bổ sung hàng dư,proc
 1125,PD VIVO,Pedro,HCM,11,126,,,,-,process,1000528044,2026-10-01,2026-10-01,,-
 1142,PD TÂN PHÚ,Pedro,HCM,6,112,,,,-,process,1000528064,2026-10-01,2026-10-01,,-
 1153,PD HUẾ,Pedro,tỉnh,8,159,,,,-,Pending,1000528357,2026-10-01,,,-
-1137,PD VŨNG TÀU,Pedro,tỉnh,14,190,,,,-,process,1000528321,2026-10-01,2026-10-03,,-
 1134,PD ROYAL CITY,Pedro,tỉnh,0,19,,,,-,Pending,1000528404,2026-10-01,,,-
 1146,PD DN LÊ DUẨN,Pedro,tỉnh,10,164,,,,-,Pending,1000528455,2026-10-01,,,-
 1145,PD INDO PLAZA HN,Pedro,tỉnh,0,7,,,,-,Pending,1000528463,2026-10-01,,,-
 1139,PD CẦN THƠ,Pedro,tỉnh,0,138,,,,-,Pending,1000528552,2026-10-01,,,-
-1143,PD BIÊN HÒA,Pedro,tỉnh,13,166,,,,-,process,1000528608,2026-10-02,2026-10-03,,-
 1144,PD DN VINCOM,Pedro,tỉnh,0,162,,,,-,Pending,1000528615,2026-10-02,,,-
 1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,tỉnh,0,133,,,,-,Pending,1000528620,2026-10-02,,,-
