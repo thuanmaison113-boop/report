@@ -1,3 +1,5 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-61753,2026-10-03,2026-10-02,posted,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500231977,80236249,BS,10,141.0,,141
+61777,2026-10-03,,post null,0,Pedro,1100,KHO CHUNG PD,HCM,4500232011,80236320,VMR,0,,,188
+61776,2026-10-03,2026-10-03,posted,pxk,BIRKENSTOCK,5805,Birkens Gold Coast NT,tỉnh,4500232020,80236319,chênh lệch pullback-trả hàng thiếu,0,1,,1
+61753,2026-10-03,2026-10-02,posted,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500231977,80236249,BS,10,141,,141
 61660,2026-10-03,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500231595,80235910,bs,0,,,399
