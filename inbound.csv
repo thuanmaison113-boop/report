@@ -1,16 +1,11 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 CK 99M2,TIKI,Charles & Keith,HCM,0,3.0,,,,-,Pending,1000521098,2026-09-10,,,-
 1146,PD DN LÊ DUẨN,Pedro,tỉnh,0,,1,,,-,process,1000521954,2026-09-12,2026-09-14,,-
-CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,16,172.0,,,,-,process,80233747,2026-09-18,2026-09-21,,-
-CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,1,5.0,,,,-,process,80234011,2026-09-18,2026-09-21,,-
-CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,2,17.0,,,,-,process,80233748,2026-09-18,2026-09-21,,-
-CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,1,,,109,,-,process,80233954,2026-09-18,2026-09-21,,-
 PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,7,84.0,,,,-,process,80233985,2026-09-21,2026-09-25,,-
 5805,Birkens Gold Coast NT,BIRKENSTOCK,tỉnh,1,3.0,,,,-,process,1000524729,2026-09-22,2026-09-25,,-
 CK 99M2,TIKI,Charles & Keith,HCM,0,4.0,,,,-,Pending,1000525881,2026-09-24,,,-
 CV 99M2,TIKI,CONVERSE,HCM,0,2.0,,,,-,Pending,1000525890,2026-09-24,,,-
 PD 99M2,TIKI,Pedro,HCM,0,3.0,,,,-,Pending,1000525891,2026-09-24,,,-
-CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,tỉnh,6,89.0,,,,-,process,80234843,2026-09-25,2026-09-29,,-
 1143,PD BIÊN HÒA,Pedro,tỉnh,12,128.0,,,,-,process,1000526288,2026-09-25,2026-09-26,,-
 1130,PD THẢO ĐIỀN,Pedro,HCM,0,1.0,,,,KCL,process,1000526787,2026-09-27,2026-09-29,,-
 PD 99M2,TIKI,Pedro,HCM,0,6.0,,,,-,Pending,1000526860,2026-09-27,,,-
