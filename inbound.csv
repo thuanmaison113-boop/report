@@ -23,9 +23,9 @@ PD 99M1,KHO HẬU MÃI QUẬN 8,Pedro,HCM,1,6,,,,đẩy bổ sung hàng dư,proc
 1134,PD ROYAL CITY,Pedro,tỉnh,0,19,,,,-,Pending,1000528404,2026-10-01,,,-
 1146,PD DN LÊ DUẨN,Pedro,tỉnh,10,164,,,,-,Pending,1000528455,2026-10-01,,,-
 1145,PD INDO PLAZA HN,Pedro,tỉnh,0,7,,,,-,Pending,1000528463,2026-10-01,,,-
-1139,PD CẦN THƠ,Pedro,tỉnh,0,138,,,,-,Pending,1000528552,2026-10-01,,,-
+1139,PD CẦN THƠ,Pedro,tỉnh,6,138,,,,-,process,1000528552,2026-10-01,2026-10-05,,-
 1144,PD DN VINCOM,Pedro,tỉnh,0,162,,,,-,Pending,1000528615,2026-10-02,,,-
-1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,tỉnh,0,133,,,,-,Pending,1000528620,2026-10-02,,,-
+1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,tỉnh,6,133,,,,-,process,1000528620,2026-10-02,2026-10-05,,-
 1122,PD ĐỒNG KHỞI,Pedro,HCM,0,1,,,,CL,process,1000528814,2026-10-03,2026-10-05,,-
 PD 99M3,KHO ECOM THỦ ĐỨC,Pedro,HCM,0,102,,,,-,process,1000528873,2026-10-03,2026-10-05,,-
 1129,PD SÀI GÒN,Pedro,HCM,0,1,,,,CL,process,1000528944,2026-10-03,2026-10-05,,-
