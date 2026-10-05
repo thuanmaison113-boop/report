@@ -6,9 +6,9 @@ PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,tỉnh,5,72,,,,staff sale,process,802
 1130,PD THẢO ĐIỀN,Pedro,HCM,3,247,,,,đóng shop-chăm sóc giày,process,1000527007,2026-09-28,2026-09-29,,close shop
 1130,PD THẢO ĐIỀN,Pedro,HCM,12,,,1088,,PD-PAPERBAG-M = 52; PD-PAPERBAG-S = 411; PD-PAPERBAG-XS = 599; PD-PRGIFTBOX-M = 5; PD-WHTDUSTBAG-XS = 21,process,1000527013,2026-09-28,2026-09-29,,close shop
 5809,Birkenstock Đà Nẵng,BIRKENSTOCK,tỉnh,1,3,,,,-,process,1000527138,2026-09-29,2026-10-03,,-
-5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,tỉnh,1,1,,,,-,Pending,1000527140,2026-09-29,,,-
+5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,tỉnh,1,1,,,,-,process,1000527140,2026-09-29,2026-10-05,,-
 PD 99M1,KHO HẬU MÃI QUẬN 8,Pedro,HCM,1,6,,,,đẩy bổ sung hàng dư,process,1000527415,2026-09-30,2026-09-30,,-
-5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,1,4,,,,-,Pending,1000527472,2026-09-30,,,-
+5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,tỉnh,1,4,,,,-,process,1000527472,2026-09-30,2026-10-05,,-
 1125,PD VIVO,Pedro,HCM,1,5,,,,KCL,process,1000527576,2026-09-30,2026-10-01,,-
 1158,Pedro Cresscent Mall,Pedro,HCM,2,50,,,,-,process,1000527851,2026-09-30,2026-10-01,,-
 1157,PD BÌNH TÂN,Pedro,HCM,5,117,,,,-,process,1000527865,2026-09-30,2026-10-01,,-
@@ -29,3 +29,4 @@ PD 99M1,KHO HẬU MÃI QUẬN 8,Pedro,HCM,1,6,,,,đẩy bổ sung hàng dư,proc
 1122,PD ĐỒNG KHỞI,Pedro,HCM,0,1,,,,CL,process,1000528814,2026-10-03,2026-10-05,,-
 PD 99M3,KHO ECOM THỦ ĐỨC,Pedro,HCM,0,102,,,,-,process,1000528873,2026-10-03,2026-10-05,,-
 1129,PD SÀI GÒN,Pedro,HCM,0,1,,,,CL,process,1000528944,2026-10-03,2026-10-05,,-
+CK 99M2,TIKI,Charles & Keith,HCM,1,3,,,,hàng CK Tiki từ Hà nội vào,Pending,-,,2026-10-05,,-
