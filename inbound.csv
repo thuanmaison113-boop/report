@@ -1,7 +1,6 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1146,PD DN LÊ DUẨN,Pedro,tỉnh,0,,1.0,,,-,process,1000521954,2026-09-12,2026-09-14,,-
 1130,PD THẢO ĐIỀN,Pedro,HCM,0,1,,,,KCL,process,1000526787,2026-09-27,2026-09-29,,-
-1130,PD THẢO ĐIỀN,Pedro,HCM,12,,,1088,,PD-PAPERBAG-M = 52; PD-PAPERBAG-S = 411; PD-PAPERBAG-XS = 599; PD-PRGIFTBOX-M = 5; PD-WHTDUSTBAG-XS = 21,process,1000527013,2026-09-28,2026-09-29,,close shop
 1125,PD VIVO,Pedro,HCM,1,5,,,,KCL,process,1000527576,2026-09-30,2026-10-01,,-
 1158,Pedro Cresscent Mall,Pedro,HCM,2,50,,,,-,process,1000527851,2026-09-30,2026-10-01,,-
 1152,PD PARC MALL Q8,Pedro,HCM,1,1,,,,KCL,process,1000527887,2026-10-01,2026-10-01,,-
