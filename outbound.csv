@@ -1,10 +1,12 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 61873,2026-10-06,,post null,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500232286,80236638,BS,0,,,358
 61893,2026-10-06,,post null,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500232306,80236658,TÚI GIẤY,0,,,600
+61908,2026-10-06,2026-10-06,posted,pxk,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500232411,80236753,chênh lệch pullback- trao đổi DO,0,1,,1
 61874,2026-10-06,,post null,0,Pedro,1125,PD VIVO,HCM,4500232287,80236639,BS,0,,,44
 61894,2026-10-06,,post null,0,Pedro,1125,PD VIVO,HCM,4500232307,80236659,TÚI GIẤY,0,,,100
 61875,2026-10-06,,post null,0,Pedro,1129,PD SÀI GÒN,HCM,4500232288,80236640,BS,0,,,220
 61895,2026-10-06,,post null,0,Pedro,1129,PD SÀI GÒN,HCM,4500232308,80236660,TÚI GIẤY,0,,,300
+61909,2026-10-06,2026-10-06,posted,pxk,Pedro,1129,PD SÀI GÒN,HCM,4500232420,80236765,chênh lệch pullback- trao đổi DO,0,1,,1
 61877,2026-10-06,,post null,0,Pedro,1131,PD VẠN HẠNH,HCM,4500232290,80236642,BS,0,,,151
 61897,2026-10-06,,post null,0,Pedro,1131,PD VẠN HẠNH,HCM,4500232310,80236662,TÚI GIẤY,0,,,150
 61878,2026-10-06,,post null,0,Pedro,1132,PD LÊ VĂN SỸ,HCM,4500232291,80236643,BS,0,,,97
