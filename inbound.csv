@@ -12,12 +12,12 @@ shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm
 1136,PD HAI BÀ TRƯNG,Pedro,HCM,3,66,,,,-,process,1000527950,2026-10-01,2026-10-01,,-
 1125,PD VIVO,Pedro,HCM,11,126,,,,-,process,1000528044,2026-10-01,2026-10-01,,-
 1142,PD TÂN PHÚ,Pedro,HCM,6,112,,,,-,process,1000528064,2026-10-01,2026-10-01,,-
-1153,PD HUẾ,Pedro,tỉnh,8,159,,,,-,Pending,1000528357,2026-10-01,,,-
+1153,PD HUẾ,Pedro,tỉnh,8,159,,,,-,process,1000528357,2026-10-01,2026-10-06,,-
 1134,PD ROYAL CITY,Pedro,tỉnh,0,19,,,,-,Pending,1000528404,2026-10-01,,,-
-1146,PD DN LÊ DUẨN,Pedro,tỉnh,10,164,,,,-,Pending,1000528455,2026-10-01,,,-
+1146,PD DN LÊ DUẨN,Pedro,tỉnh,10,164,,,,-,process,1000528455,2026-10-01,2026-10-06,,-
 1145,PD INDO PLAZA HN,Pedro,tỉnh,0,7,,,,-,Pending,1000528463,2026-10-01,,,-
 1139,PD CẦN THƠ,Pedro,tỉnh,6,138,,,,-,process,1000528552,2026-10-01,2026-10-05,,-
-1144,PD DN VINCOM,Pedro,tỉnh,0,162,,,,-,Pending,1000528615,2026-10-02,,,-
+1144,PD DN VINCOM,Pedro,tỉnh,11,162,,,,-,process,1000528615,2026-10-02,2026-10-06,,-
 1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,tỉnh,6,133,,,,-,process,1000528620,2026-10-02,2026-10-05,,-
 1122,PD ĐỒNG KHỞI,Pedro,HCM,0,1,,,,CL,process,1000528814,2026-10-03,2026-10-05,,-
 1129,PD SÀI GÒN,Pedro,HCM,0,1,,,,CL,process,1000528944,2026-10-03,2026-10-05,,-
