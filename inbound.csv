@@ -1,5 +1,4 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
-1146,PD DN LÊ DUẨN,Pedro,province,0,,1.0,,,-,process,1000521954,2026-09-12,2026-09-14,,-
 1130,PD THẢO ĐIỀN,Pedro,HCM,0,1,,,,KCL,process,1000526787,2026-09-27,2026-09-29,,-
 1125,PD VIVO,Pedro,HCM,1,5,,,,KCL,process,1000527576,2026-09-30,2026-10-01,,-
 1152,PD PARC MALL Q8,Pedro,HCM,1,1,,,,KCL,process,1000527887,2026-10-01,2026-10-01,,-
