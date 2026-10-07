@@ -5,7 +5,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 61914,2026-10-07,2026-10-07,posted,0,Birkenstock,5802,Birkenstock Vincom Đồng Khởi,HCM,4500232477,80236780,BS,9,97.0,,97
 61924,2026-10-07,2026-10-07,posted,0,Birkenstock,5802,Birkenstock Vincom Đồng Khởi,HCM,4500232487,80236790,Túi Giấy,1,150.0,,150
 61925,2026-10-07,2026-10-07,posted,0,Birkenstock,5802,Birkenstock Vincom Đồng Khởi,HCM,4500232488,80236791,Đồng phục ,1,4.0,,4
-61915,2026-10-07,,post null,0,Birkenstock,5803,Birkenstock Crescent Mall,HCM,4500232478,80236781,BS,0,,,96
+61915,2026-10-07,2026-10-07,posted,0,Birkenstock,5803,Birkenstock Crescent Mall,HCM,4500232478,80236781,BS,10,96.0,,96
 61927,2026-10-07,2026-10-07,posted,0,Birkenstock,5803,Birkenstock Crescent Mall,HCM,4500232490,80236793,Đồng phục ,1,4.0,,4
 61918,2026-10-07,,post null,0,Birkenstock,5805,Birkens Gold Coast NT,province,4500232481,80236784,BS,0,,,101
 61940,2026-10-07,2026-10-07,posted,pxk,Birkenstock,5805,Birkens Gold Coast NT,province,4500232592,80236894,chênh lệch pullback-trả lại DO sai,0,1.0,,1
@@ -14,7 +14,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 61920,2026-10-07,2026-10-07,posted,0,Birkenstock,5807,Birkenstock Centre Hà Nội,province,4500232483,80236786,BS,8,82.0,,82
 61929,2026-10-07,2026-10-07,posted,0,Birkenstock,5807,Birkenstock Centre Hà Nội,province,4500232492,80236795,Đồng phục ,1,8.0,,8
 61916,2026-10-07,,post null,0,Birkenstock,5808,Birkenstock Vạn Hạnh,HCM,4500232479,80236782,BS,0,,,78
-61921,2026-10-07,,post null,0,Birkenstock,5809,Birkenstock Đà Nẵng,province,4500232484,80236787,BS,0,,,84
+61921,2026-10-07,2026-10-07,posted,0,Birkenstock,5809,Birkenstock Đà Nẵng,province,4500232484,80236787,BS,8,84.0,,84
 61930,2026-10-07,2026-10-07,posted,0,Birkenstock,5809,Birkenstock Đà Nẵng,province,4500232493,80236796,Đồng phục ,1,8.0,,8
 61922,2026-10-07,2026-10-07,posted,0,Birkenstock,5810,Birkenstock VINCOM TDH,province,4500232485,80236788,BS,6,57.0,,57
 61931,2026-10-07,2026-10-07,posted,0,Birkenstock,5810,Birkenstock VINCOM TDH,province,4500232494,80236797,Đồng phục ,1,9.0,,9
