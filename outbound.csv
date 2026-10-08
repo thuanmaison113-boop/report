@@ -1,5 +1,5 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-61996,2026-10-08,,post null,0,Pedro,1100,KHO CHUNG PD,HCM,4500233007,80237231,tặng ngoại giao,0,,,6
+61996,2026-10-08,2026-10-08,posted,0,Pedro,1100,KHO CHUNG PD,HCM,4500233007,80237231,tặng ngoại giao,1,6,,6
 61942,2026-10-08,2026-10-08,posted,pxk,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500232595,80236951,NEW 800,9,90,,90
 61972,2026-10-08,2026-10-08,posted,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500232811,80237082,BS D2,4,58,,58
 61943,2026-10-08,2026-10-08,posted,pxk,Pedro,1125,PD VIVO,HCM,4500232596,80236952,NEW 800,3,25,,25
