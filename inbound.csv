@@ -1,12 +1,9 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1153,PD HUẾ,Pedro,province,8,159.0,,,,-,process,1000528357,2026-10-01,2026-10-06,,-
 1134,PD ROYAL CITY,Pedro,province,0,19.0,,,,-,Pending,1000528404,2026-10-01,,,-
-1146,PD DN LÊ DUẨN,Pedro,province,10,164.0,,,,-,process,1000528455,2026-10-01,2026-10-06,,-
-1139,PD CẦN THƠ,Pedro,province,6,138.0,,,,-,process,1000528552,2026-10-01,2026-10-05,,-
 1144,PD DN VINCOM,Pedro,province,11,162.0,,,,-,process,1000528615,2026-10-02,2026-10-06,,-
-1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,province,6,133.0,,,,-,process,1000528620,2026-10-02,2026-10-05,,-
 CK 99M2,TIKI,Charles & Keith,HCM,1,3.0,,,,hàng CK Tiki từ Hà nội vào,process,-,,2026-10-05,,-
-5810,Birkenstock VINCOM TDH,Birkenstock,province,0,1.0,,,,-,Pending,1000529362,2026-10-06,,,-
+5810,Birkenstock VINCOM TDH,Birkenstock,province,1,1.0,,,,-,process,1000529362,2026-10-06,2026-10-09,,-
 5807,Birkenstock Centre Hà Nội,Birkenstock,province,0,1.0,,,,-,process,1000529679,2026-10-06,2026-10-07,,-
 5807,Birkenstock Centre Hà Nội,Birkenstock,province,0,,5,,,-,Pending,1000529725,2026-10-07,,,-
 5806,Birkenstock Lotte Tây Hồ,Birkenstock,province,0,1.0,,,,-,Pending,1000529741,2026-10-07,,,-
