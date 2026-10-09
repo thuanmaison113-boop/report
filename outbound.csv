@@ -1,4 +1,4 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-62003,2026-10-09,,post null,0,Pedro,1100,KHO CHUNG PD,HCM,4500233057,80237295,Hàng Chị SON,0,3,,3
+62003,2026-10-09,2026-10-09,posted,0,Pedro,1100,KHO CHUNG PD,HCM,4500233057,80237295,Hàng Chị SON,0,3,,3
 61958,2026-10-09,2026-10-08,posted,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500232611,80236967,TIKI,6,66,,66
 61963,2026-10-09,2026-10-09,posted,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500232670,80237016,TIKI,20,436,,436
