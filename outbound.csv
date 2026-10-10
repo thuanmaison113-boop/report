@@ -1,5 +1,5 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-62014,2026-10-10,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500233070,80237391,Hàng BSL2,0,132.0,,132
+62014,2026-10-10,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500233070,80237391,Hàng BSL2,9,132.0,,132
 62031,2026-10-10,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500233087,80237408,804,0,,,11
 62047,2026-10-10,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500233059,80237424,túi giấy,5,,400,400
 62015,2026-10-10,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500233071,80237392,Hàng BSL2,0,,,116
@@ -21,7 +21,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62037,2026-10-10,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233093,80237414,804,1,3.0,,3
 62059,2026-10-10,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500232730,80237465,NEW,0,,,199
 62011,2026-10-10,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500233103,80237389,oder thêm cho khách,1,1.0,,1
-62021,2026-10-10,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500233077,80237398,Hàng BSL2,0,99.0,,99
+62021,2026-10-10,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500233077,80237398,Hàng BSL2,6,99.0,,99
 62038,2026-10-10,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500233094,80237415,804,0,,,2
 62052,2026-10-10,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500233064,80237429,túi giấy,1,,200,200
 62022,2026-10-10,,post null,0,Charles & Keith,1051,CK SÀI GÒN,HCM,4500233078,80237399,Hàng BSL2,12,147.0,,147
@@ -33,7 +33,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62040,2026-10-10,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500233096,80237417,804,1,2.0,,2
 62056,2026-10-10,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500233068,80237433,túi giấy,1,,200,200
 62060,2026-10-10,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500232735,80237466,NEW,0,,,139
-62025,2026-10-10,,post null,0,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500233081,80237402,Hàng BSL2,0,48.0,,48
+62025,2026-10-10,,post null,0,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500233081,80237402,Hàng BSL2,3,48.0,,48
 62041,2026-10-10,,post null,0,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500233097,80237418,804,1,3.0,,3
 62026,2026-10-10,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500233082,80237403,Hàng BSL2,0,,,94
 62042,2026-10-10,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,HCM,4500233098,80237419,804,0,,,26
