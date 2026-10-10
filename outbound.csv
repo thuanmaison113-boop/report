@@ -24,7 +24,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62021,2026-10-10,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500233077,80237398,Hàng BSL2,0,,,99
 62038,2026-10-10,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500233094,80237415,804,0,,,2
 62052,2026-10-10,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500233064,80237429,túi giấy,1,,200,200
-62022,2026-10-10,,post null,0,Charles & Keith,1051,CK SÀI GÒN,HCM,4500233078,80237399,Hàng BSL2,0,,,147
+62022,2026-10-10,,post null,0,Charles & Keith,1051,CK SÀI GÒN,HCM,4500233078,80237399,Hàng BSL2,12,147,,147
 62039,2026-10-10,,post null,0,Charles & Keith,1051,CK SÀI GÒN,HCM,4500233095,80237416,804,0,,,9
 62053,2026-10-10,,post null,0,Charles & Keith,1051,CK SÀI GÒN,HCM,4500233065,80237430,túi giấy,8,,400,400
 62023,2026-10-10,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500233079,80237400,Hàng BSL2,0,,,70
@@ -50,4 +50,5 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62057,2026-10-10,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500233069,80237434,túi giấy,2,,400,400
 62013,2026-10-10,,post null,0,Charles & Keith,1069,CK Thanh Hóa,HCM,4500233005,80237390,đồng phục,2,46,,46
 62005,2026-10-10,,post null,0,Pedro,1139,PD CẦN THƠ,province,4500233106,80237298,HÀNG BS,0,,,10
-62076,2026-10-10,,post null,0,Pedro,1160,PD AEON Thanh Hóa,HCM,4500233006,80237440,ĐÔNG PHỤC,0,,,33
+62076,2026-10-10,,post null,0,Pedro,1160,PD AEON Thanh Hóa,HCM,4500233006,80237440,ĐÔNG PHỤC,1,33,,33
+62104,2026-10-10,,post null,0,Pedro,1160,PD AEON Thanh Hóa,HCM,4500232636,80237537,NEW 544,0,,,62
