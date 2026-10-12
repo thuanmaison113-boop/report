@@ -1,8 +1,8 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
-1134,PD ROYAL CITY,Pedro,province,0,19.0,,,,-,Pending,1000528404,2026-10-01,,,-
+1134,PD ROYAL CITY,Pedro,province,1,19.0,,,,-,process,1000528404,2026-10-01,2026-10-12,,-
 5807,Birkenstock Centre Hà Nội,Birkenstock,province,0,1.0,,,,-,process,1000529679,2026-10-06,2026-10-07,,-
 5807,Birkenstock Centre Hà Nội,Birkenstock,province,0,,5,,,-,Pending,1000529725,2026-10-07,,,-
-5806,Birkenstock Lotte Tây Hồ,Birkenstock,province,0,1.0,,,,-,Pending,1000529741,2026-10-07,,,-
+5806,Birkenstock Lotte Tây Hồ,Birkenstock,province,1,1.0,,,,-,process,1000529741,2026-10-07,2026-10-12,,-
 PD 99M2,TIKI,Pedro,HCM,0,69.0,,,,-,Pending,1000530462,2026-10-08,,,-
 PD 99M2,TIKI,Pedro,HCM,0,33.0,,,,-,Pending,1000530463,2026-10-08,,,-
 1137,PD VŨNG TÀU,Pedro,province,5,78.0,,,,-,process,1000530515,2026-10-08,2026-10-10,,-
@@ -15,7 +15,6 @@ PD 99M2,TIKI,Pedro,HCM,0,33.0,,,,-,Pending,1000530463,2026-10-08,,,-
 1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,province,10,114.0,,,,-,Pending,1000530724,2026-10-09,,,-
 1064,CK AEON HUẾ,Charles & Keith,province,0,8.0,,,,-,Pending,1000530799,2026-10-09,,,-
 1067,CK Crescent Mall,Charles & Keith,HCM,10,155.0,,,,-,process,1000530867,2026-10-09,2026-10-10,,-
-1052,CK BÌNH TÂN,Charles & Keith,HCM,8,170.0,,,,-,process,1000530925,2026-10-09,2026-10-10,,-
 1052,CK BÌNH TÂN,Charles & Keith,HCM,1,,4,,,-,process,1000530926,2026-10-09,2026-10-10,,-
 1067,CK Crescent Mall,Charles & Keith,HCM,1,,9,,,-,process,1000530930,2026-10-09,2026-10-10,,-
 1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,16,196.0,,,,-,process,1000530935,2026-10-09,2026-10-10,,-
@@ -26,7 +25,7 @@ PD 99M2,TIKI,Pedro,HCM,0,33.0,,,,-,Pending,1000530463,2026-10-08,,,-
 1051,CK SÀI GÒN,Charles & Keith,HCM,22,277.0,,,,-,process,1000530976,2026-10-09,2026-10-10,,-
 1063,CK PARC MALL Q8,Charles & Keith,HCM,7,132.0,,,,-,process,1000530977,2026-10-09,2026-10-10,,-
 1063,CK PARC MALL Q8,Charles & Keith,HCM,1,,5,,,-,process,1000530978,2026-10-09,2026-10-10,,-
-1047,CK CẦN THƠ,Charles & Keith,province,23,311.0,,,,-,Pending,1000530987,2026-10-10,,,-
+1047,CK CẦN THƠ,Charles & Keith,province,23,311.0,,,,-,process,1000530987,2026-10-10,2026-10-12,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,12,200.0,,,,-,process,1000530995,2026-10-10,2026-10-10,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,1,,13,,,-,process,1000530996,2026-10-10,2026-10-10,,-
 1039,CK VẠN HẠNH,Charles & Keith,HCM,11,230.0,,,,-,process,1000530997,2026-10-10,2026-10-10,,-
@@ -38,10 +37,9 @@ PD 99M2,TIKI,Pedro,HCM,0,33.0,,,,-,Pending,1000530463,2026-10-08,,,-
 1038,CK THẢO ĐIỀN,Charles & Keith,HCM,1,,12,,,-,process,1000531012,2026-10-10,2026-10-10,,-
 1062,CK VIVO,Charles & Keith,HCM,9,139.0,,,,-,process,1000531047,2026-10-10,2026-10-10,,-
 1062,CK VIVO,Charles & Keith,HCM,1,,13,,,-,process,1000531048,2026-10-10,2026-10-10,,-
-1044,CK VŨNG TÀU,Charles & Keith,province,13,254.0,,,,-,Pending,1000531130,2026-10-10,,,-
-1050,CK TÂN PHÚ,Charles & Keith,HCM,13,207.0,,,,-,process,1000531152,2026-10-10,2026-10-10,,-
+1044,CK VŨNG TÀU,Charles & Keith,province,13,254.0,,,,-,process,1000531130,2026-10-10,2026-10-12,,-
 1050,CK TÂN PHÚ,Charles & Keith,HCM,1,,7,,,-,process,1000531153,2026-10-10,2026-10-10,,-
-1061,CK Kiên Giang,Charles & Keith,province,15,230.0,,,,-,Pending,1000531274,2026-10-11,,,-
-1061,CK Kiên Giang,Charles & Keith,province,1,,5,,,-,Pending,1000531280,2026-10-11,,,-
+1061,CK Kiên Giang,Charles & Keith,province,15,230.0,,,,đang thiếu 1 kiện; đã lập biên bản,process,1000531274,2026-10-11,2026-10-12,,-
+1061,CK Kiên Giang,Charles & Keith,province,1,,5,,,-,process,1000531280,2026-10-11,2026-10-12,,-
 CK 99M2,TIKI,Charles & Keith,HCM,1,3.0,,,,hàng CK Tiki từ Hà nội vào,process,1000531468,2026-10-12,2026-10-05,,-
 CK 99M2,TIKI,Charles & Keith,HCM,0,32.0,,,,-,Pending,1000531469,2026-10-12,,,-
