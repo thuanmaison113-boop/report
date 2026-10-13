@@ -1,11 +1,11 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 62077,2026-10-13,,post null,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500232756,80237493,"VMR, OP BÌNH DƯƠNG",0,,,207
 62132,2026-10-13,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500233259,80237671,BS L1,0,,,61
-62149,2026-10-13,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500233276,80237688,BS L1 804,0,,,9
+62149,2026-10-13,2026-10-13,posted,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500233276,80237688,BS L1 804,1,9,,9
 62164,2026-10-13,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500233325,80237703,TÚI GIẤY,2,,300,300
 62195,2026-10-13,2026-10-12,posted,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500233232,80237608,GWP,1,20,,20
 62133,2026-10-13,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233260,80237672,BS L1,0,,,223
-62150,2026-10-13,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233277,80237689,BS L1 804,0,,,1
+62150,2026-10-13,2026-10-13,posted,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233277,80237689,BS L1 804,1,1,,1
 62165,2026-10-13,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233326,80237704,TÚI GIẤY,3,,500,500
 62189,2026-10-13,2026-10-12,posted,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233226,80237610,GWP,1,40,,40
 62075,2026-10-13,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,HCM,4500232731,80237481,NEW,12,197,,197
@@ -19,11 +19,11 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62113,2026-10-13,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,HCM,4500233221,80237598,0P BÌNH DƯƠNG,0,,,6
 62198,2026-10-13,2026-10-13,posted,0,Charles & Keith,1049,CK BÌNH DƯƠNG,HCM,4500233494,80237868,túi giấy bổ sung,0,,277,277
 62137,2026-10-13,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500233264,80237676,BS L1,0,,,122
-62154,2026-10-13,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500233281,80237693,BS L1 804,0,,,5
+62154,2026-10-13,2026-10-13,posted,0,Charles & Keith,1058,CK Biên Hòa,province,4500233281,80237693,BS L1 804,1,5,,5
 62169,2026-10-13,2026-10-12,posted,0,Charles & Keith,1058,CK Biên Hòa,province,4500233331,80237708,TÚI GIẤY,4,,600,600
 62188,2026-10-13,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500233225,80237612,GWP,1,20,,20
 62140,2026-10-13,,post null,0,Charles & Keith,1061,CK Kiên Giang,province,4500233267,80237679,BS L1,0,,,46
-62156,2026-10-13,,post null,0,Charles & Keith,1061,CK Kiên Giang,province,4500233283,80237695,BS L1 804,0,,,1
+62156,2026-10-13,2026-10-13,posted,0,Charles & Keith,1061,CK Kiên Giang,province,4500233283,80237695,BS L1 804,1,1,,1
 62194,2026-10-13,2026-10-12,posted,0,Charles & Keith,1061,CK Kiên Giang,province,4500233231,80237613,GWP,1,10,,10
 62200,2026-10-13,,post null,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500233451,80237834,BSL1,0,,,220
 62220,2026-10-13,,post null,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500233471,80237854,TÚI GIẤY,0,,,550
@@ -58,5 +58,5 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62230,2026-10-13,,post null,0,Pedro,1158,Pedro Cresscent Mall,HCM,4500233481,80237864,TÚI GIẤY,0,,,50
 62203,2026-10-13,,post null,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,province,4500233454,80237837,BSL1,0,,,40
 62223,2026-10-13,,post null,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,province,4500233474,80237857,TÚI GIẤY,0,,,400
-62114,2026-10-13,,post null,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500232646,80237595,TIKI,15,172,,172
+62114,2026-10-13,2026-10-13,posted,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500232646,80237595,TIKI,15,172,,172
 62187,2026-10-13,,post null,0,Pedro,PD 9902,PRIVATE SALE HCM,HCM,4500232522,80237757,STAFF SALE PD 2026,0,,,72
