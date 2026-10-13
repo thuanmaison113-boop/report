@@ -1,10 +1,10 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 62077,2026-10-13,2026-10-13,posted,0,Charles & Keith,1000,KHO CHUNG CK,HCM,4500232756,80237493,"VMR, OP BÌNH DƯƠNG",8,207.0,,207
-62132,2026-10-13,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500233259,80237671,BS L1,0,,,61
+62132,2026-10-13,2026-10-13,posted,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500233259,80237671,BS L1,6,61.0,,61
 62149,2026-10-13,2026-10-13,posted,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500233276,80237688,BS L1 804,1,9.0,,9
 62164,2026-10-13,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500233325,80237703,TÚI GIẤY,2,,300,300
 62195,2026-10-13,2026-10-12,posted,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500233232,80237608,GWP,1,20.0,,20
-62133,2026-10-13,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233260,80237672,BS L1,0,,,223
+62133,2026-10-13,2026-10-13,posted,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233260,80237672,BS L1,16,223.0,,223
 62150,2026-10-13,2026-10-13,posted,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233277,80237689,BS L1 804,1,1.0,,1
 62165,2026-10-13,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233326,80237704,TÚI GIẤY,3,,500,500
 62189,2026-10-13,2026-10-12,posted,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233226,80237610,GWP,1,40.0,,40
@@ -22,7 +22,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62154,2026-10-13,2026-10-13,posted,0,Charles & Keith,1058,CK Biên Hòa,province,4500233281,80237693,BS L1 804,1,5.0,,5
 62169,2026-10-13,2026-10-12,posted,0,Charles & Keith,1058,CK Biên Hòa,province,4500233331,80237708,TÚI GIẤY,4,,600,600
 62188,2026-10-13,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500233225,80237612,GWP,1,20.0,,20
-62140,2026-10-13,,post null,0,Charles & Keith,1061,CK Kiên Giang,province,4500233267,80237679,BS L1,0,,,46
+62140,2026-10-13,2026-10-13,posted,0,Charles & Keith,1061,CK Kiên Giang,province,4500233267,80237679,BS L1,4,46.0,,46
 62156,2026-10-13,2026-10-13,posted,0,Charles & Keith,1061,CK Kiên Giang,province,4500233283,80237695,BS L1 804,1,1.0,,1
 62194,2026-10-13,2026-10-12,posted,0,Charles & Keith,1061,CK Kiên Giang,province,4500233231,80237613,GWP,1,10.0,,10
 62200,2026-10-13,,post null,0,Pedro,1122,PD ĐỒNG KHỞI,HCM,4500233451,80237834,BSL1,0,,,220
