@@ -1,6 +1,6 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1134,PD ROYAL CITY,Pedro,province,1,19.0,,,,-,process,1000528404,2026-10-01,2026-10-12,,-
-PD 99M2,TIKI,Pedro,HCM,0,33.0,,,,cần nhập gấp để xuất staff sale,Pending,1000530463,2026-10-08,,,-
+PD 99M2,TIKI,Pedro,HCM,7,33.0,,,,cần nhập gấp để xuất staff sale,process,1000530463,2026-10-08,2026-10-14,,-
 1137,PD VŨNG TÀU,Pedro,province,5,78.0,,,,-,process,1000530515,2026-10-08,2026-10-10,,-
 1144,PD DN VINCOM,Pedro,province,3,84.0,,,,-,process,1000530519,2026-10-08,2026-10-10,,-
 1153,PD HUẾ,Pedro,province,2,72.0,,,,-,process,1000530537,2026-10-08,2026-10-14,,-
@@ -30,7 +30,7 @@ PD 99M2,TIKI,Pedro,HCM,0,33.0,,,,cần nhập gấp để xuất staff sale,Pend
 1062,CK VIVO,Charles & Keith,HCM,1,,13,,,-,process,1000531048,2026-10-10,2026-10-10,,-
 1044,CK VŨNG TÀU,Charles & Keith,province,13,254.0,,,,-,process,1000531130,2026-10-10,2026-10-12,,-
 1050,CK TÂN PHÚ,Charles & Keith,HCM,1,,7,,,-,process,1000531153,2026-10-10,2026-10-10,,-
-1061,CK Kiên Giang,Charles & Keith,province,15,230.0,,,,đang thiếu 1 kiện; đã lập biên bản,process,1000531274,2026-10-11,2026-10-12,,-
+1061,CK Kiên Giang,Charles & Keith,province,15,230.0,,,,-,process,1000531274,2026-10-11,2026-10-12,,-
 1061,CK Kiên Giang,Charles & Keith,province,1,,5,,,-,process,1000531280,2026-10-11,2026-10-12,,-
 CK 99M2,TIKI,Charles & Keith,HCM,0,1.0,,,,-,Pending,1000531648,2026-10-13,,,-
 PD 99M2,TIKI,Pedro,HCM,0,2.0,,,,-,Pending,1000531649,2026-10-13,,,-
