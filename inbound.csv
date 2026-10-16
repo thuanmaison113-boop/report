@@ -1,7 +1,7 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1134,PD ROYAL CITY,Pedro,province,1,19.0,,,,-,process,1000528404,2026-10-01,2026-10-12,,-
 PD 99M2,TIKI,Pedro,HCM,7,33.0,,,,-,process,1000530463,2026-10-08,2026-10-14,,-
-1153,PD HUẾ,Pedro,province,2,72.0,,,,-,process,1000530537,2026-10-08,2026-10-14,,-
+1153,PD HUẾ,Pedro,province,2,72.0,,,,-,post,1000530537,2026-10-08,2026-10-14,,-
 1139,PD CẦN THƠ,Pedro,province,1,,7,,,-,process,1000530664,2026-10-08,2026-10-12,,-
 1067,CK Crescent Mall,Charles & Keith,HCM,10,155.0,,,,-,process,1000530867,2026-10-09,2026-10-10,,-
 1052,CK BÌNH TÂN,Charles & Keith,HCM,1,,4,,,-,process,1000530926,2026-10-09,2026-10-10,,-
@@ -59,7 +59,6 @@ PD 99M2,TIKI,Pedro,HCM,0,2.0,,,,-,Pending,1000531649,2026-10-13,,,-
 5811,Birkenstock Vincom Landmark Hồ Chí Minh,BIRKENSTOCK,HCM,1,5.0,,,,-,process,1000532904,2026-10-15,2026-10-16,,-
 1062,CK VIVO,Charles & Keith,HCM,4,60.0,,,,-,process,1000532910,2026-10-15,2026-10-16,,-
 1146,PD DN LÊ DUẨN,Pedro,province,4,35.0,,,,-,Pending,1000532940,2026-10-15,,,-
-1153,PD HUẾ,Pedro,province,1,10.0,,,,-,Pending,1000532955,2026-10-15,,,-
 5803,Birkenstock Crescent Mall,BIRKENSTOCK,HCM,1,6.0,,,,-,process,1000532969,2026-10-15,2026-10-16,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,6,129.0,,,,-,process,1000532991,2026-10-15,2026-10-16,,-
 1058,CK Biên Hòa,Charles & Keith,province,0,51.0,,,,-,Pending,1000532999,2026-10-15,,,-
