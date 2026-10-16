@@ -1,11 +1,8 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1134,PD ROYAL CITY,Pedro,province,1,19.0,,,,-,process,1000528404,2026-10-01,2026-10-12,,-
 PD 99M2,TIKI,Pedro,HCM,7,33.0,,,,-,process,1000530463,2026-10-08,2026-10-14,,-
-1137,PD VŨNG TÀU,Pedro,province,5,78.0,,,,-,process,1000530515,2026-10-08,2026-10-10,,-
-1144,PD DN VINCOM,Pedro,province,3,84.0,,,,-,process,1000530519,2026-10-08,2026-10-10,,-
 1153,PD HUẾ,Pedro,province,2,72.0,,,,-,process,1000530537,2026-10-08,2026-10-14,,-
 1139,PD CẦN THƠ,Pedro,province,1,,7,,,-,process,1000530664,2026-10-08,2026-10-12,,-
-1143,PD BIÊN HÒA,Pedro,province,11,131.0,,,,-,process,1000530713,2026-10-09,2026-10-10,,-
 1067,CK Crescent Mall,Charles & Keith,HCM,10,155.0,,,,-,process,1000530867,2026-10-09,2026-10-10,,-
 1052,CK BÌNH TÂN,Charles & Keith,HCM,1,,4,,,-,process,1000530926,2026-10-09,2026-10-10,,-
 1067,CK Crescent Mall,Charles & Keith,HCM,1,,9,,,-,process,1000530930,2026-10-09,2026-10-10,,-
@@ -20,7 +17,7 @@ PD 99M2,TIKI,Pedro,HCM,7,33.0,,,,-,process,1000530463,2026-10-08,2026-10-14,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,12,200.0,,,,-,process,1000530995,2026-10-10,2026-10-10,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,1,,13,,,-,process,1000530996,2026-10-10,2026-10-10,,-
 1039,CK VẠN HẠNH,Charles & Keith,HCM,11,230.0,,,,kiểm kê 15/10,process,1000530997,2026-10-10,2026-10-10,,-
-1039,CK VẠN HẠNH,Charles & Keith,HCM,1,,13,,,kiểm kê 15/10,process,1000530998,2026-10-10,2026-10-10,,-
+1039,CK VẠN HẠNH,Charles & Keith,HCM,1,,13,,,có 1 con cần đẩy lại 804 D111,process,1000530998,2026-10-10,2026-10-10,,-
 1025,CK LÊ VĂN SỸ,Charles & Keith,HCM,1,,5,,,-,process,1000531008,2026-10-10,2026-10-10,,-
 1025,CK LÊ VĂN SỸ,Charles & Keith,HCM,16,256.0,,,,-,process,1000531010,2026-10-10,2026-10-10,,-
 1025,CK LÊ VĂN SỸ,Charles & Keith,HCM,1,7.0,,,,đồng phục,process,1000531009,2026-10-10,2026-10-10,,-
