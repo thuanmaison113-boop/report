@@ -53,7 +53,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62326,2026-10-16,2026-10-16,posted,0,Charles & Keith,1061,CK Kiên Giang,province,4500233997,80238352,BSD2 W42 804,1,3,,3
 62341,2026-10-16,,post null,0,Charles & Keith,1061,CK Kiên Giang,province,4500234019,80238367,TÚI GIẤY,0,,,200
 62184,2026-10-16,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500233244,80237723,GWP Bình nước ,0,,,20
-62309,2026-10-16,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500233980,80238335,BSD2 W42 800,0,,,194
+62309,2026-10-16,2026-10-16,posted,0,Charles & Keith,1062,CK VIVO,HCM,4500233980,80238335,BSD2 W42 800,12,194,,194
 62327,2026-10-16,2026-10-16,posted,0,Charles & Keith,1062,CK VIVO,HCM,4500233998,80238353,BSD2 W42 804,1,6,,6
 62342,2026-10-16,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500234020,80238368,TÚI GIẤY,0,,,200
 62185,2026-10-16,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500233245,80237724,GWP Bình nước ,0,,,20
@@ -67,6 +67,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62421,2026-10-16,,post null,0,BIRKENSTOCK,5801,Birkenstock Sài Gòn Centre,HCM,4500234071,80238445,TÚI GIẤY,0,,,150
 62412,2026-10-16,,post null,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,HCM,4500234029,80238436, BS WEEK 40,0,,,234
 62422,2026-10-16,,post null,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,HCM,4500234072,80238446,TÚI GIẤY,0,,,150
+62451,2026-10-16,2026-10-16,posted,pxk,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,HCM,4500234149,80238565,book grab,1,1,,1
 62413,2026-10-16,,post null,0,BIRKENSTOCK,5803,Birkenstock Crescent Mall,HCM,4500234030,80238437, BS WEEK 40,0,,,243
 62423,2026-10-16,,post null,0,BIRKENSTOCK,5803,Birkenstock Crescent Mall,HCM,4500234073,80238447,TÚI GIẤY,0,,,150
 62416,2026-10-16,,post null,0,BIRKENSTOCK,5805,Birkens Gold Coast NT,province,4500234033,80238440, BS WEEK 40,0,,,204
@@ -80,6 +81,6 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62415,2026-10-16,,post null,0,BIRKENSTOCK,5811,Birkenstock Vincom Landmark Hồ Chí Minh,HCM,4500234032,80238439, BS WEEK 40,0,,,38
 62270,2026-10-16,,post null,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500233696,80238160,TIKI,0,,,222
 62271,2026-10-16,2026-10-16,posted,0,Charles & Keith,CK D122,KHO HÀ NỘI - SÀI ĐỒNG,province,4500233715,80238161, HCM-HN W42,31,762,,762
-62240,2026-10-16,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500233531,80237914,TIKI,0,,,499
+62240,2026-10-16,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500233531,80237914,TIKI,34,497,,499
 62263,2026-10-16,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500233733,80238122,TIKI,0,,,150
 62449,2026-10-16,,post null,0,Pedro,PD D122,KHO HÀ NỘI - SÀI ĐỒNG,province,4500234122,80238561,LC vùng W42,0,,,232
