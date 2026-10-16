@@ -4,7 +4,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62312,2026-10-16,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500233983,80238338,BSD2 W42 804,0,,,16
 62330,2026-10-16,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,HCM,4500234008,80238356,TÚI GIẤY,0,,,200
 62174,2026-10-16,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500233235,80237713,GWP Bình nước ,0,,,60
-62295,2026-10-16,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500233966,80238321,BSD2 W42 800,0,,,355
+62295,2026-10-16,2026-10-16,posted,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500233966,80238321,BSD2 W42 800,18,355,,355
 62313,2026-10-16,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,HCM,4500233984,80238339,BSD2 W42 804,0,,,93
 62296,2026-10-16,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500233967,80238322,BSD2 W42 800,0,,,506
 62314,2026-10-16,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,HCM,4500233985,80238340,BSD2 W42 804,0,,,36
@@ -20,7 +20,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62299,2026-10-16,2026-10-16,posted,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500233970,80238325,BSD2 W42 800,12,172,,172
 62317,2026-10-16,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500233988,80238343,BSD2 W42 804,0,,,29
 62334,2026-10-16,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500234012,80238360,TÚI GIẤY,0,,,500
-62300,2026-10-16,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233971,80238326,BSD2 W42 800,0,,,246
+62300,2026-10-16,2026-10-16,posted,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233971,80238326,BSD2 W42 800,13,246,,246
 62318,2026-10-16,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233989,80238344,BSD2 W42 804,0,,,12
 62335,2026-10-16,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500234013,80238361,TÚI GIẤY,0,,,800
 62178,2026-10-16,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,HCM,4500233233,80237717,GWP Bình nước ,0,,,30
@@ -37,6 +37,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62181,2026-10-16,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500233241,80237720,GWP Bình nước ,0,,,30
 62304,2026-10-16,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500233975,80238330,BSD2 W42 800,0,,,237
 62322,2026-10-16,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500233993,80238348,BSD2 W42 804,0,,,16
+62450,2026-10-16,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,HCM,4500233954,80238564,VẠT TƯ ECOM,0,,,300
 62305,2026-10-16,2026-10-16,posted,0,Charles & Keith,1058,CK Biên Hòa,province,4500233976,80238331,BSD2 W42 800,12,219,,219
 62323,2026-10-16,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500233994,80238349,BSD2 W42 804,0,,,18
 62338,2026-10-16,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500234018,80238364,TÚI GIẤY,0,,,700
@@ -56,7 +57,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62327,2026-10-16,2026-10-16,posted,0,Charles & Keith,1062,CK VIVO,HCM,4500233998,80238353,BSD2 W42 804,1,6,,6
 62342,2026-10-16,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500234020,80238368,TÚI GIẤY,0,,,200
 62185,2026-10-16,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500233245,80237724,GWP Bình nước ,0,,,20
-62310,2026-10-16,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500233981,80238336,BSD2 W42 800,0,,,190
+62310,2026-10-16,2026-10-16,posted,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500233981,80238336,BSD2 W42 800,13,190,,190
 62328,2026-10-16,2026-10-16,posted,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500233999,80238354,BSD2 W42 804,1,9,,9
 62343,2026-10-16,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500234021,80238369,TÚI GIẤY,0,,,200
 62186,2026-10-16,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500233246,80237725,GWP Bình nước ,0,,,30
