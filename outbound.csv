@@ -20,9 +20,11 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62299,2026-10-16,2026-10-16,posted,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500233970,80238325,BSD2 W42 800,12,172,,172
 62317,2026-10-16,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500233988,80238343,BSD2 W42 804,0,,,29
 62334,2026-10-16,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500234012,80238360,TÚI GIẤY,0,,,500
+62452,2026-10-16,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500233745,80238580,NEW ARRIVAL W43,0,,,154
 62300,2026-10-16,2026-10-16,posted,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233971,80238326,BSD2 W42 800,13,246,,246
 62318,2026-10-16,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233989,80238344,BSD2 W42 804,0,,,12
 62335,2026-10-16,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500234013,80238361,TÚI GIẤY,0,,,800
+62453,2026-10-16,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500233746,80238581,NEW ARRIVAL W43,0,,,209
 62178,2026-10-16,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,HCM,4500233233,80237717,GWP Bình nước ,0,,,30
 62301,2026-10-16,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500233972,80238327,BSD2 W42 800,0,,,183
 62319,2026-10-16,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500233990,80238345,BSD2 W42 804,0,,,20
@@ -41,6 +43,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62305,2026-10-16,2026-10-16,posted,0,Charles & Keith,1058,CK Biên Hòa,province,4500233976,80238331,BSD2 W42 800,12,219,,219
 62323,2026-10-16,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500233994,80238349,BSD2 W42 804,0,,,18
 62338,2026-10-16,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500234018,80238364,TÚI GIẤY,0,,,700
+62454,2026-10-16,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500233751,80238582,NEW ARRIVAL W43,0,,,146
 62182,2026-10-16,,post null,0,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500233242,80237721,GWP Bình nước ,0,,,20
 62306,2026-10-16,,post null,0,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500233977,80238332,BSD2 W42 800,0,,,121
 62324,2026-10-16,,post null,0,Charles & Keith,1059,CK HÙNG VƯƠNG,HCM,4500233995,80238350,BSD2 W42 804,0,,,33
@@ -52,6 +55,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62308,2026-10-16,2026-10-16,posted,0,Charles & Keith,1061,CK Kiên Giang,province,4500233979,80238334,BSD2 W42 800,3,62,,62
 62326,2026-10-16,2026-10-16,posted,0,Charles & Keith,1061,CK Kiên Giang,province,4500233997,80238352,BSD2 W42 804,1,3,,3
 62341,2026-10-16,,post null,0,Charles & Keith,1061,CK Kiên Giang,province,4500234019,80238367,TÚI GIẤY,0,,,200
+62455,2026-10-16,,post null,0,Charles & Keith,1061,CK Kiên Giang,province,4500233754,80238583,NEW ARRIVAL W43,0,,,145
 62184,2026-10-16,,post null,0,Charles & Keith,1062,CK VIVO,HCM,4500233244,80237723,GWP Bình nước ,0,,,20
 62309,2026-10-16,2026-10-16,posted,0,Charles & Keith,1062,CK VIVO,HCM,4500233980,80238335,BSD2 W42 800,12,194,,194
 62327,2026-10-16,2026-10-16,posted,0,Charles & Keith,1062,CK VIVO,HCM,4500233998,80238353,BSD2 W42 804,1,6,,6
