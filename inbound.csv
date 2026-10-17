@@ -29,21 +29,15 @@ PD 99M2,TIKI,Pedro,HCM,0,2.0,,,,-,Pending,1000531649,2026-10-13,,,-
 1158,Pedro Cresscent Mall,Pedro,HCM,1,,1,,,-,process,1000532471,2026-10-14,2026-10-15,,-
 1141,PD BÌNH DƯƠNG,Pedro,province,2,22.0,,,,-,process,1000532499,2026-10-14,2026-10-16,,-
 1158,Pedro Cresscent Mall,Pedro,HCM,2,17.0,,,,PD TD,process,1000532522,2026-10-14,2026-10-15,,-
-1132,PD LÊ VĂN SỸ,Pedro,HCM,1,5.0,,,,-,process,1000532553,2026-10-14,2026-10-15,,-
 1136,PD HAI BÀ TRƯNG,Pedro,HCM,4,54.0,,,,PD TD,process,1000532574,2026-10-14,2026-10-15,,-
 1136,PD HAI BÀ TRƯNG,Pedro,HCM,1,,2,,,-,process,1000532575,2026-10-14,2026-10-15,,-
-1136,PD HAI BÀ TRƯNG,Pedro,HCM,4,45.0,,,,-,process,1000532576,2026-10-14,2026-10-15,,-
-1142,PD TÂN PHÚ,Pedro,HCM,1,18.0,,,,-,process,1000532588,2026-10-14,2026-10-15,,-
 1150,PD NGUYỄN TRÃI FLAGSHIP,Pedro,HCM,4,69.0,,,,-,process,1000532592,2026-10-14,2026-10-15,,-
 1150,PD NGUYỄN TRÃI FLAGSHIP,Pedro,HCM,1,1.0,,,,KCL,process,1000532593,2026-10-14,2026-10-15,,-
 1151,PD QUANG TRUNG,Pedro,HCM,6,63.0,,,,PD TD,process,1000532604,2026-10-15,2026-10-15,,-
-1151,PD QUANG TRUNG,Pedro,HCM,1,2.0,,,,-,process,1000532618,2026-10-15,2026-10-15,,-
-1122,PD ĐỒNG KHỞI,Pedro,HCM,11,102.0,,,,-,process,1000532634,2026-10-15,2026-10-15,,-
 1122,PD ĐỒNG KHỞI,Pedro,HCM,1,3.0,,,,KCL,process,1000532635,2026-10-15,2026-10-15,,-
 1125,PD VIVO,Pedro,HCM,3,49.0,,,,PD TD,process,-,,2026-10-15,,-
 1150,PD NGUYỄN TRÃI FLAGSHIP,Pedro,HCM,5,61.0,,,,PD TD,Pending,-,,2026-10-15,,-
 1142,PD TÂN PHÚ,Pedro,HCM,7,78.0,,,,PD TD,Pending,-,,2026-10-15,,-
-1129,PD SÀI GÒN,Pedro,HCM,5,43.0,,,,-,process,1000532749,2026-10-15,2026-10-15,,-
 1052,CK BÌNH TÂN,Charles & Keith,HCM,2,39.0,,,,-,process,1000532758,2026-10-15,2026-10-16,,-
 1050,CK TÂN PHÚ,Charles & Keith,HCM,3,53.0,,,,-,process,1000532801,2026-10-15,2026-10-16,,-
 1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,3,39.0,,,,thiếu 1,process,1000532846,2026-10-15,2026-10-16,,-
@@ -56,7 +50,7 @@ PD 99M2,TIKI,Pedro,HCM,0,2.0,,,,-,Pending,1000531649,2026-10-13,,,-
 1153,PD HUẾ,Pedro,province,1,10.0,,,,-,process,1000532955,2026-10-15,2026-10-16,,-
 5803,Birkenstock Crescent Mall,BIRKENSTOCK,HCM,1,6.0,,,,-,process,1000532969,2026-10-15,2026-10-16,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,6,129.0,,,,-,process,1000532991,2026-10-15,2026-10-16,,-
-1058,CK Biên Hòa,Charles & Keith,province,0,51.0,,,,-,Pending,1000532999,2026-10-15,,,-
+1058,CK Biên Hòa,Charles & Keith,province,3,51.0,,,,-,process,1000532999,2026-10-15,2026-10-17,,-
 5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,province,1,5.0,,,,-,Pending,1000533027,2026-10-15,,,-
 1144,PD DN VINCOM,Pedro,province,0,22.0,,,,-,Pending,1000533062,2026-10-15,,,-
 1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,4,49.0,,,,-,process,1000533078,2026-10-15,2026-10-16,,-
@@ -73,6 +67,6 @@ PD 99M2,TIKI,Pedro,HCM,0,2.0,,,,-,Pending,1000531649,2026-10-13,,,-
 CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,province,0,225.0,,,,-,Pending,80238264,2026-10-16,,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,0,12.0,,,,-,Pending,1000533284,2026-10-16,,,-
 5809,Birkenstock Đà Nẵng,BIRKENSTOCK,province,0,40.0,,,,-,Pending,1000533325,2026-10-16,,,-
-5805,Birkens Gold Coast NT,BIRKENSTOCK,province,3,28.0,,,,-,Pending,1000533380,2026-10-16,,,-
+5805,Birkens Gold Coast NT,BIRKENSTOCK,province,3,28.0,,,,-,process,1000533380,2026-10-16,2026-10-17,,-
 1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,province,0,15.0,,,,-,Pending,1000533389,2026-10-16,,,-
 1047,CK CẦN THƠ,Charles & Keith,province,8,112.0,,,,-,Pending,1000533423,2026-10-16,,,-
