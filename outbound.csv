@@ -1,4 +1,5 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
+62478,2026-10-17,2026-10-17,posted,0,Pedro,1150,PD NGUYỄN TRÃI FLAGSHIP,HCM,4500234292,80238686,chênh lệch pullback-trao đổi DO,0,1,,1
 62236,2026-10-17,2026-10-15,posted,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500233497,80237886,TIKI,55,874,,874
 62270,2026-10-17,2026-10-16,posted,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,HCM,4500233696,80238160,TIKI,19,222,,222
 62240,2026-10-17,2026-10-16,posted,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,HCM,4500233531,80237914,TIKI,34,497,,499
