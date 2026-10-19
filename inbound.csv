@@ -1,5 +1,4 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
-1134,PD ROYAL CITY,Pedro,province,1,19.0,,,,-,process,1000528404,2026-10-01,2026-10-12,,-
 1067,CK Crescent Mall,Charles & Keith,HCM,10,155.0,,,,-,process,1000530867,2026-10-09,2026-10-10,,-
 1067,CK Crescent Mall,Charles & Keith,HCM,1,,9,,,-,process,1000530930,2026-10-09,2026-10-10,,-
 1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,9,192.0,,,,kiểm kê 15/10,process,1000530954,2026-10-09,2026-10-10,,-
@@ -29,7 +28,7 @@ CK 99M2,TIKI,Charles & Keith,HCM,0,1.0,,,,-,Pending,1000531648,2026-10-13,,,-
 1062,CK VIVO,Charles & Keith,HCM,4,60.0,,,,-,process,1000532910,2026-10-15,2026-10-16,,-
 5803,Birkenstock Crescent Mall,BIRKENSTOCK,HCM,1,6.0,,,,-,process,1000532969,2026-10-15,2026-10-16,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,6,129.0,,,,-,process,1000532991,2026-10-15,2026-10-16,,-
-5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,province,1,5.0,,,,-,Pending,1000533027,2026-10-15,,,-
+5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,province,1,5.0,,,,-,process,1000533027,2026-10-15,2026-10-19,,-
 1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,4,49.0,,,,-,process,1000533078,2026-10-15,2026-10-16,,-
 5808,Birkenstock Vạn Hạnh,BIRKENSTOCK,HCM,4,36.0,,,,-,process,1000533103,2026-10-15,2026-10-16,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,province,3,24.0,,,,-,process,1000533121,2026-10-15,2026-10-16,,-

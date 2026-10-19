@@ -19,6 +19,8 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62523,2026-10-19,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500234354,80238760,BSD1 800,0,,,249
 62541,2026-10-19,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500234372,80238778,BSD1 804,0,,,7
 62559,2026-10-19,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500234390,80238823,PAPER BAG,0,,,400
+62575,2026-10-19,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,HCM,4500234467,80238862,UNIFORM ,0,,,1
+62577,2026-10-19,,post null,0,Charles & Keith,1048,CK HẢI  PHÒNG,province,4500234469,80238864,UNIFORM ,0,,,4
 62461,2026-10-19,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500233747,80238589,NEW ARRIVAL W43,19,236.0,,236
 62524,2026-10-19,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500234357,80238761,BSD1 800,0,,,195
 62542,2026-10-19,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500234375,80238779,BSD1 804,0,,,6
@@ -27,6 +29,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62525,2026-10-19,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500234358,80238762,BSD1 800,0,,,330
 62543,2026-10-19,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500234376,80238780,BSD1 804,0,,,6
 62561,2026-10-19,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500234394,80238825,PAPER BAG,0,,,500
+62578,2026-10-19,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,HCM,4500234470,80238865,UNIFORM ,0,,,2
 62463,2026-10-19,,post null,0,Charles & Keith,1051,CK SÀI GÒN,HCM,4500233749,80238591,NEW ARRIVAL W43,37,423.0,,423
 62526,2026-10-19,,post null,0,Charles & Keith,1051,CK SÀI GÒN,HCM,4500234359,80238763,BSD1 800,0,,,298
 62544,2026-10-19,,post null,0,Charles & Keith,1051,CK SÀI GÒN,HCM,4500234377,80238781,BSD1 804,0,,,13
