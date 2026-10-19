@@ -52,7 +52,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62549,2026-10-19,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500234384,80238786,BSD1 804,0,,,3
 62567,2026-10-19,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,HCM,4500234401,80238831,PAPER BAG,0,,,400
 62469,2026-10-19,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500233757,80238597,NEW ARRIVAL W43,20,273.0,,273
-62532,2026-10-19,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500234367,80238769,BSD1 800,0,,,145
+62532,2026-10-19,2026-10-19,posted,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500234367,80238769,BSD1 800,7,145.0,,145
 62550,2026-10-19,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500234385,80238787,BSD1 804,0,,,4
 62568,2026-10-19,,post null,0,Charles & Keith,1067,CK Crescent Mall,HCM,4500234402,80238832,PAPER BAG,0,,,300
 62516,2026-10-19,2026-10-19,posted,pxk,Pedro,1137,PD VŨNG TÀU,province,4500234348,80238752,BACK DO ĐỂ KIỂM KÊ,0,24.0,,24
