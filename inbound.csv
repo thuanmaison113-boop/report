@@ -20,7 +20,6 @@ shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm
 1062,CK VIVO,Charles & Keith,HCM,1,,13,,,-,process,1000531048,2026-10-10,2026-10-10,,-
 1061,CK Kiên Giang,Charles & Keith,province,1,,5,,,-,process,1000531280,2026-10-11,2026-10-12,,-
 CK 99M2,TIKI,Charles & Keith,HCM,0,1.0,,,,-,Pending,1000531648,2026-10-13,,,-
-PD 99M2,TIKI,Pedro,HCM,0,2.0,,,,-,Pending,1000531649,2026-10-13,,,-
 1063,CK PARC MALL Q8,Charles & Keith,HCM,3,53.0,,,,-,process,1000532367,2026-10-14,2026-10-16,,-
 1052,CK BÌNH TÂN,Charles & Keith,HCM,2,39.0,,,,-,process,1000532758,2026-10-15,2026-10-16,,-
 1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,3,39.0,,,,thiếu 1,process,1000532846,2026-10-15,2026-10-16,,-
@@ -45,7 +44,7 @@ PD 99M2,TIKI,Pedro,HCM,0,2.0,,,,-,Pending,1000531649,2026-10-13,,,-
 CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,province,0,225.0,,,,-,Pending,80238264,2026-10-16,,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,0,12.0,,,,-,Pending,1000533284,2026-10-16,,,-
 5809,Birkenstock Đà Nẵng,BIRKENSTOCK,province,0,40.0,,,,-,Pending,1000533325,2026-10-16,,,-
-5805,Birkens Gold Coast NT,BIRKENSTOCK,province,3,28.0,,,,-,process,1000533380,2026-10-16,2026-10-17,,-
 1047,CK CẦN THƠ,Charles & Keith,province,8,112.0,,,,-,Pending,1000533423,2026-10-16,,,-
 1061,CK Kiên Giang,Charles & Keith,province,4,51.0,,,,-,Pending,1000533616,2026-10-17,,,-
 5801,Birkenstock Sài Gòn Centre,BIRKENSTOCK,HCM,0,43.0,,,,-,Pending,1000533748,2026-10-17,,,-
+4000,KHO CHUNG VẬT TƯ ECOM,Multibrand,HCM,0,600.0,,,,-,Pending,-,2026-10-17,2026-10-17,,-
