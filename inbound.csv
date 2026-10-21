@@ -1,53 +1,49 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
-1067,CK Crescent Mall,Charles & Keith,HCM,10,155.0,,,,-,process,1000530867,2026-10-09,2026-10-10,,-
-1067,CK Crescent Mall,Charles & Keith,HCM,1,,9,,,-,process,1000530930,2026-10-09,2026-10-10,,-
-1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,9,192.0,,,,kiểm kê 15/10,process,1000530954,2026-10-09,2026-10-10,,-
-1059,CK HÙNG VƯƠNG,Charles & Keith,HCM,5,116.0,,,,kiểm kê 15/10,process,1000530969,2026-10-09,2026-10-10,,-
-1051,CK SÀI GÒN,Charles & Keith,HCM,1,,5,,,có 1 con cần đẩy lại 804 D111,process,1000530975,2026-10-09,2026-10-10,,-
-1063,CK PARC MALL Q8,Charles & Keith,HCM,7,132.0,,,,kiểm kê 15/10,process,1000530977,2026-10-09,2026-10-10,,-
-1063,CK PARC MALL Q8,Charles & Keith,HCM,1,,5,,,kiểm kê 15/10,process,1000530978,2026-10-09,2026-10-10,,-
-1047,CK CẦN THƠ,Charles & Keith,province,23,311.0,,,,-,process,1000530987,2026-10-10,2026-10-12,,-
-1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,1,,13,,,-,process,1000530996,2026-10-10,2026-10-10,,-
-1039,CK VẠN HẠNH,Charles & Keith,HCM,11,230.0,,,,kiểm kê 15/10,process,1000530997,2026-10-10,2026-10-10,,-
-1039,CK VẠN HẠNH,Charles & Keith,HCM,1,,13,,,có 1 con cần đẩy lại 804 D111,process,1000530998,2026-10-10,2026-10-10,,-
-1025,CK LÊ VĂN SỸ,Charles & Keith,HCM,1,,5,,,-,process,1000531008,2026-10-10,2026-10-10,,-
-1025,CK LÊ VĂN SỸ,Charles & Keith,HCM,1,7.0,,,,đồng phục,process,1000531009,2026-10-10,2026-10-10,,-
-1062,CK VIVO,Charles & Keith,HCM,1,,13,,,-,process,1000531048,2026-10-10,2026-10-10,,-
-1061,CK Kiên Giang,Charles & Keith,province,1,,5,,,-,process,1000531280,2026-10-11,2026-10-12,,-
-CK 99M2,TIKI,Charles & Keith,HCM,0,1.0,,,,-,Pending,1000531648,2026-10-13,,,-
-1063,CK PARC MALL Q8,Charles & Keith,HCM,3,53.0,,,,-,process,1000532367,2026-10-14,2026-10-16,,-
-1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,3,39.0,,,,thiếu 1,process,1000532846,2026-10-15,2026-10-16,,-
-1038,CK THẢO ĐIỀN,Charles & Keith,HCM,2,33.0,,,,-,process,1000532854,2026-10-15,2026-10-16,,-
-1067,CK Crescent Mall,Charles & Keith,HCM,3,53.0,,,,-,process,1000532896,2026-10-15,2026-10-16,,-
-5811,Birkenstock Vincom Landmark Hồ Chí Minh,BIRKENSTOCK,HCM,1,5.0,,,,-,process,1000532904,2026-10-15,2026-10-16,,-
-1062,CK VIVO,Charles & Keith,HCM,4,60.0,,,,-,process,1000532910,2026-10-15,2026-10-16,,-
-5803,Birkenstock Crescent Mall,BIRKENSTOCK,HCM,1,6.0,,,,-,process,1000532969,2026-10-15,2026-10-16,,-
-1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,6,129.0,,,,-,process,1000532991,2026-10-15,2026-10-16,,-
-5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,province,1,5.0,,,,-,process,1000533027,2026-10-15,2026-10-19,,-
-1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,4,49.0,,,,-,process,1000533078,2026-10-15,2026-10-16,,-
-5808,Birkenstock Vạn Hạnh,BIRKENSTOCK,HCM,4,36.0,,,,-,process,1000533103,2026-10-15,2026-10-16,,-
-5810,Birkenstock VINCOM TDH,BIRKENSTOCK,province,3,24.0,,,,-,process,1000533121,2026-10-15,2026-10-16,,-
-1051,CK SÀI GÒN,Charles & Keith,HCM,5,98.0,,,,thiếu 1,process,1000533138,2026-10-15,2026-10-16,,-
-1059,CK HÙNG VƯƠNG,Charles & Keith,HCM,4,49.0,,,,-,process,1000533181,2026-10-15,2026-10-16,,-
-1039,CK VẠN HẠNH,Charles & Keith,HCM,5,79.0,,,,-,process,1000533215,2026-10-15,2026-10-16,,-
-5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,1,,3,,,-,process,1000533242,2026-10-15,2026-10-19,,-
-1044,CK VŨNG TÀU,Charles & Keith,province,2,24.0,,,,-,process,1000533250,2026-10-15,2026-10-19,,-
-5802,Birkenstock Vincom Đồng Khởi,BIRKENSTOCK,HCM,3,33.0,,,,-,process,1000533277,2026-10-15,2026-10-16,,-
-5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,1,12.0,,,,-,process,1000533284,2026-10-16,2026-10-19,,-
-5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,4,40.0,,,,-,process,1000533325,2026-10-16,2026-10-19,,-
-1047,CK CẦN THƠ,Charles & Keith,province,8,112.0,,,,-,process,1000533423,2026-10-16,2026-10-19,,-
-1061,CK Kiên Giang,Charles & Keith,province,4,51.0,,,,-,process,1000533616,2026-10-17,2026-10-19,,-
-5801,Birkenstock Sài Gòn Centre,BIRKENSTOCK,HCM,5,43.0,,,,-,process,1000533748,2026-10-17,2026-10-16,,-
-CV 99M2,TIKI,CONVERSE,HCM,0,21.0,,,,-,Pending,1000534113,2026-10-19,,,-
-NBL 99M2,TIKI,NEW BALANCE,HCM,0,8.0,,,,-,Pending,1000534114,2026-10-19,,,-
-CK 99M2,TIKI,Charles & Keith,HCM,0,4.0,,,,-,Pending,1000534222,2026-10-20,,,-
-CV 99M2,TIKI,CONVERSE,HCM,0,1.0,,,,-,Pending,1000534223,2026-10-20,,,-
-5810,Birkenstock VINCOM TDH,BIRKENSTOCK,province,1,6.0,,,,-,Pending,1000534304,2026-10-20,,,-
-5805,Birkens Gold Coast NT,BIRKENSTOCK,province,1,6.0,,,,-,Pending,1000534338,2026-10-20,,,-
-5808,Birkenstock Vạn Hạnh,BIRKENSTOCK,HCM,1,2.0,,,,-,process,1000534351,2026-10-20,2026-10-21,,-
-5803,Birkenstock Crescent Mall,BIRKENSTOCK,HCM,1,5.0,,,,-,process,1000534366,2026-10-20,2026-10-21,,-
-5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,2,16.0,,,,-,Pending,1000534402,2026-10-20,,,-
-5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,province,0,9.0,,,,-,Pending,1000534442,2026-10-20,,,-
-5801,Birkenstock Sài Gòn Centre,BIRKENSTOCK,HCM,1,1.0,,,,-,process,1000534449,2026-10-20,2026-10-21,,-
-5801,Birkenstock Sài Gòn Centre,BIRKENSTOCK,HCM,1,,4,,,-,process,1000534452,2026-10-20,2026-10-21,,-
-5802,Birkenstock Vincom Đồng Khởi,BIRKENSTOCK,HCM,1,4.0,,,,-,process,1000534581,2026-10-20,2026-10-21,,-
+1067,CK Crescent Mall,Charles & Keith,HCM,1,,9.0,,,-,process,1000530930,2026-10-09,2026-10-10,,-
+1051,CK SÀI GÒN,Charles & Keith,HCM,1,,5.0,,,có 1 con cần đẩy lại 804 D111,process,1000530975,2026-10-09,2026-10-10,,-
+1063,CK PARC MALL Q8,Charles & Keith,HCM,7,132,,,,kiểm kê 15/10,process,1000530977,2026-10-09,2026-10-10,,-
+1063,CK PARC MALL Q8,Charles & Keith,HCM,1,,5.0,,,kiểm kê 15/10,process,1000530978,2026-10-09,2026-10-10,,-
+1047,CK CẦN THƠ,Charles & Keith,province,23,311,,,,-,process,1000530987,2026-10-10,2026-10-12,,-
+1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,1,,13.0,,,-,process,1000530996,2026-10-10,2026-10-10,,-
+1039,CK VẠN HẠNH,Charles & Keith,HCM,1,,13.0,,,có 1 con cần đẩy lại 804 D111,process,1000530998,2026-10-10,2026-10-10,,-
+1025,CK LÊ VĂN SỸ,Charles & Keith,HCM,1,,5.0,,,-,process,1000531008,2026-10-10,2026-10-10,,-
+1025,CK LÊ VĂN SỸ,Charles & Keith,HCM,1,7,,,,đồng phục,process,1000531009,2026-10-10,2026-10-10,,-
+1062,CK VIVO,Charles & Keith,HCM,1,,13.0,,,-,process,1000531048,2026-10-10,2026-10-10,,-
+1061,CK Kiên Giang,Charles & Keith,province,1,,5.0,,,-,process,1000531280,2026-10-11,2026-10-12,,-
+CK 99M2,TIKI,Charles & Keith,HCM,0,1,,,,-,Pending,1000531648,2026-10-13,,,-
+1063,CK PARC MALL Q8,Charles & Keith,HCM,3,53,,,,-,process,1000532367,2026-10-14,2026-10-16,,-
+1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,3,39,,,,thiếu 1,process,1000532846,2026-10-15,2026-10-16,,-
+1038,CK THẢO ĐIỀN,Charles & Keith,HCM,2,33,,,,-,process,1000532854,2026-10-15,2026-10-16,,-
+1067,CK Crescent Mall,Charles & Keith,HCM,3,53,,,,-,process,1000532896,2026-10-15,2026-10-16,,-
+5811,Birkenstock Vincom Landmark Hồ Chí Minh,BIRKENSTOCK,HCM,1,5,,,,-,process,1000532904,2026-10-15,2026-10-16,,-
+1062,CK VIVO,Charles & Keith,HCM,4,60,,,,-,process,1000532910,2026-10-15,2026-10-16,,-
+5803,Birkenstock Crescent Mall,BIRKENSTOCK,HCM,1,6,,,,-,process,1000532969,2026-10-15,2026-10-16,,-
+1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,6,129,,,,-,process,1000532991,2026-10-15,2026-10-16,,-
+5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,province,1,5,,,,-,process,1000533027,2026-10-15,2026-10-19,,-
+1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,4,49,,,,-,process,1000533078,2026-10-15,2026-10-16,,-
+5808,Birkenstock Vạn Hạnh,BIRKENSTOCK,HCM,4,36,,,,-,process,1000533103,2026-10-15,2026-10-16,,-
+5810,Birkenstock VINCOM TDH,BIRKENSTOCK,province,3,24,,,,-,process,1000533121,2026-10-15,2026-10-16,,-
+1051,CK SÀI GÒN,Charles & Keith,HCM,5,98,,,,thiếu 1,process,1000533138,2026-10-15,2026-10-16,,-
+1059,CK HÙNG VƯƠNG,Charles & Keith,HCM,4,49,,,,-,process,1000533181,2026-10-15,2026-10-16,,-
+1039,CK VẠN HẠNH,Charles & Keith,HCM,5,79,,,,-,process,1000533215,2026-10-15,2026-10-16,,-
+5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,1,,3.0,,,-,process,1000533242,2026-10-15,2026-10-19,,-
+1044,CK VŨNG TÀU,Charles & Keith,province,2,24,,,,-,process,1000533250,2026-10-15,2026-10-19,,-
+5802,Birkenstock Vincom Đồng Khởi,BIRKENSTOCK,HCM,3,33,,,,-,process,1000533277,2026-10-15,2026-10-16,,-
+5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,1,12,,,,-,process,1000533284,2026-10-16,2026-10-19,,-
+5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,4,40,,,,-,process,1000533325,2026-10-16,2026-10-19,,-
+1047,CK CẦN THƠ,Charles & Keith,province,8,112,,,,-,process,1000533423,2026-10-16,2026-10-19,,-
+1061,CK Kiên Giang,Charles & Keith,province,4,51,,,,-,process,1000533616,2026-10-17,2026-10-19,,-
+5801,Birkenstock Sài Gòn Centre,BIRKENSTOCK,HCM,5,43,,,,-,process,1000533748,2026-10-17,2026-10-16,,-
+CV 99M2,TIKI,CONVERSE,HCM,0,21,,,,-,Pending,1000534113,2026-10-19,,,-
+NBL 99M2,TIKI,NEW BALANCE,HCM,0,8,,,,-,Pending,1000534114,2026-10-19,,,-
+CK 99M2,TIKI,Charles & Keith,HCM,0,4,,,,-,Pending,1000534222,2026-10-20,,,-
+CV 99M2,TIKI,CONVERSE,HCM,0,1,,,,-,Pending,1000534223,2026-10-20,,,-
+5810,Birkenstock VINCOM TDH,BIRKENSTOCK,province,1,6,,,,-,Pending,1000534304,2026-10-20,,,-
+5805,Birkens Gold Coast NT,BIRKENSTOCK,province,1,6,,,,-,Pending,1000534338,2026-10-20,,,-
+5808,Birkenstock Vạn Hạnh,BIRKENSTOCK,HCM,1,2,,,,-,process,1000534351,2026-10-20,2026-10-21,,-
+5803,Birkenstock Crescent Mall,BIRKENSTOCK,HCM,1,5,,,,-,process,1000534366,2026-10-20,2026-10-21,,-
+5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,2,16,,,,-,Pending,1000534402,2026-10-20,,,-
+5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,province,0,9,,,,-,Pending,1000534442,2026-10-20,,,-
+5801,Birkenstock Sài Gòn Centre,BIRKENSTOCK,HCM,1,1,,,,-,process,1000534449,2026-10-20,2026-10-21,,-
+5801,Birkenstock Sài Gòn Centre,BIRKENSTOCK,HCM,1,,4.0,,,-,process,1000534452,2026-10-20,2026-10-21,,-
+5802,Birkenstock Vincom Đồng Khởi,BIRKENSTOCK,HCM,1,4,,,,-,process,1000534581,2026-10-20,2026-10-21,,-
