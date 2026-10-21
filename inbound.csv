@@ -1,7 +1,6 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1067,CK Crescent Mall,Charles & Keith,HCM,1,,9.0,,,-,process,1000530930,2026-10-09,2026-10-10,,-
 1051,CK SÀI GÒN,Charles & Keith,HCM,1,,5.0,,,có 1 con cần đẩy lại 804 D111,process,1000530975,2026-10-09,2026-10-10,,-
-1063,CK PARC MALL Q8,Charles & Keith,HCM,7,132,,,,kiểm kê 15/10,process,1000530977,2026-10-09,2026-10-10,,-
 1063,CK PARC MALL Q8,Charles & Keith,HCM,1,,5.0,,,kiểm kê 15/10,process,1000530978,2026-10-09,2026-10-10,,-
 1047,CK CẦN THƠ,Charles & Keith,province,23,311,,,,-,process,1000530987,2026-10-10,2026-10-12,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,1,,13.0,,,-,process,1000530996,2026-10-10,2026-10-10,,-
