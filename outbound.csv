@@ -1,7 +1,7 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 62588,2026-10-21,2026-10-21,posted,0,BIRKENSTOCK,5801,Birkenstock Sài Gòn Centre,HCM,4500234569,80238980,BSD1 WEEK 43,7,75.0,,75
-62589,2026-10-21,,post null,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,HCM,4500234570,80238981,BSD1 WEEK 43,0,,,57
-62590,2026-10-21,,post null,0,BIRKENSTOCK,5803,Birkenstock Crescent Mall,HCM,4500234571,80238982,BSD1 WEEK 43,0,,,72
+62589,2026-10-21,2026-10-21,posted,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,HCM,4500234570,80238981,BSD1 WEEK 43,5,57.0,,57
+62590,2026-10-21,2026-10-21,posted,0,BIRKENSTOCK,5803,Birkenstock Crescent Mall,HCM,4500234571,80238982,BSD1 WEEK 43,5,72.0,,72
 62593,2026-10-21,2026-10-21,posted,0,BIRKENSTOCK,5805,Birkens Gold Coast NT,province,4500234574,80238985,BSD1 WEEK 43,4,45.0,,45
 62594,2026-10-21,2026-10-21,posted,0,BIRKENSTOCK,5806,Birkenstock Lotte Tây Hồ,province,4500234575,80238986,BSD1 WEEK 43,4,45.0,,45
 62599,2026-10-21,,post null,0,BIRKENSTOCK,5806,Birkenstock Lotte Tây Hồ,province,4500234580,80238991,TÚI GIẤY,0,,,150
