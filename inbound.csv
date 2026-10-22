@@ -2,11 +2,11 @@ shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm
 1051,CK SÀI GÒN,Charles & Keith,HCM,1,,5.0,,,có 1 con cần đẩy lại 804 D111,process,1000530975,2026-10-09,2026-10-10,,-
 1061,CK Kiên Giang,Charles & Keith,province,1,,5.0,,,-,process,1000531280,2026-10-11,2026-10-12,,-
 CK 99M2,TIKI,Charles & Keith,HCM,0,1,,,,-,Pending,1000531648,2026-10-13,,,-
-1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,3,39,,,,thiếu 1,process,1000532846,2026-10-15,2026-10-16,,-
-1038,CK THẢO ĐIỀN,Charles & Keith,HCM,2,33,,,,-,process,1000532854,2026-10-15,2026-10-16,,-
-1067,CK Crescent Mall,Charles & Keith,HCM,3,53,,,,-,process,1000532896,2026-10-15,2026-10-16,,-
+1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,3,39,,,,thiếu 1,post,1000532846,2026-10-15,2026-10-16,,-
+1038,CK THẢO ĐIỀN,Charles & Keith,HCM,2,33,,,,-,post,1000532854,2026-10-15,2026-10-16,,-
+1067,CK Crescent Mall,Charles & Keith,HCM,3,53,,,,-,post,1000532896,2026-10-15,2026-10-16,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,province,3,24,,,,-,process,1000533121,2026-10-15,2026-10-16,,-
-1039,CK VẠN HẠNH,Charles & Keith,HCM,5,79,,,,-,process,1000533215,2026-10-15,2026-10-16,,-
+1039,CK VẠN HẠNH,Charles & Keith,HCM,5,79,,,,-,post,1000533215,2026-10-15,2026-10-16,,-
 5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,1,,3.0,,,-,process,1000533242,2026-10-15,2026-10-19,,-
 CV 99M2,TIKI,CONVERSE,HCM,0,21,,,,-,Pending,1000534113,2026-10-19,,,-
 NBL 99M2,TIKI,NEW BALANCE,HCM,0,8,,,,-,Pending,1000534114,2026-10-19,,,-
