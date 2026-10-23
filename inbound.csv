@@ -1,56 +1,51 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1051,CK SÀI GÒN,Charles & Keith,HCM,1,,5.0,,,có 1 con cần đẩy lại 804 D111,process,1000530975,2026-10-09,2026-10-10,,-
-1061,CK Kiên Giang,Charles & Keith,province,1,,5.0,,,-,process,1000531280,2026-10-11,2026-10-12,,-
-CK 99M2,TIKI,Charles & Keith,HCM,0,1,,,,-,Pending,1000531648,2026-10-13,,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,province,3,24,,,,-,process,1000533121,2026-10-15,2026-10-16,,-
-CV 99M2,TIKI,CONVERSE,HCM,0,21,,,,-,Pending,1000534113,2026-10-19,,,-
-NBL 99M2,TIKI,NEW BALANCE,HCM,0,8,,,,-,Pending,1000534114,2026-10-19,,,-
-CK 99M2,TIKI,Charles & Keith,HCM,0,4,,,,-,Pending,1000534222,2026-10-20,,,-
-CV 99M2,TIKI,CONVERSE,HCM,0,1,,,,-,Pending,1000534223,2026-10-20,,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,province,1,6,,,,-,Pending,1000534304,2026-10-20,,,-
 5805,Birkens Gold Coast NT,BIRKENSTOCK,province,1,6,,,,-,Pending,1000534338,2026-10-20,,,-
 5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,2,16,,,,-,Pending,1000534402,2026-10-20,,,-
 5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,province,0,9,,,,-,Pending,1000534442,2026-10-20,,,-
 5801,Birkenstock Sài Gòn Centre,BIRKENSTOCK,HCM,1,,4.0,,,-,process,1000534452,2026-10-20,2026-10-21,,-
-CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,province,0,2,,,,hàng cần 701 702 giùm,Pending,80239150,2026-10-21,,,-
+CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,province,1,2,,,,đồng phục cần 701 702 giùm,Pending,80239150,2026-10-21,,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,0,4,,,,-,Pending,1000534981,2026-10-21,,,-
-1063,CK PARC MALL Q8,Charles & Keith,HCM,0,166,,,,-,Pending,1000535098,2026-10-21,,,-
-1152,PD PARC MALL Q8,Pedro,HCM,0,22,,,,-,process,1000535228,2026-10-21,2026-10-23,,-
+1063,CK PARC MALL Q8,Charles & Keith,HCM,12,166,,,,-,process,1000535098,2026-10-21,2026-10-23,,-
+1152,PD PARC MALL Q8,Pedro,HCM,1,22,,,,-,process,1000535228,2026-10-21,2026-10-23,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,0,4,,,,-,Pending,1000535423,2026-10-22,,,-
-1067,CK Crescent Mall,Charles & Keith,HCM,0,151,,,,-,Pending,1000535491,2026-10-22,,,-
-1142,PD TÂN PHÚ,Pedro,HCM,0,17,,,,-,process,1000535582,2026-10-22,2026-10-23,,-
+1067,CK Crescent Mall,Charles & Keith,HCM,5,151,,,,-,process,1000535491,2026-10-22,2026-10-23,,-
+1142,PD TÂN PHÚ,Pedro,HCM,1,17,,,,-,process,1000535582,2026-10-22,2026-10-23,,-
 1151,PD QUANG TRUNG,Pedro,HCM,0,18,,,,-,process,1000535583,2026-10-22,2026-10-23,,-
-1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,0,246,,,,-,Pending,1000535601,2026-10-22,,,-
-1129,PD SÀI GÒN,Pedro,HCM,0,35,,,,-,process,1000535602,2026-10-22,2026-10-23,,-
+1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,16,246,,,,-,process,1000535601,2026-10-22,2026-10-23,,-
+1129,PD SÀI GÒN,Pedro,HCM,3,35,,,,-,process,1000535602,2026-10-22,2026-10-23,,-
 1132,PD LÊ VĂN SỸ,Pedro,HCM,0,24,,,,-,process,1000535603,2026-10-22,2026-10-23,,-
 1141,PD BÌNH DƯƠNG,Pedro,province,0,13,,,,-,Pending,1000535604,2026-10-22,,,-
 1141,PD BÌNH DƯƠNG,Pedro,province,0,205,,,,-,Pending,1000535606,2026-10-22,,,-
-1158,Pedro Cresscent Mall,Pedro,HCM,0,2,,,,-,process,1000535610,2026-10-22,2026-10-23,,-
-1125,PD VIVO,Pedro,HCM,0,9,,,,-,process,1000535628,2026-10-22,2026-10-23,,-
-1131,PD VẠN HẠNH,Pedro,HCM,0,28,,,,-,process,1000535629,2026-10-22,2026-10-23,,-
-1157,PD BÌNH TÂN,Pedro,HCM,0,8,,,,-,process,1000535632,2026-10-22,2026-10-23,,-
-1038,CK THẢO ĐIỀN,Charles & Keith,HCM,0,185,,,,-,Pending,1000535651,2026-10-22,,,-
-1122,PD ĐỒNG KHỞI,Pedro,HCM,0,23,,,,-,process,1000535693,2026-10-22,2026-10-23,,-
-1150,PD NGUYỄN TRÃI FLAGSHIP,Pedro,HCM,0,26,,,,-,process,1000535737,2026-10-22,2026-10-23,,-
-1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,0,260,,,,-,Pending,1000535743,2026-10-22,,,-
-1039,CK VẠN HẠNH,Charles & Keith,HCM,0,224,,,,-,Pending,1000535753,2026-10-22,,,-
+1158,Pedro Cresscent Mall,Pedro,HCM,1,2,,,,-,process,1000535610,2026-10-22,2026-10-23,,-
+1125,PD VIVO,Pedro,HCM,1,9,,,,-,process,1000535628,2026-10-22,2026-10-23,,-
+1131,PD VẠN HẠNH,Pedro,HCM,2,28,,,,-,process,1000535629,2026-10-22,2026-10-23,,-
+1157,PD BÌNH TÂN,Pedro,HCM,1,8,,,,-,process,1000535632,2026-10-22,2026-10-23,,-
+1038,CK THẢO ĐIỀN,Charles & Keith,HCM,14,185,,,,-,process,1000535651,2026-10-22,2026-10-23,,-
+1122,PD ĐỒNG KHỞI,Pedro,HCM,3,23,,,,-,process,1000535693,2026-10-22,2026-10-23,,-
+1150,PD NGUYỄN TRÃI FLAGSHIP,Pedro,HCM,2,26,,,,-,process,1000535737,2026-10-22,2026-10-23,,-
+1021,CK NGUYỄN TRÃI,Charles & Keith,HCM,17,260,,,,-,process,1000535743,2026-10-22,2026-10-23,,-
+1039,CK VẠN HẠNH,Charles & Keith,HCM,15,224,,,,-,process,1000535753,2026-10-22,2026-10-23,,-
 PD 99M3,KHO ECOM THỦ ĐỨC,Pedro,HCM,0,26,,,,-,process,1000535773,2026-10-22,2026-10-23,,-
 NIKE 99M3,KHO ECOM THỦ ĐỨC,NIKE,HCM,0,2,,,,-,Pending,1000535774,2026-10-22,,,-
 NBL 99M3,KHO ECOM THỦ ĐỨC,NEW BALANCE,HCM,0,2,,,,-,Pending,1000535775,2026-10-22,,,-
 CV 99M3,KHO ECOM THỦ ĐỨC,CONVERSE,HCM,0,1,,,,-,Pending,1000535776,2026-10-22,,,-
 BK 99M3,KHO ECOM THỦ ĐỨC,BIRKENSTOCK,HCM,0,1,,,,-,Pending,1000535777,2026-10-22,,,-
-CK 99M3,KHO ECOM THỦ ĐỨC,Charles & Keith,HCM,0,42,,,,-,Pending,1000535778,2026-10-22,,,-
-1050,CK TÂN PHÚ,Charles & Keith,HCM,0,194,,,,-,Pending,1000535786,2026-10-22,,,-
-1136,PD HAI BÀ TRƯNG,Pedro,HCM,0,12,,,,-,process,1000535794,2026-10-22,2026-10-23,,-
-1052,CK BÌNH TÂN,Charles & Keith,HCM,0,172,,,,-,Pending,1000535839,2026-10-22,,,-
-1025,CK LÊ VĂN SỸ,Charles & Keith,HCM,0,295,,,,-,Pending,1000535911,2026-10-22,,,-
-1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,0,340,,,,-,Pending,1000535912,2026-10-22,,,-
-1139,PD CẦN THƠ,Pedro,province,0,142,,,,-,Pending,1000535934,2026-10-22,,,-
-1139,PD CẦN THƠ,Pedro,province,0,4,,,,-,Pending,1000535935,2026-10-22,,,-
-1153,PD HUẾ,Pedro,province,0,114,,,,-,Pending,1000535941,2026-10-22,,,-
-1058,CK Biên Hòa,Charles & Keith,province,0,218,,,,-,Pending,1000535945,2026-10-22,,,-
-1059,CK HÙNG VƯƠNG,Charles & Keith,HCM,0,177,,,,-,Pending,1000535961,2026-10-22,,,-
-1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,254,,,,-,Pending,1000535998,2026-10-22,,,-
+CK 99M3,KHO ECOM THỦ ĐỨC,Charles & Keith,HCM,0,42,,,,-,process,1000535778,2026-10-22,2026-10-23,,-
+1050,CK TÂN PHÚ,Charles & Keith,HCM,13,194,,,,-,process,1000535786,2026-10-22,2026-10-23,,-
+1136,PD HAI BÀ TRƯNG,Pedro,HCM,1,12,,,,-,process,1000535794,2026-10-22,2026-10-23,,-
+1052,CK BÌNH TÂN,Charles & Keith,HCM,10,172,,,,-,process,1000535839,2026-10-22,2026-10-23,,-
+1025,CK LÊ VĂN SỸ,Charles & Keith,HCM,15,295,,,,-,process,1000535911,2026-10-22,2026-10-23,,-
+1036,CK ĐỒNG KHỞI,Charles & Keith,HCM,23,340,,,,-,process,1000535912,2026-10-22,2026-10-23,,-
+1139,PD CẦN THƠ,Pedro,province,9,142,,,,-,Pending,1000535934,2026-10-22,,,-
+1139,PD CẦN THƠ,Pedro,province,1,4,,,,-,Pending,1000535935,2026-10-22,,,-
+1153,PD HUẾ,Pedro,province,5,114,,,,-,Pending,1000535941,2026-10-22,,,-
+1058,CK Biên Hòa,Charles & Keith,province,15,218,,,,-,Pending,1000535945,2026-10-22,,,-
+1059,CK HÙNG VƯƠNG,Charles & Keith,HCM,14,177,,,,-,process,1000535961,2026-10-22,2026-10-23,,-
+1049,CK BÌNH DƯƠNG,Charles & Keith,province,16,254,,,,+CKBH+CKCT+CKSG+CKVVN,Pending,1000535998,2026-10-22,,,-
 1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,province,0,14,,,,-,Pending,1000536006,2026-10-22,,,-
-1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,,4.0,,,-,Pending,1000536018,2026-10-22,,,-
-1062,CK VIVO,Charles & Keith,HCM,0,169,,,,-,Pending,1000536033,2026-10-22,,,-
+1049,CK BÌNH DƯƠNG,Charles & Keith,province,1,,4.0,,,+CKBH+CKCT+CKSG+CKVVN,Pending,1000536018,2026-10-22,,,-
+1062,CK VIVO,Charles & Keith,HCM,10,169,,,,-,process,1000536033,2026-10-22,2026-10-23,,-
+1051,CK SÀI GÒN,Charles & Keith,HCM,15,273,,,,-,Pending,-,,2026-10-23,,-
