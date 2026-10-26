@@ -1,9 +1,9 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1051,CK SÀI GÒN,Charles & Keith,HCM,1,,5.0,,,có 1 con cần đẩy lại 804 D111,process,1000530975,2026-10-09,2026-10-10,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,province,1,6,,,,-,process,1000534304,2026-10-20,2026-10-26,,-
-5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,0,4,,,,-,Pending,1000534981,2026-10-21,,,-
+5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,1,4,,,,-,process,1000534981,2026-10-21,2026-10-26,,-
 1063,CK PARC MALL Q8,Charles & Keith,HCM,12,166,,,,-,process,1000535098,2026-10-21,2026-10-23,,-
-5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,0,4,,,,-,Pending,1000535423,2026-10-22,,,-
+5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,0,4,,,,đồng phục,process,1000535423,2026-10-22,2026-10-26,,-
 1060,CK VÕ VĂN NGÂN,Charles & Keith,HCM,16,246,,,,-,process,1000535601,2026-10-22,2026-10-23,,-
 1141,PD BÌNH DƯƠNG,Pedro,province,2,13,,,,PD TD,process,1000535604,2026-10-22,2026-10-24,,-
 1141,PD BÌNH DƯƠNG,Pedro,province,21,205,,,,kiểm kê 27.10,process,1000535606,2026-10-22,2026-10-24,,-
@@ -22,8 +22,6 @@ CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,province,12,166,,,,-,proces
 1061,CK Kiên Giang,Charles & Keith,province,22,255,,,,-,process,1000536171,2026-10-23,2026-10-26,,-
 1144,PD DN VINCOM,Pedro,province,14,196,,,,có lẫn 4 pc của PD TD; put kệ lun đi,process,1000536196,2026-10-23,2026-10-26,,-
 1047,CK CẦN THƠ,Charles & Keith,province,8,144,,,,+CK BD,process,1000536199,2026-10-23,2026-10-26,,-
-1047,CK CẦN THƠ,Charles & Keith,province,1,1,,,,đồng phục,process,1000536200,2026-10-23,2026-10-26,,-
-1047,CK CẦN THƠ,Charles & Keith,province,0,1,,,,đồng phục,process,1000536209,2026-10-23,2026-10-26,,-
 1146,PD DN LÊ DUẨN,Pedro,province,8,100,,,,-,process,1000536211,2026-10-23,2026-10-26,,-
 1137,PD VŨNG TÀU,Pedro,province,10,123,,,,-,process,1000536260,2026-10-24,2026-10-24,,-
 1137,PD VŨNG TÀU,Pedro,province,1,1,,,,-,process,1000536261,2026-10-24,2026-10-24,,-
