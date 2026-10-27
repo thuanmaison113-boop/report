@@ -1,8 +1,5 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1051,CK SÀI GÒN,Charles & Keith,City,1,,5.0,,,có 1 con cần đẩy lại 804 D111,process,1000530975,2026-10-09,2026-10-10,,-
-5810,Birkenstock VINCOM TDH,BIRKENSTOCK,province,1,6,,,,-,process,1000534304,2026-10-20,2026-10-26,,-
-5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,1,4,,,,-,process,1000534981,2026-10-21,2026-10-26,,-
-5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,0,4,,,,đồng phục,process,1000535423,2026-10-22,2026-10-26,,-
 1060,CK VÕ VĂN NGÂN,Charles & Keith,City,16,246,,,,-,process,1000535601,2026-10-22,2026-10-23,,-
 1141,PD BÌNH DƯƠNG,Pedro,province,2,13,,,,PD TD,process,1000535604,2026-10-22,2026-10-24,,-
 1141,PD BÌNH DƯƠNG,Pedro,province,21,205,,,,kiểm kê 27.10,process,1000535606,2026-10-22,2026-10-24,,-
@@ -25,7 +22,6 @@ CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,province,12,166,,,,-,proces
 1137,PD VŨNG TÀU,Pedro,province,2,24,,,,PD TD,process,1000536280,2026-10-24,2026-10-24,,-
 1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,province,1,11,,,,PD TD,process,1000536345,2026-10-24,2026-10-26,,-
 1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,province,12,214,,,,-,process,1000536355,2026-10-24,2026-10-26,,-
-1051,CK SÀI GÒN,Charles & Keith,City,15,273,,,,-,process,1000536453,2026-10-24,2026-10-23,,-
 1053,CK VC Bà Triệu HN,Charles & Keith,province,1,2,,,,-,Pending,1000536675,2026-10-25,,,-
 1146,PD DN LÊ DUẨN,Pedro,province,4,35,,,,PD TD,process,-,,2026-10-26,,-
 1144,PD DN VINCOM,Pedro,province,2,22,,,,PD TD,process,1000536696,2026-10-26,2026-10-26,,-
