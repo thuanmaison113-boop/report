@@ -1,4 +1,13 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
+62891,2026-10-27,,post null,0,Charles & Keith,1029,CK LÊ THÁI TỔ ,province,4500235504,80239976,VMPROPS,0,,,20
+62892,2026-10-27,,post null,0,Charles & Keith,1043,CK AEONMALL HN,province,4500235508,80239977,VMPROPS,0,,,40
+62893,2026-10-27,,post null,0,Charles & Keith,1046,CK Hà Đông HN,province,4500235510,80239978,VMPROPS,0,,,40
+62894,2026-10-27,,post null,0,Charles & Keith,1048,CK HẢI  PHÒNG,province,4500235511,80239979,VMPROPS,0,,,40
+62895,2026-10-27,,post null,0,Charles & Keith,1054,CK INDOCHINA PLAZA HN,province,4500235516,80239980,VMPROPS,0,,,40
+62896,2026-10-27,,post null,0,Charles & Keith,1056,CK LOTE HT HN,province,4500235517,80239981,VMPROPS,0,,,40
+62897,2026-10-27,,post null,0,Charles & Keith,1065,CK Royal City HN,province,4500235522,80239982,VMPROPS,0,,,40
+62898,2026-10-27,,post null,0,Charles & Keith,1068,CK ĐÀ NẴNG THANH KHÊ,province,4500235524,80239983,VMPROPS,0,,,40
+62899,2026-10-27,,post null,0,Charles & Keith,1069,CK Thanh Hóa,province,4500235525,80239984,VMPROPS,0,,,40
 62860,2026-10-27,,post null,0,Pedro,1122,PD ĐỒNG KHỞI,City,4500235528,80239933,BSD1 W44,0,,,154
 62879,2026-10-27,,post null,0,Pedro,1122,PD ĐỒNG KHỞI,City,4500235547,80239952,TUI GIAY ,0,,,200
 62861,2026-10-27,,post null,0,Pedro,1125,PD VIVO,City,4500235529,80239934,BSD1 W44,0,,,49
