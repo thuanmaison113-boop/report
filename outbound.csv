@@ -1,5 +1,6 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 62891,2026-10-27,,post null,0,Charles & Keith,1029,CK LÊ THÁI TỔ ,province,4500235504,80239976,VMPROPS,0,,,20
+62915,2026-10-27,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,City,4500235500,80240053,dong phuc,0,,,2
 62892,2026-10-27,,post null,0,Charles & Keith,1043,CK AEONMALL HN,province,4500235508,80239977,VMPROPS,0,,,40
 62893,2026-10-27,,post null,0,Charles & Keith,1046,CK Hà Đông HN,province,4500235510,80239978,VMPROPS,0,,,40
 62894,2026-10-27,,post null,0,Charles & Keith,1048,CK HẢI  PHÒNG,province,4500235511,80239979,VMPROPS,0,,,40
