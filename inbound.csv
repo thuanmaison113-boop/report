@@ -3,7 +3,7 @@ shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm
 1049,CK BÌNH DƯƠNG,Charles & Keith,province,1,,4.0,,,kiểm kê 27.10,process,1000536018,2026-10-22,2026-10-23,,-
 1053,CK VC Bà Triệu HN,Charles & Keith,province,1,2,,,,-,Pending,1000536675,2026-10-25,,,-
 5805,Birkens Gold Coast NT,BIRKENSTOCK,province,0,2,,,,-,Pending,1000536973,2026-10-27,,,-
-5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,3,36,,,,-,Pending,1000537003,2026-10-27,,,-
+5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,3,36,,,,-,process,1000537003,2026-10-27,2026-10-31,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,province,0,5,,,,-,Pending,1000537085,2026-10-27,,,-
 PD 99M1,KHO HẬU MÃI QUẬN 8,Pedro,City,28,349,,,,-,process,1000537100,2026-10-27,2026-10-28,,-
 5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,province,1,1,,,,-,process,1000537244,2026-10-27,2026-10-28,,-
@@ -15,13 +15,11 @@ PD 99M1,KHO HẬU MÃI QUẬN 8,Pedro,City,28,349,,,,-,process,1000537100,2026-1
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,province,0,6,,,,-,Pending,1000538024,2026-10-29,,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,City,9,114,,,,-,process,1000538208,2026-10-29,2026-10-30,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,City,1,,7.0,,,-,process,1000538240,2026-10-29,2026-10-30,,-
-1021,CK NGUYỄN TRÃI,Charles & Keith,City,8,126,,,,-,process,1000538257,2026-10-29,2026-10-30,,-
 1137,PD VŨNG TÀU,Pedro,province,4,75,,,,-,Pending,1000538262,2026-10-29,,,-
 1051,CK SÀI GÒN,Charles & Keith,City,0,1,,,,nằm chung lô 11 thùng,process,1000538272,2026-10-29,2026-10-30,,-
 1051,CK SÀI GÒN,Charles & Keith,City,1,,6.0,,,-,process,1000538273,2026-10-29,2026-10-30,,-
 1051,CK SÀI GÒN,Charles & Keith,City,11,113,,,,-,process,1000538274,2026-10-29,2026-10-30,,-
 1146,PD DN LÊ DUẨN,Pedro,province,3,48,,,,-,Pending,1000538276,2026-10-29,,,-
-1038,CK THẢO ĐIỀN,Charles & Keith,City,4,66,,,,-,process,1000538294,2026-10-29,2026-10-30,,-
 1038,CK THẢO ĐIỀN,Charles & Keith,City,1,,7.0,,,-,process,1000538316,2026-10-29,2026-10-30,,-
 1059,CK HÙNG VƯƠNG,Charles & Keith,City,1,23,,,,-,process,1000538321,2026-10-29,2026-10-30,,-
 1067,CK Crescent Mall,Charles & Keith,City,9,141,,,,-,process,1000538332,2026-10-29,2026-10-30,,-
@@ -31,7 +29,6 @@ PD 99M3,KHO ECOM THỦ ĐỨC,Pedro,City,0,1,,,,QC,process,1000538344,2026-10-29
 1144,PD DN VINCOM,Pedro,province,0,98,,,,-,Pending,1000538429,2026-10-29,,,-
 1059,CK HÙNG VƯƠNG,Charles & Keith,City,1,,5.0,,,-,process,1000538441,2026-10-29,2026-10-30,,-
 1050,CK TÂN PHÚ,Charles & Keith,City,1,,6.0,,,-,process,1000538449,2026-10-29,2026-10-30,,-
-1049,CK BÌNH DƯƠNG,Charles & Keith,province,8,137,,,,kiểm kê 27.10,Pending,1000538454,2026-10-29,,,-
 1062,CK VIVO,Charles & Keith,City,4,47,,,,-,process,1000538489,2026-10-29,2026-10-30,,-
 1039,CK VẠN HẠNH,Charles & Keith,City,11,163,,,,-,process,1000538522,2026-10-29,2026-10-30,,-
 1039,CK VẠN HẠNH,Charles & Keith,City,2,,12.0,,,-,process,1000538523,2026-10-29,2026-10-30,,-
