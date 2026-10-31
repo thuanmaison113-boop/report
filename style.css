@@ -1,0 +1,140 @@
+/* ==========================================
+   WAREHOUSE DASHBOARD
+========================================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif;
+    background:#f3f6fa;
+    color:#222;
+    padding:25px;
+}
+
+/* HEADER */
+header{
+    text-align:center;
+    margin-bottom:30px;
+}
+
+header h1{
+    font-size:32px;
+    font-weight:700;
+    color:#163447;
+}
+
+/* GRID */
+.dashboard{
+    display:grid;
+    grid-template-columns:repeat(2,minmax(450px,1fr));
+    gap:25px;
+}
+
+/* CARD */
+.card{
+    background:#fff;
+    border-radius:10px;
+    overflow:auto;
+    box-shadow:0 2px 8px rgba(0,0,0,.12);
+}
+
+.card-title{
+    color:#fff;
+    font-size:18px;
+    font-weight:700;
+    text-align:center;
+    padding:14px;
+}
+
+.inbound{
+    background:#163447;
+}
+
+.outbound{
+    background:#5b185d;
+}
+
+/* TABLE */
+table{
+    width:100%;
+    border-collapse:collapse;
+    font-size:15px;
+}
+
+thead th{
+    background:#cfe8f7;
+    border:1px solid #b5d3e7;
+    padding:10px;
+    font-weight:700;
+    text-align:center;
+}
+
+tbody td{
+    border:1px solid #d5dce4;
+    padding:8px;
+    text-align:center;
+    vertical-align:middle;
+    font-variant-numeric:tabular-nums;
+}
+
+tbody tr:nth-child(even){
+    background:#fafafa;
+}
+
+tbody tr:hover{
+    background:#eef7ff;
+}
+
+tfoot th,
+tfoot td{
+    background:#d8edf9;
+    border:1px solid #b5d3e7;
+    padding:10px;
+    font-weight:700;
+    text-align:center;
+    vertical-align:middle;
+}
+
+/* SCROLLBAR */
+::-webkit-scrollbar{
+    width:10px;
+    height:10px;
+}
+
+::-webkit-scrollbar-thumb{
+    background:#9db4c8;
+    border-radius:20px;
+}
+
+::-webkit-scrollbar-track{
+    background:#edf3f7;
+}
+
+/* RESPONSIVE */
+@media (max-width:1100px){
+    .dashboard{
+        grid-template-columns:1fr;
+    }
+}
+
+@media (max-width:700px){
+    body{
+        padding:10px;
+    }
+
+    header h1{
+        font-size:24px;
+    }
+
+    table{
+        font-size:13px;
+    }
+
+    .card-title{
+        font-size:16px;
+    }
+}

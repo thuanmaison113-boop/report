@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>MaiSon - Thủ Đức Warehouse Report</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>Maison - Thủ Đức Warehouse Report</h1>
+
+</header>
+
+<main class="dashboard">
+
+    <!-- ========================= -->
+    <!-- INBOUND                   -->
+    <!-- ========================= -->
+
+    <section class="card">
+
+        <div class="card-title inbound">
+            PULLBACK PENDING BY BRAND
+        </div>
+
+        <table id="tblInboundBrand">
+
+            <thead>
+
+            <tr>
+                <th>Brand</th>
+                <th>Box</th>
+                <th>Product</th>
+            </tr>
+
+            </thead>
+
+            <tbody>
+
+            <!-- javascript -->
+
+            </tbody>
+
+            <tfoot>
+
+            <tr>
+
+                <th>Grand Total</th>
+                <th id="brandTotalBox">0</th>
+                <th id="brandTotalProduct">0</th>
+
+            </tr>
+
+            </tfoot>
+
+        </table>
+
+    </section>
+
+
+    <section class="card">
+
+        <div class="card-title inbound">
+
+            PULLBACK PENDING BY ARRIVAL DATE
+
+        </div>
+
+        <table id="tblInboundArrival">
+
+            <thead>
+
+            <tr>
+
+                <th>Arrival Date</th>
+                <th>Product</th>
+                <th>Taras</th>
+                <th>Paper</th>
+                <th>VM</th>
+
+            </tr>
+
+            </thead>
+
+            <tbody>
+
+            </tbody>
+
+            <tfoot>
+
+            <tr>
+
+                <th>Grand Total</th>
+
+                <th id="arrivalProduct">0</th>
+                <th id="arrivalTaras">0</th>
+                <th id="arrivalPaper">0</th>
+                <th id="arrivalVm">0</th>
+
+            </tr>
+
+            </tfoot>
+
+        </table>
+
+    </section>
+
+
+
+    <!-- ========================= -->
+    <!-- OUTBOUND                  -->
+    <!-- ========================= -->
+
+
+
+    <section class="card">
+
+        <div class="card-title outbound">
+
+            OUTBOUND TODAY - POSTED
+
+        </div>
+
+        <table id="tblOutboundPosted">
+
+            <thead>
+
+            <tr>
+
+                <th>Brand</th>
+                <th>Product</th>
+                <th>Paper</th>
+
+            </tr>
+
+            </thead>
+
+            <tbody>
+
+            </tbody>
+
+            <tfoot>
+
+            <tr>
+
+                <th>Grand Total</th>
+
+                <th id="postedProduct">0</th>
+                <th id="postedPaper">0</th>
+
+            </tr>
+
+            </tfoot>
+
+        </table>
+
+    </section>
+
+
+
+    <section class="card">
+
+        <div class="card-title outbound">
+
+            OUTBOUND TODAY - PENDING
+
+        </div>
+
+        <table id="tblOutboundPending">
+
+            <thead>
+
+            <tr>
+
+                <th>Brand</th>
+                <th>Shop</th>
+                <th>DO Number</th>
+                <th>Type</th>
+                <th>Order Qty</th>
+
+            </tr>
+
+            </thead>
+
+            <tbody>
+
+            </tbody>
+
+            <tfoot>
+
+            <tr>
+
+                <th colspan="4">
+
+                    Grand Total
+
+                </th>
+
+                <th id="pendingQty">0</th>
+
+            </tr>
+
+            </tfoot>
+
+        </table>
+
+    </section>
+
+</main>
+
+
+<script src="app.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,7 @@
+id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
+63095,2026-10-31,2026-10-31,posted,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500236439,80240826,chênh lệch pullback-trao đổi DO,0,3,,0
+63092,2026-10-31,2026-10-31,posted,pxk,Pedro,1159,Pedro Aeon Hạ Long Quảng Ninh,province,4500236375,80240792,GWP,2,80,,80
+62993,2026-10-31,2026-10-30,posted,pxk,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,City,4500235923,80240391,TIKI,18,154,,154
+63080,2026-10-31,2026-10-29,posted,pxk,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,City,4500235604,80240081,TIKI,49,654,,654
+63083,2026-10-31,2026-10-30,posted,pxk,Charles & Keith,CK 99M7,Kho AMILO,City,4500236350,80240781,TIKI ,18,152,,152
+63081,2026-10-31,2026-10-29,posted,pxk,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,City,4500235672,80240172,TIKI,14,207,,207
