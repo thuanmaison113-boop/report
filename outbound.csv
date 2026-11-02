@@ -16,5 +16,6 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 62992,2026-11-02,2026-10-29,posted,0,Charles & Keith,1067,CK Crescent Mall,City,4500235907,80240380,NW44 800,17,157.0,,157
 63104,2026-11-02,2026-11-02,posted,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500236513,80240859,vat tu ecom,0,,,293
 63105,2026-11-02,2026-11-02,posted,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500236514,80240860,vat tu ecom,0,,,50
-63107,2026-11-02,,post null,0,BIRKENSTOCK,5806,Birkenstock Lotte Tây Hồ,province,4500236528,80240863,order,0,,,1
-63106,2026-11-02,,post null,0,BIRKENSTOCK,5807,Birkenstock Centre Hà Nội,province,4500236527,80240862,order,0,,,1
+63108,2026-11-02,2026-11-02,posted,0,BIRKENSTOCK,5800,KHO CHUNG BIRKEN,City,4500234798,80240889,book grab lên VP cho brand hủy,1,5.0,,0
+63107,2026-11-02,2026-11-02,posted,0,BIRKENSTOCK,5806,Birkenstock Lotte Tây Hồ,province,4500236528,80240863,order,1,1.0,,1
+63106,2026-11-02,2026-11-02,posted,0,BIRKENSTOCK,5807,Birkenstock Centre Hà Nội,province,4500236527,80240862,order,1,1.0,,1
