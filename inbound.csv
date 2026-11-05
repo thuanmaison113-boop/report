@@ -1,9 +1,9 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1053,CK VC Bà Triệu HN,Charles & Keith,province,1,2.0,,,,-,Pending,1000536675,2026-10-25,,,-
 1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,3.0,,,,-,Pending,1000539001,2026-10-31,,,-
-CK 99M2,TIKI,Charles & Keith,City,0,6.0,,,,-,process,1000539583,2026-11-03,2026-11-03,,-
-CV 99M2,TIKI,CONVERSE,City,0,2.0,,,,-,process,1000539589,2026-11-03,2026-11-03,,-
-PD 99M2,TIKI,Pedro,City,0,9.0,,,,-,process,1000539591,2026-11-03,2026-11-03,,-
+CK 99M2,TIKI,Charles & Keith,City,0,6.0,,,,-,Pending,1000539583,2026-11-03,,,-
+CV 99M2,TIKI,CONVERSE,City,0,2.0,,,,-,Pending,1000539589,2026-11-03,,,-
+PD 99M2,TIKI,Pedro,City,0,9.0,,,,-,Pending,1000539591,2026-11-03,,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,province,0,167.0,,,,-,Pending,1000539653,2026-11-03,,,-
 5805,Birkens Gold Coast NT,BIRKENSTOCK,province,0,273.0,,,,-,Pending,1000539708,2026-11-03,,,-
 5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,province,10,132.0,,,,-,Pending,1000539789,2026-11-04,,,-
@@ -13,15 +13,17 @@ PD 99M2,TIKI,Pedro,City,0,9.0,,,,-,process,1000539591,2026-11-03,2026-11-03,,-
 5802,Birkenstock Vincom Đồng Khởi,BIRKENSTOCK,City,0,10.0,,,,-,Pending,1000539932,2026-11-04,,,-
 1038,CK THẢO ĐIỀN,Charles & Keith,City,0,107.0,,,,-,Pending,1000540073,2026-11-04,,,-
 1063,CK PARC MALL Q8,Charles & Keith,City,0,105.0,,,,-,Pending,1000540126,2026-11-04,,,-
-1157,PD BÌNH TÂN,Pedro,City,0,28.0,,,,-,process,1000540249,2026-11-04,2026-11-05,,-
-1152,PD PARC MALL Q8,Pedro,City,0,38.0,,,,-,process,1000540263,2026-11-04,2026-11-05,,-
-1125,PD VIVO,Pedro,City,0,30.0,,,,-,process,1000540284,2026-11-04,2026-11-05,,-
-1150,PD NGUYỄN TRÃI FLAGSHIP,Pedro,City,0,112.0,,,,-,process,1000540299,2026-11-04,2026-11-05,,-
-1136,PD HAI BÀ TRƯNG,Pedro,City,0,58.0,,,,-,process,1000540313,2026-11-04,2026-11-05,,-
-1132,PD LÊ VĂN SỸ,Pedro,City,0,80.0,,,,-,process,1000540328,2026-11-04,2026-11-05,,-
-1141,PD BÌNH DƯƠNG,Pedro,province,0,118.0,,,,-,Pending,1000540329,2026-11-04,,,-
-1142,PD TÂN PHÚ,Pedro,City,0,98.0,,,,-,process,1000540330,2026-11-04,2026-11-05,,-
-1158,Pedro Cresscent Mall,Pedro,City,0,53.0,,,,-,process,1000540356,2026-11-04,2026-11-05,,-
-1141,PD BÌNH DƯƠNG,Pedro,province,0,3.0,,,,-,Pending,1000540364,2026-11-04,,,-
-1151,PD QUANG TRUNG,Pedro,City,0,55.0,,,,-,process,1000540369,2026-11-04,2026-11-05,,-
-1122,PD ĐỒNG KHỞI,Pedro,City,0,70.0,,,,-,process,1000540378,2026-11-05,2026-11-05,,-
+1157,PD BÌNH TÂN,Pedro,City,2,28.0,,,,-,process,1000540249,2026-11-04,2026-11-05,,-
+1152,PD PARC MALL Q8,Pedro,City,2,38.0,,,,-,process,1000540263,2026-11-04,2026-11-05,,-
+1125,PD VIVO,Pedro,City,2,30.0,,,,-,process,1000540284,2026-11-04,2026-11-05,,-
+1150,PD NGUYỄN TRÃI FLAGSHIP,Pedro,City,8,112.0,,,,-,process,1000540299,2026-11-04,2026-11-05,,-
+1136,PD HAI BÀ TRƯNG,Pedro,City,3,58.0,,,,-,process,1000540313,2026-11-04,2026-11-05,,-
+1132,PD LÊ VĂN SỸ,Pedro,City,6,80.0,,,,-,process,1000540328,2026-11-04,2026-11-05,,-
+1141,PD BÌNH DƯƠNG,Pedro,province,11,118.0,,,,-,Pending,1000540329,2026-11-04,,,-
+1142,PD TÂN PHÚ,Pedro,City,6,98.0,,,,-,process,1000540330,2026-11-04,2026-11-05,,-
+1158,Pedro Cresscent Mall,Pedro,City,3,53.0,,,,-,process,1000540356,2026-11-04,2026-11-05,,-
+1141,PD BÌNH DƯƠNG,Pedro,province,1,3.0,,,,KCL,Pending,1000540364,2026-11-04,,,-
+1151,PD QUANG TRUNG,Pedro,City,2,55.0,,,,-,process,1000540369,2026-11-04,2026-11-05,,-
+1122,PD ĐỒNG KHỞI,Pedro,City,5,70.0,,,,-,process,1000540378,2026-11-05,2026-11-05,,-
+1131,PD VẠN HẠNH,Pedro,City,5,72.0,,,,-,process,1000540389,2026-11-05,2026-11-05,,-
+1129,PD SÀI GÒN,Pedro,City,5,77.0,,,,-,process,1000540425,2026-11-05,2026-11-05,,-
