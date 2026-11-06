@@ -1,16 +1,16 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 63395,2026-11-06,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500237442,80241637,BSL2 WEEK 45,6,88.0,,88
-63413,2026-11-06,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500237478,80241655,tui giay ,0,,,300
+63413,2026-11-06,2026-11-06,posted,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500237478,80241655,tui giay ,2,,300,300
 63418,2026-11-06,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500237460,80241675,BSL2  W45 804,0,,,6
 63396,2026-11-06,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,City,4500237443,80241638,BSL2 WEEK 45,4,44.0,,44
 63419,2026-11-06,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,City,4500237461,80241676,BSL2  W45 804,0,,,5
 63397,2026-11-06,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,City,4500237444,80241639,BSL2 WEEK 45,16,192.0,,192
-63414,2026-11-06,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,City,4500237479,80241656,tui giay ,0,,,700
+63414,2026-11-06,2026-11-06,posted,0,Charles & Keith,1036,CK ĐỒNG KHỞI,City,4500237479,80241656,tui giay ,4,,700,700
 63420,2026-11-06,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,City,4500237462,80241677,BSL2  W45 804,0,,,12
 63398,2026-11-06,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,City,4500237445,80241640,BSL2 WEEK 45,0,,,34
 63421,2026-11-06,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,City,4500237463,80241678,BSL2  W45 804,0,,,3
 63399,2026-11-06,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,City,4500237446,80241641,BSL2 WEEK 45,4,77.0,,77
-63415,2026-11-06,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,City,4500237480,80241657,tui giay ,0,,,400
+63415,2026-11-06,2026-11-06,posted,0,Charles & Keith,1039,CK VẠN HẠNH,City,4500237480,80241657,tui giay ,2,,400,400
 63422,2026-11-06,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,City,4500237464,80241679,BSL2  W45 804,0,,,5
 63300,2026-11-06,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500237021,80241366,NAW46,7,87.0,,87
 63400,2026-11-06,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500237447,80241642,BSL2 WEEK 45,2,37.0,,37
@@ -24,7 +24,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 63403,2026-11-06,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,City,4500237450,80241645,BSL2 WEEK 45,5,83.0,,83
 63426,2026-11-06,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,City,4500237468,80241683,BSL2  W45 804,0,,,4
 63404,2026-11-06,,post null,0,Charles & Keith,1051,CK SÀI GÒN,City,4500237451,80241646,BSL2 WEEK 45,12,136.0,,136
-63416,2026-11-06,,post null,0,Charles & Keith,1051,CK SÀI GÒN,City,4500237481,80241658,tui giay ,0,,,400
+63416,2026-11-06,2026-11-06,posted,0,Charles & Keith,1051,CK SÀI GÒN,City,4500237481,80241658,tui giay ,2,,400,400
 63427,2026-11-06,,post null,0,Charles & Keith,1051,CK SÀI GÒN,City,4500237469,80241684,BSL2  W45 804,0,,,5
 63405,2026-11-06,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,City,4500237452,80241647,BSL2 WEEK 45,0,,,40
 63428,2026-11-06,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,City,4500237470,80241685,BSL2  W45 804,0,,,6
@@ -40,7 +40,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 63409,2026-11-06,,post null,0,Charles & Keith,1061,CK Kiên Giang,province,4500237456,80241651,BSL2 WEEK 45,0,,,30
 63432,2026-11-06,,post null,0,Charles & Keith,1061,CK Kiên Giang,province,4500237474,80241689,BSL2  W45 804,0,,,3
 63410,2026-11-06,,post null,0,Charles & Keith,1062,CK VIVO,City,4500237457,80241652,BSL2 WEEK 45,0,,,68
-63417,2026-11-06,,post null,0,Charles & Keith,1062,CK VIVO,City,4500237482,80241659,tui giay ,0,,,200
+63417,2026-11-06,2026-11-06,posted,0,Charles & Keith,1062,CK VIVO,City,4500237482,80241659,tui giay ,1,,200,200
 63433,2026-11-06,,post null,0,Charles & Keith,1062,CK VIVO,City,4500237475,80241690,BSL2  W45 804,0,,,2
 63411,2026-11-06,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,City,4500237458,80241653,BSL2 WEEK 45,3,44.0,,44
 63434,2026-11-06,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,City,4500237476,80241691,BSL2  W45 804,0,,,2
