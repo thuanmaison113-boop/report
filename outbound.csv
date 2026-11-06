@@ -50,6 +50,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 63444,2026-11-06,2026-11-06,posted,0,Charles & Keith,1068,CK ĐÀ NẴNG THANH KHÊ,province,4500237709,80241810,GWP ,1,60.0,,60
 63445,2026-11-06,2026-11-06,posted,0,Charles & Keith,1069,CK Thanh Hóa,province,4500237710,80241811,GWP ,1,30.0,,30
 63446,2026-11-06,2026-11-06,posted,0,Charles & Keith,1070,CK HẠ LONG,province,4500237711,80241812,GWP ,1,30.0,,30
+63468,2026-11-06,,post null,0,Charles & Keith,1070,CK HẠ LONG,province,4500237784,80241974,dong phuc ,0,,,31
 63150,2026-11-06,2026-11-04,posted,pxk,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,City,4500236602,80240979,TIKI,33,550.0,,550
 63318,2026-11-06,2026-11-04,posted,pxk,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,City,4500237015,80241389,TIKI ,7,81.0,,81
 63436,2026-11-06,2026-11-06,posted,0,Charles & Keith,CK D122,KHO HÀ NỘI - SÀI ĐỒNG,province,4500237310,80241701,LCHCM HN ,69,1227.0,,1227
