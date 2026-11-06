@@ -11,8 +11,8 @@ PD 99M2,TIKI,Pedro,City,0,9.0,,,,-,Pending,1000539591,2026-11-03,,,-
 5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,17,202.0,,,,-,Pending,1000539834,2026-11-04,,,-
 1038,CK THẢO ĐIỀN,Charles & Keith,City,5,107.0,,,,-,process,1000540073,2026-11-04,2026-11-06,,-
 1063,CK PARC MALL Q8,Charles & Keith,City,7,105.0,,,,-,process,1000540126,2026-11-04,2026-11-06,,-
-1141,PD BÌNH DƯƠNG,Pedro,province,11,118.0,,,,-,Pending,1000540329,2026-11-04,,,-
-1141,PD BÌNH DƯƠNG,Pedro,province,1,3.0,,,,KCL,Pending,1000540364,2026-11-04,,,-
+1141,PD BÌNH DƯƠNG,Pedro,province,11,118.0,,,,-,process,1000540329,2026-11-04,2026-11-06,,-
+1141,PD BÌNH DƯƠNG,Pedro,province,1,3.0,,,,KCL,process,1000540364,2026-11-04,2026-11-06,,-
 1129,PD SÀI GÒN,Pedro,City,5,77.0,,,,-,process,1000540425,2026-11-05,2026-11-05,,-
 1067,CK Crescent Mall,Charles & Keith,City,17,237.0,,,,-,process,1000540508,2026-11-05,2026-11-06,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,0,360.0,,,,-,Pending,1000540539,2026-11-05,,,-
@@ -31,8 +31,6 @@ PD 99M2,TIKI,Pedro,City,0,9.0,,,,-,Pending,1000539591,2026-11-03,,,-
 1025,CK LÊ VĂN SỸ,Charles & Keith,City,14,212.0,,,,-,process,1000540853,2026-11-05,2026-11-06,,-
 1047,CK CẦN THƠ,Charles & Keith,province,0,129.0,,,,-,Pending,1000540856,2026-11-05,,,-
 1137,PD VŨNG TÀU,Pedro,province,0,44.0,,,,-,Pending,1000540893,2026-11-05,,,-
-PD 99M2,TIKI,Pedro,City,0,1.0,,,,-,process,1000540905,2026-11-05,2026-11-06,,-
-CK 99M2,TIKI,Charles & Keith,City,0,1.0,,,,-,process,1000540906,2026-11-05,2026-11-06,,-
 NBL 99M2,TIKI,NEW BALANCE,City,0,6.0,,,,-,Pending,1000540924,2026-11-05,,,-
 PD 99M2,TIKI,Pedro,City,0,19.0,,,,-,Pending,1000540926,2026-11-05,,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,City,33,397.0,,,,-,process,1000540964,2026-11-05,2026-11-06,,-
