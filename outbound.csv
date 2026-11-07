@@ -1,4 +1,8 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
+63538,2026-11-07,,post null,0,BIRKENSTOCK,BK 99M3,KHO ECOM THỦ ĐỨC,City,4500238032,80242182,ECOM 99M3,0,,,3
 63533,2026-11-07,2026-11-07,posted,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,City,4500238026,80242086,Ecom,0,39,,39
+63535,2026-11-07,,post null,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,City,4500238029,80242179,ECOM 99M3,0,,,22
+63537,2026-11-07,,post null,0,,NB 99M3,,,4500238031,80242181,ECOM 99M3,0,,,1
 63358,2026-11-07,2026-11-05,posted,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,City,4500237261,80241574,NAW46,9,110,,110
 63534,2026-11-07,2026-11-07,posted,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,City,4500238027,80242087,Ecom,0,8,,8
+63536,2026-11-07,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,City,4500238030,80242180,ECOM 99M3,0,,,7
