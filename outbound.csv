@@ -1,6 +1,6 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-63673,2026-11-10,2026-11-10,posted,0,Charles & Keith,1000,KHO CHUNG CK,City,4500238425,80242703,vmr,1,3.0,,3
-63674,2026-11-10,2026-11-10,posted,0,Charles & Keith,1000,KHO CHUNG CK,City,4500238424,80242704,vmr,1,3.0,,3
+63673,2026-11-10,2026-11-10,posted,pxk,Charles & Keith,1000,KHO CHUNG CK,City,4500238425,80242703,vmr,1,3.0,,3
+63674,2026-11-10,2026-11-10,posted,pxk,Charles & Keith,1000,KHO CHUNG CK,City,4500238424,80242704,vmr,1,3.0,,3
 63599,2026-11-10,2026-11-10,posted,pxk,Charles & Keith,1044,CK VŨNG TÀU,province,4500238278,80242564,GWP ,1,40.0,,40
 63600,2026-11-10,2026-11-10,posted,pxk,Charles & Keith,1047,CK CẦN THƠ,province,4500238279,80242565,GWP ,1,40.0,,40
 63601,2026-11-10,2026-11-10,posted,pxk,Charles & Keith,1058,CK Biên Hòa,province,4500238284,80242566,GWP ,1,40.0,,40
@@ -89,4 +89,3 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 63337,2026-11-10,2026-11-10,posted,pxk,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,province,4500237215,80241549,BSD1BF,6,74.0,,74
 63638,2026-11-10,2026-11-10,posted,pxk,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,province,4500238312,80242603,BSL1 W46 ,4,73.0,,73
 63640,2026-11-10,2026-11-10,posted,pxk,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,province,4500238314,80242605,TUI GIAY ,1,,,100
-63672,2026-11-10,,post null,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,province,4500238382,80242670,uniform ,0,,,15

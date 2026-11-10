@@ -19,7 +19,7 @@ PD 99M2,TIKI,Pedro,City,0,9.0,,,,-,Pending,1000539591,2026-11-03,,,-
 1144,PD DN VINCOM,Pedro,province,5,57.0,,,,-,process,1000540758,2026-11-05,2026-11-09,,-
 1047,CK CẦN THƠ,Charles & Keith,province,7,129.0,,,,-,process,1000540856,2026-11-05,2026-11-09,,-
 1137,PD VŨNG TÀU,Pedro,province,2,44.0,,,,-,process,1000540893,2026-11-05,2026-11-07,,-
-1049,CK BÌNH DƯƠNG,Charles & Keith,province,12,141.0,,,,+3 bình PCCC+1 thùng khay,Pending,1000540996,2026-11-05,,,-
+1049,CK BÌNH DƯƠNG,Charles & Keith,province,10,141.0,,,,+3 bình PCCC+1 thùng khay,Pending,1000540996,2026-11-05,,,-
 1049,CK BÌNH DƯƠNG,Charles & Keith,province,1,,4,,,+3 bình PCCC+1 thùng khay,Pending,1000540997,2026-11-05,,,-
 1139,PD CẦN THƠ,Pedro,province,4,71.0,,,,-,process,1000541032,2026-11-05,2026-11-09,,-
 1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,province,4,70.0,,,,-,process,1000541142,2026-11-06,2026-11-09,,-
@@ -33,8 +33,6 @@ ONS 99M3,ECOM ,ON RUNNING,City,0,1.0,,,,-,Pending,1000542009,2026-11-09,,,-
 PD 99M2,TIKI,Pedro,City,0,76.0,,,,-,Pending,1000542142,2026-11-09,,,-
 CK 99M2,TIKI,Charles & Keith,City,0,8.0,,,,-,Pending,1000542148,2026-11-09,,,-
 PD 99M2,TIKI,Pedro,City,0,2.0,,,,-,Pending,1000542149,2026-11-09,,,-
-1150,PD NGUYỄN TRÃI FLAGSHIP,Pedro,City,0,3.0,,,,CL,process,1000542153,2026-11-09,2026-11-10,,-
-1060,CK VÕ VĂN NGÂN,Charles & Keith,City,0,1.0,,,,CL,process,1000542188,2026-11-09,2026-11-10,,-
 CK 99M2,TIKI,Charles & Keith,City,0,1.0,,,,-,Pending,1000542251,2026-11-10,,,-
 CK 99M2,TIKI,Charles & Keith,City,0,1.0,,,,-,Pending,1000542252,2026-11-10,,,-
 CK 99M2,TIKI,Charles & Keith,City,0,1.0,,,,-,Pending,1000542258,2026-11-10,,,-
