@@ -1,5 +1,5 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
-1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,3.0,,,,-,Pending,1000539001,2026-10-31,,,-
+1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,3.0,,,,-,process,1000539001,2026-10-31,2026-11-13,,-
 5807,Birkenstock Centre Hà Nội,BIRKENSTOCK,province,1,,3,,,-,process,1000539790,2026-11-04,2026-11-07,,-
 1141,PD BÌNH DƯƠNG,Pedro,province,1,3.0,,,,KCL,process,1000540364,2026-11-04,2026-11-06,,-
 1139,PD CẦN THƠ,Pedro,province,1,36.0,,,,-,process,1000540622,2026-11-05,2026-11-09,,-
@@ -64,6 +64,6 @@ CK D126,KHO HÀ NỘI - SÀI ĐỒNG - TARAS,Charles & Keith,province,0,4.0,,,,-
 1146,PD DN LÊ DUẨN,Pedro,province,0,37.0,,,,-,Pending,1000543620,2026-11-12,,,-
 1153,PD HUẾ,Pedro,province,0,118.0,,,,-,Pending,1000543529,2026-11-12,,,-
 1051,CK SÀI GÒN,Charles & Keith,City,10,109.0,,,,-,process,1000543651,2026-11-12,2026-11-13,,-
-1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,119.0,,,,-,Pending,1000543724,2026-11-12,,,-
+1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,119.0,,,,-,process,1000543724,2026-11-12,2026-11-13,,-
 1058,CK Biên Hòa,Charles & Keith,province,0,70.0,,,,-,Pending,1000543800,2026-11-12,,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,City,8,106.0,,,,-,process,1000543825,2026-11-12,2026-11-13,,-

@@ -9,7 +9,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 63514,2026-11-13,2026-11-13,posted,0,Charles & Keith,1025,CK LÊ VĂN SỸ,City,4500237900,80242042,BF 804,22,383,,387
 63604,2026-11-13,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,City,4500238274,80242569,GWP ,0,,,80
 63808,2026-11-13,2026-11-13,posted,0,Charles & Keith,1025,CK LÊ VĂN SỸ,City,4500237036,80243270,NEW WEEK46 584,5,40,,40
-63835,2026-11-13,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,City,4500239013,80243300,800,0,,,88
+63835,2026-11-13,2026-11-13,posted,0,Charles & Keith,1025,CK LÊ VĂN SỸ,City,4500239013,80243300,800,7,88,,88
 63875,2026-11-13,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,City,4500238995,80243340,804,0,,,11
 63893,2026-11-13,2026-11-13,posted,0,Charles & Keith,1025,CK LÊ VĂN SỸ,City,4500239031,80243360,túi giấy,1,,200,200
 63605,2026-11-13,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,City,4500238275,80242570,GWP ,0,,,160
@@ -51,11 +51,11 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 63610,2026-11-13,,post null,0,Charles & Keith,1051,CK SÀI GÒN,City,4500238282,80242575,GWP ,0,,,120
 63769,2026-11-13,2026-11-11,posted,pxk,Charles & Keith,1051,CK SÀI GÒN,City,4500238756,80243058,chênh lệch pullback-trả hàng lỗi,0,1,,0
 63816,2026-11-13,2026-11-13,posted,KK ,Charles & Keith,1051,CK SÀI GÒN,City,4500237044,80243278,NEW WEEK46 584,4,46,,46
-63843,2026-11-13,,post null,KK,Charles & Keith,1051,CK SÀI GÒN,City,4500239021,80243308,800,0,,,140
+63843,2026-11-13,,post null,KK,Charles & Keith,1051,CK SÀI GÒN,City,4500239021,80243308,800,10,140,,140
 63883,2026-11-13,,post null,KK ,Charles & Keith,1051,CK SÀI GÒN,City,4500239003,80243348,804,0,,,27
 63611,2026-11-13,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,City,4500238283,80242576,GWP ,0,,,40
 63817,2026-11-13,2026-11-13,posted,0,Charles & Keith,1052,CK BÌNH TÂN,City,4500237045,80243279,NEW WEEK46 584,3,35,,35
-63844,2026-11-13,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,City,4500239022,80243309,800,0,,,62
+63844,2026-11-13,2026-11-13,posted,0,Charles & Keith,1052,CK BÌNH TÂN,City,4500239022,80243309,800,3,62,,62
 63884,2026-11-13,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,City,4500239004,80243349,804,0,,,7
 63898,2026-11-13,2026-11-13,posted,0,Charles & Keith,1052,CK BÌNH TÂN,City,4500239036,80243365,túi giấy,3,,300,300
 63481,2026-11-13,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500237892,80242009,BF 800,6,73,,73
@@ -70,10 +70,10 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 63886,2026-11-13,,post null,0,Charles & Keith,1059,CK HÙNG VƯƠNG,City,4500239006,80243351,804,0,,,4
 63613,2026-11-13,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,City,4500238286,80242578,GWP ,0,,,40
 63820,2026-11-13,2026-11-13,posted,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,City,4500237048,80243282,NEW WEEK46 584,1,12,,12
-63847,2026-11-13,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,City,4500239025,80243312,800,0,,,37
+63847,2026-11-13,2026-11-13,posted,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,City,4500239025,80243312,800,3,37,,37
 63887,2026-11-13,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,City,4500239007,80243352,804,0,,,6
 63821,2026-11-13,2026-11-13,posted,0,Charles & Keith,1061,CK Kiên Giang,province,4500237049,80243283,NEW WEEK46 584,1,13,,13
-63848,2026-11-13,,post null,0,Charles & Keith,1061,CK Kiên Giang,province,4500239026,80243313,800,0,,,30
+63848,2026-11-13,2026-11-13,posted,0,Charles & Keith,1061,CK Kiên Giang,province,4500239026,80243313,800,3,30,,30
 63888,2026-11-13,,post null,0,Charles & Keith,1061,CK Kiên Giang,province,4500239008,80243353,804,0,,,3
 63614,2026-11-13,,post null,0,Charles & Keith,1062,CK VIVO,City,4500238288,80242579,GWP ,0,,,40
 63822,2026-11-13,2026-11-13,posted,0,Charles & Keith,1062,CK VIVO,City,4500237050,80243284,NEW WEEK46 584,1,14,,14
