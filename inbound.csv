@@ -1,6 +1,5 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,3.0,,,,-,process,1000539001,2026-10-31,2026-11-13,,-
-1141,PD BÌNH DƯƠNG,Pedro,province,1,3.0,,,,KCL,process,1000540364,2026-11-04,2026-11-06,,-
 1139,PD CẦN THƠ,Pedro,province,1,36.0,,,,-,process,1000540622,2026-11-05,2026-11-09,,-
 1153,PD HUẾ,Pedro,province,3,39.0,,,,-,process,1000540705,2026-11-05,2026-11-10,,-
 1061,CK Kiên Giang,Charles & Keith,province,1,,2,,,-,process,1000540712,2026-11-05,2026-11-09,,-
@@ -31,7 +30,6 @@ CK D126,KHO HÀ NỘI - SÀI ĐỒNG - TARAS,Charles & Keith,province,0,4.0,,,,-
 1122,PD ĐỒNG KHỞI,Pedro,City,2,8.0,,,,-,process,1000543118,2026-11-12,2026-11-12,,-
 1151,PD QUANG TRUNG,Pedro,City,0,1.0,,,,KCL,process,1000543120,2026-11-12,2026-11-12,,-
 1151,PD QUANG TRUNG,Pedro,City,0,3.0,,,,GWP,process,1000543121,2026-11-12,2026-11-12,,-
-1122,PD ĐỒNG KHỞI,Pedro,City,1,4.0,,,,KCL,process,1000543124,2026-11-12,2026-11-12,,-
 1122,PD ĐỒNG KHỞI,Pedro,City,4,4.0,,,,KCL,process,1000543125,2026-11-12,2026-11-12,,-
 1130,PD THẢO ĐIỀN,Pedro,City,1,12.0,,,,-,process,1000543162,2026-11-12,2026-11-12,,-
 1062,CK VIVO,Charles & Keith,City,1,11.0,,,,-,process,1000543236,2026-11-12,2026-11-13,,-
@@ -57,4 +55,3 @@ CK D126,KHO HÀ NỘI - SÀI ĐỒNG - TARAS,Charles & Keith,province,0,4.0,,,,-
 1143,PD BIÊN HÒA,Pedro,province,0,111.0,,,,-,Pending,1000543941,2026-11-13,,,-
 1143,PD BIÊN HÒA,Pedro,province,0,6.0,,,,-,Pending,1000543942,2026-11-13,,,-
 1061,CK Kiên Giang,Charles & Keith,province,0,55.0,,,,-,Pending,1000543943,2026-11-13,,,-
-BK 99M3,KHO ECOM THỦ ĐỨC,BIRKENSTOCK,City,0,158.0,,,,-,Pending,1000543995,2026-11-13,,,-
