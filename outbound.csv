@@ -19,7 +19,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 63894,2026-11-13,2026-11-13,posted,0,Charles & Keith,1036,CK ĐỒNG KHỞI,City,4500239032,80243361,túi giấy,5,,800,800
 63606,2026-11-13,2026-11-13,posted,0,Charles & Keith,1038,CK THẢO ĐIỀN,City,4500238276,80242571,GWP ,1,60.0,,60
 63810,2026-11-13,2026-11-13,posted,0,Charles & Keith,1038,CK THẢO ĐIỀN,City,4500237038,80243272,NEW WEEK46 584,3,33.0,,33
-63837,2026-11-13,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,City,4500239015,80243302,800,0,,,93
+63837,2026-11-13,2026-11-13,posted,0,Charles & Keith,1038,CK THẢO ĐIỀN,City,4500239015,80243302,800,7,93.0,,93
 63877,2026-11-13,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,City,4500238997,80243342,804,0,,,8
 63607,2026-11-13,2026-11-13,posted,0,Charles & Keith,1039,CK VẠN HẠNH,City,4500238277,80242572,GWP ,1,80.0,,80
 63811,2026-11-13,2026-11-13,posted,0,Charles & Keith,1039,CK VẠN HẠNH,City,4500237039,80243273,NEW WEEK46 584,5,51.0,,51
@@ -72,6 +72,8 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 63820,2026-11-13,2026-11-13,posted,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,City,4500237048,80243282,NEW WEEK46 584,1,12.0,,12
 63847,2026-11-13,2026-11-13,posted,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,City,4500239025,80243312,800,3,37.0,,37
 63887,2026-11-13,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,City,4500239007,80243352,804,0,,,6
+63914,2026-11-13,2026-11-13,posted,pxk,Charles & Keith,1060,CK VÕ VĂN NGÂN,City,4500239125,80243464,chênh lệch pullback- trao đổi DO,0,1.0,,0
+63915,2026-11-13,2026-11-13,posted,pxk,Charles & Keith,1060,CK VÕ VĂN NGÂN,City,4500239126,80243465,chênh lệch pullback- trả hàng lỗi,1,1.0,,0
 63821,2026-11-13,2026-11-13,posted,0,Charles & Keith,1061,CK Kiên Giang,province,4500237049,80243283,NEW WEEK46 584,1,13.0,,13
 63848,2026-11-13,2026-11-13,posted,0,Charles & Keith,1061,CK Kiên Giang,province,4500239026,80243313,800,3,30.0,,30
 63888,2026-11-13,,post null,0,Charles & Keith,1061,CK Kiên Giang,province,4500239008,80243353,804,0,,,3
