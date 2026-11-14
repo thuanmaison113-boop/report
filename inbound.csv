@@ -32,10 +32,10 @@ CK D126,KHO HÀ NỘI - SÀI ĐỒNG - TARAS,Charles & Keith,province,0,4.0,,,,-
 1067,CK Crescent Mall,Charles & Keith,City,5,67.0,,,,-,process,1000543264,2026-11-12,2026-11-13,,-
 1052,CK BÌNH TÂN,Charles & Keith,City,2,21.0,,,,-,process,1000543353,2026-11-12,2026-11-13,,-
 1050,CK TÂN PHÚ,Charles & Keith,City,5,58.0,,,,-,process,1000543373,2026-11-12,2026-11-13,,-
-1139,PD CẦN THƠ,Pedro,province,0,,2,,,+PD_VH +PD_LVS +PD_LD +PD_NT,Pending,1000543402,2026-11-12,,,-
+1139,PD CẦN THƠ,Pedro,province,1,,2,,,+PD_VH +PD_LVS +PD_LD +PD_NT,process,1000543402,2026-11-12,2026-11-14,,-
 1137,PD VŨNG TÀU,Pedro,province,0,,1,,,-,Pending,1000543436,2026-11-12,,,-
 1137,PD VŨNG TÀU,Pedro,province,0,10.0,,,,-,Pending,1000543437,2026-11-12,,,-
-1139,PD CẦN THƠ,Pedro,province,0,124.0,,,,+PD_VH +PD_LVS +PD_LD +PD_NT,Pending,1000543501,2026-11-12,,,-
+1139,PD CẦN THƠ,Pedro,province,12,124.0,,,,+PD_VH +PD_LVS +PD_LD +PD_NT,process,1000543501,2026-11-12,2026-11-14,,-
 1039,CK VẠN HẠNH,Charles & Keith,City,8,81.0,,,,-,process,1000543536,2026-11-12,2026-11-13,,-
 1021,CK NGUYỄN TRÃI,Charles & Keith,City,5,53.0,,,,-,process,1000543574,2026-11-12,2026-11-13,,-
 1025,CK LÊ VĂN SỸ,Charles & Keith,City,8,101.0,,,,-,process,1000543606,2026-11-12,2026-11-13,,-
@@ -45,10 +45,10 @@ CK D126,KHO HÀ NỘI - SÀI ĐỒNG - TARAS,Charles & Keith,province,0,4.0,,,,-
 1153,PD HUẾ,Pedro,province,0,118.0,,,,-,Pending,1000543529,2026-11-12,,,-
 1051,CK SÀI GÒN,Charles & Keith,City,10,109.0,,,,-,process,1000543651,2026-11-12,2026-11-13,,-
 1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,119.0,,,,-,process,1000543724,2026-11-12,2026-11-13,,-
-1058,CK Biên Hòa,Charles & Keith,province,0,70.0,,,,-,Pending,1000543800,2026-11-12,,,-
+1058,CK Biên Hòa,Charles & Keith,province,5,70.0,,,,-,process,1000543800,2026-11-12,2026-11-14,,-
 1036,CK ĐỒNG KHỞI,Charles & Keith,City,8,106.0,,,,-,process,1000543825,2026-11-12,2026-11-13,,-
-1143,PD BIÊN HÒA,Pedro,province,0,111.0,,,,-,Pending,1000543941,2026-11-13,,,-
-1143,PD BIÊN HÒA,Pedro,province,0,6.0,,,,-,Pending,1000543942,2026-11-13,,,-
+1143,PD BIÊN HÒA,Pedro,province,14,111.0,,,,-,process,1000543941,2026-11-13,2026-11-14,,-
+1143,PD BIÊN HÒA,Pedro,province,1,6.0,,,,-,process,1000543942,2026-11-13,2026-11-14,,-
 1061,CK Kiên Giang,Charles & Keith,province,0,55.0,,,,-,Pending,1000543943,2026-11-13,,,-
 1144,PD DN VINCOM,Pedro,province,0,118.0,,,,-,Pending,1000544024,2026-11-13,,,-
 CK 99M3,KHO ECOM THỦ ĐỨC,Charles & Keith,City,0,33.0,,,,-,process,1000544048,2026-11-13,2026-11-14,,-
