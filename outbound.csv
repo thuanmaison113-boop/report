@@ -1,4 +1,8 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
+63941,2026-11-14,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500238877,80243585,NEW W47 ,0,,,70
+63942,2026-11-14,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500238878,80243586,NEW W47 ,0,,,116
+63943,2026-11-14,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500238883,80243587,NEW W47 ,0,,,70
+63944,2026-11-14,,post null,0,Charles & Keith,1061,CK Kiên Giang,province,4500238886,80243588,NEW W47 ,0,,,70
 63927,2026-11-14,,post null,0,Pedro,1100,KHO CHUNG PD,City,4500239177,80243542,vmr,0,,,4
 63928,2026-11-14,,post null,0,Pedro,1100,KHO CHUNG PD,City,4500239178,80243543,vmr,0,,,3
 63929,2026-11-14,,post null,0,Pedro,1100,KHO CHUNG PD,City,4500239179,80243544,vmr,0,,,2
