@@ -1,6 +1,5 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,3.0,,,,-,process,1000539001,2026-10-31,2026-11-13,,-
-1153,PD HUẾ,Pedro,province,3,39.0,,,,-,process,1000540705,2026-11-05,2026-11-10,,-
 1061,CK Kiên Giang,Charles & Keith,province,1,,2,,,-,process,1000540712,2026-11-05,2026-11-09,,-
 1061,CK Kiên Giang,Charles & Keith,province,6,89.0,,,,-,process,1000540713,2026-11-05,2026-11-09,,-
 CK 99M2,TIKI,Charles & Keith,City,0,1.0,,,,-,Pending,1000542251,2026-11-10,,,-
@@ -23,7 +22,6 @@ CK D126,KHO HÀ NỘI - SÀI ĐỒNG - TARAS,Charles & Keith,province,0,4.0,,,,-
 1044,CK VŨNG TÀU,Charles & Keith,province,0,32.0,,,,-,Pending,1000542782,2026-11-11,,,-
 1038,CK THẢO ĐIỀN,Charles & Keith,City,2,31.0,,,,-,process,1000542879,2026-11-11,2026-11-13,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,0,27.0,,,,-,Pending,1000542912,2026-11-11,,,-
-1141,PD BÌNH DƯƠNG,Pedro,province,9,101.0,,,,-,process,1000543024,2026-11-11,2026-11-13,,-
 1141,PD BÌNH DƯƠNG,Pedro,province,1,,5,,,-,process,1000543040,2026-11-11,2026-11-13,,-
 1132,PD LÊ VĂN SỸ,Pedro,City,1,10.0,,,,GWP,process,1000543065,2026-11-11,2026-11-12,,-
 1122,PD ĐỒNG KHỞI,Pedro,City,2,8.0,,,,-,process,1000543118,2026-11-12,2026-11-12,,-
@@ -52,3 +50,11 @@ CK D126,KHO HÀ NỘI - SÀI ĐỒNG - TARAS,Charles & Keith,province,0,4.0,,,,-
 1143,PD BIÊN HÒA,Pedro,province,0,111.0,,,,-,Pending,1000543941,2026-11-13,,,-
 1143,PD BIÊN HÒA,Pedro,province,0,6.0,,,,-,Pending,1000543942,2026-11-13,,,-
 1061,CK Kiên Giang,Charles & Keith,province,0,55.0,,,,-,Pending,1000543943,2026-11-13,,,-
+1144,PD DN VINCOM,Pedro,province,0,118.0,,,,-,Pending,1000544024,2026-11-13,,,-
+CK 99M3,KHO ECOM THỦ ĐỨC,Charles & Keith,City,0,33.0,,,,-,process,1000544048,2026-11-13,2026-11-14,,-
+PD 99M3,KHO ECOM THỦ ĐỨC,Pedro,City,0,8.0,,,,-,process,1000544049,2026-11-13,2026-11-14,,-
+BK 99M3,KHO ECOM THỦ ĐỨC,BIRKENSTOCK,City,0,1.0,,,,-,process,1000544052,2026-11-13,2026-11-14,,-
+NIKE 99M3,KHO ECOM THỦ ĐỨC,NIKE,City,0,2.0,,,,-,process,1000544050,2026-11-13,2026-11-14,,-
+NBL 99M3,KHO ECOM THỦ ĐỨC,NEW BALANCE,City,0,4.0,,,,-,process,1000544051,2026-11-13,2026-11-14,,-
+1161,PD ĐÀ NẴNG THANH KHÊ,Pedro,province,0,70.0,,,,-,Pending,1000544089,2026-11-13,,,-
+1047,CK CẦN THƠ,Charles & Keith,province,0,80.0,,,,-,Pending,1000544189,2026-11-13,,,-
