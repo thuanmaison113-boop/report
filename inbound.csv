@@ -2,15 +2,15 @@ shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm
 1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,3,,,,-,process,1000539001,2026-10-31,2026-11-13,,-
 1061,CK Kiên Giang,Charles & Keith,province,1,,2,,,-,process,1000540712,2026-11-05,2026-11-09,,-
 1061,CK Kiên Giang,Charles & Keith,province,6,89,,,,-,process,1000540713,2026-11-05,2026-11-09,,-
-CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,Pending,1000542251,2026-11-10,,,-
-CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,Pending,1000542252,2026-11-10,,,-
-CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,Pending,1000542258,2026-11-10,,,-
-CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,Pending,1000542259,2026-11-10,,,-
-CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,Pending,1000542260,2026-11-10,,,-
-CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,Pending,1000542261,2026-11-10,,,-
-CV 99M2,TIKI,CONVERSE,City,0,1,,,,-,Pending,1000542262,2026-11-10,,,-
-PD 99M2,TIKI,Pedro,City,0,1,,,,-,Pending,1000542263,2026-11-10,,,-
-PD 99M2,TIKI,Pedro,City,0,1,,,,-,Pending,1000542264,2026-11-10,,,-
+CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000542251,2026-11-10,2026-11-16,,-
+CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000542252,2026-11-10,2026-11-16,,-
+CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000542258,2026-11-10,2026-11-16,,-
+CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000542259,2026-11-10,2026-11-16,,-
+CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000542260,2026-11-10,2026-11-16,,-
+CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000542261,2026-11-10,2026-11-16,,-
+CV 99M2,TIKI,CONVERSE,City,0,1,,,,-,process,1000542262,2026-11-10,2026-11-16,,-
+PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000542263,2026-11-10,2026-11-16,,-
+PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000542264,2026-11-10,2026-11-16,,-
 5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,0,28,,,,-,Pending,1000542357,2026-11-10,,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,province,0,13,,,,-,Pending,1000542387,2026-11-10,,,-
 5805,Birkens Gold Coast NT,BIRKENSTOCK,province,3,29,,,,-,process,1000542413,2026-11-10,2026-11-14,,-
