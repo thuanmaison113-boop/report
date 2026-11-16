@@ -99,6 +99,31 @@ tfoot td{
     vertical-align:middle;
 }
 
+/* PANELS (added for the modular dashboard) */
+.card-wide{
+    grid-column:1 / -1;
+}
+
+/* several panels on top of each other in one column (config "stack") */
+.card-stack{
+    display:flex;
+    flex-direction:column;
+    gap:25px;
+    min-width:0;
+    align-self:start;
+}
+
+.card-state{
+    padding:16px;
+    text-align:center;
+    color:#5a6478;
+}
+
+.card-state-error{
+    color:#b42318;
+    background:#fdecea;
+}
+
 /* SCROLLBAR */
 ::-webkit-scrollbar{
     width:10px;
