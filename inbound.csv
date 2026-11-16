@@ -1,7 +1,5 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,3,,,,-,process,1000539001,2026-10-31,2026-11-13,,-
-1061,CK Kiên Giang,Charles & Keith,province,1,,2,,,-,process,1000540712,2026-11-05,2026-11-09,,-
-1061,CK Kiên Giang,Charles & Keith,province,6,89,,,,-,process,1000540713,2026-11-05,2026-11-09,,-
 CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000542251,2026-11-10,2026-11-16,,-
 CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000542252,2026-11-10,2026-11-16,,-
 CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000542258,2026-11-10,2026-11-16,,-
