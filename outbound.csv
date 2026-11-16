@@ -1,7 +1,7 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
-63483,2026-11-16,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500237881,80242011,BF 800,21,1.0,,22
+63483,2026-11-16,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500237881,80242011,BF 800,1,21.0,,22
 63501,2026-11-16,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500237917,80242029,TUI GIAY ,0,,,650
-63519,2026-11-16,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500237899,80242050,BF 804,348,22.0,,349
+63519,2026-11-16,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500237899,80242050,BF 804,22,348.0,,349
 63945,2026-11-16,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500238872,80243589,NEW W47 ,13,166.0,,166
 63946,2026-11-16,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,City,4500238873,80243590,NEW W47 ,11,166.0,,166
 63484,2026-11-16,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,City,4500237883,80242012,BF 800,5,77.0,,77
