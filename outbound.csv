@@ -1,10 +1,10 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 63983,2026-11-17,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500239300,80243716,BSL1 800,0,,,73
-64001,2026-11-17,2026-11-17,posted,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500239318,80243734,BSL1 804,1,14,,14
+64001,2026-11-17,2026-11-16,posted,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500239318,80243734,BSL1 804,1,14,,14
 63984,2026-11-17,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500239301,80243717,BSL1 800,0,,,220
-64002,2026-11-17,2026-11-17,posted,0,Charles & Keith,1047,CK CẦN THƠ,province,4500239319,80243735,BSL1 804,2,20,,21
+64002,2026-11-17,2026-11-16,posted,0,Charles & Keith,1047,CK CẦN THƠ,province,4500239319,80243735,BSL1 804,2,20,,21
 63985,2026-11-17,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500239306,80243718,BSL1 800,0,,,130
-64003,2026-11-17,2026-11-17,posted,0,Charles & Keith,1058,CK Biên Hòa,province,4500239324,80243736,BSL1 804,1,3,,3
+64003,2026-11-17,2026-11-16,posted,0,Charles & Keith,1058,CK Biên Hòa,province,4500239324,80243736,BSL1 804,1,3,,3
 64005,2026-11-17,,post null,0,Pedro,1100,KHO CHUNG PD,City,4500239332,80243741,vmr,0,,,5
 64006,2026-11-17,,post null,0,Pedro,1100,KHO CHUNG PD,City,4500239333,80243742,vmr,0,,,29
 64007,2026-11-17,,post null,0,Pedro,1100,KHO CHUNG PD,City,4500239334,80243743,vmr,0,,,19
