@@ -1,8 +1,18 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
 60579,2026-11-18,2026-11-18,posted,0,Charles & Keith,1000,KHO CHUNG CK,City,4500228113,80232680,defect claim-taras 07-2026,3,64,,64
+64130,2026-11-18,2026-11-18,posted,pxk,Charles & Keith,1050,CK TÂN PHÚ,City,4500239836,80244158,grab cho khách,0,1,,0
 64089,2026-11-18,,post null,0,Pedro,1144,PD DN VINCOM,province,4500239535,80243841,RO ,0,,,78
+64146,2026-11-18,,post null,0,Pedro,1144,PD DN VINCOM,province,4500239827,80244140,NEW W48,0,,,131
 64090,2026-11-18,,post null,0,Pedro,1146,PD DN LÊ DUẨN,province,4500239536,80243842,RO ,0,,,52
-64091,2026-11-18,,post null,0,Pedro,1153,PD HUẾ,province,4500239537,80243843,RO ,0,,,48
+64147,2026-11-18,,post null,0,Pedro,1146,PD DN LÊ DUẨN,province,4500239828,80244141,NEW W48,0,,,95
+64091,2026-11-18,,post null,0,Pedro,1153,PD HUẾ,province,4500239537,80243843,RO ,3,48,,48
+64148,2026-11-18,,post null,0,Pedro,1153,PD HUẾ,province,4500239829,80244142,NEW W48,0,,,87
 64095,2026-11-18,,post null,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,province,4500239541,80243847,RO ,0,,,57
+64152,2026-11-18,,post null,0,Pedro,1161,PD ĐÀ NẴNG THANH KHÊ,province,4500239833,80244146,NEW W48,0,,,127
+64125,2026-11-18,,post null,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500239766,80244118,Vat tu ,0,,,2050
+64126,2026-11-18,,post null,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500239767,80244119,vat tu ,0,,,150
+64127,2026-11-18,,post null,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500239768,80244120,vat tu ,0,,,180
+64128,2026-11-18,,post null,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500239770,80244121,vat tu ,0,,,50
+64129,2026-11-18,,post null,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500239772,80244122,vat tu ,0,,,50
 64122,2026-11-18,2026-11-18,posted,pxk,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,City,4500239596,80243953,book grab,0,1,,0
 64092,2026-11-18,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,City,4500239538,80243844,RO ,0,,,60
