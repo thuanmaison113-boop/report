@@ -38,9 +38,9 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64231,2026-11-19,2026-11-19,posted,pxk ,Charles & Keith,1050,CK TÂN PHÚ,City,4500240088,80244299,túi giấy,2,,300,300
 64244,2026-11-19,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,City,4500240070,80244378,804,0,,,27
 64106,2026-11-19,2026-11-19,posted,pxk ,Charles & Keith,1051,CK SÀI GÒN,City,4500238862,80243944,New 588,13,164,,165
-64214,2026-11-19,,post null,0,Charles & Keith,1051,CK SÀI GÒN,City,4500240053,80244313,800,0,,,301
+64214,2026-11-19,2026-11-19,posted,0,Charles & Keith,1051,CK SÀI GÒN,City,4500240053,80244313,800,22,,,301
 64232,2026-11-19,2026-11-19,posted,pxk ,Charles & Keith,1051,CK SÀI GÒN,City,4500240089,80244300,túi giấy,1,,200,200
-64245,2026-11-19,,post null,0,Charles & Keith,1051,CK SÀI GÒN,City,4500240071,80244379,804,0,,,10
+64245,2026-11-19,2026-11-19,posted,0,Charles & Keith,1051,CK SÀI GÒN,City,4500240071,80244379,804,1,,,10
 64107,2026-11-19,2026-11-19,posted,pxk ,Charles & Keith,1052,CK BÌNH TÂN,City,4500238863,80243945,New 588,9,126,,126
 64215,2026-11-19,2026-11-19,posted,pxk,Charles & Keith,1052,CK BÌNH TÂN,City,4500240054,80244314,800,11,127,,127
 64233,2026-11-19,2026-11-19,posted,pxk ,Charles & Keith,1052,CK BÌNH TÂN,City,4500240090,80244301,túi giấy,1,,200,200
@@ -64,7 +64,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64220,2026-11-19,,post null,0,Charles & Keith,1062,CK VIVO,City,4500240059,80244319,800,0,,,90
 64251,2026-11-19,,post null,0,Charles & Keith,1062,CK VIVO,City,4500240077,80244385,804,0,,,9
 64113,2026-11-19,2026-11-19,posted,pxk ,Charles & Keith,1063,CK PARC MALL Q8,City,4500238869,80243951,New 588,9,107,,107
-64221,2026-11-19,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,City,4500240060,80244320,800,0,,,82
+64221,2026-11-19,2026-11-19,posted,0,Charles & Keith,1063,CK PARC MALL Q8,City,4500240060,80244320,800,6,,,82
 64252,2026-11-19,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,City,4500240078,80244386,804,0,,,9
 64114,2026-11-19,2026-11-19,posted,pxk ,Charles & Keith,1067,CK Crescent Mall,City,4500238871,80243952,New 588,10,121,,123
 64222,2026-11-19,,post null,0,Charles & Keith,1067,CK Crescent Mall,City,4500240061,80244321,800,0,,,93
