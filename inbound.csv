@@ -1,14 +1,5 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,3,,,,-,process,1000539001,2026-10-31,2026-11-13,,-
-CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000542251,2026-11-10,2026-11-16,,-
-CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000542252,2026-11-10,2026-11-16,,-
-CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000542258,2026-11-10,2026-11-16,,-
-CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000542259,2026-11-10,2026-11-16,,-
-CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000542260,2026-11-10,2026-11-16,,-
-CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000542261,2026-11-10,2026-11-16,,-
-CV 99M2,TIKI,CONVERSE,City,0,1,,,,-,process,1000542262,2026-11-10,2026-11-16,,-
-PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000542263,2026-11-10,2026-11-16,,-
-PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000542264,2026-11-10,2026-11-16,,-
 1137,PD VŨNG TÀU,Pedro,province,1,10,,,,-,process,1000543437,2026-11-12,2026-11-14,,-
 1153,PD HUẾ,Pedro,province,8,118,,,,-,process,1000543529,2026-11-12,2026-11-17,,-
 1144,PD DN VINCOM,Pedro,province,8,118,,,,-,process,1000544024,2026-11-13,2026-11-17,,-
@@ -17,10 +8,6 @@ PD 99M3,KHO ECOM THỦ ĐỨC,Pedro,City,0,8,,,,-,process,1000544049,2026-11-13,
 BK 99M3,KHO ECOM THỦ ĐỨC,BIRKENSTOCK,City,0,1,,,,-,process,1000544052,2026-11-13,2026-11-14,,-
 NIKE 99M3,KHO ECOM THỦ ĐỨC,NIKE,City,0,2,,,,-,process,1000544050,2026-11-13,2026-11-14,,-
 NBL 99M3,KHO ECOM THỦ ĐỨC,NEW BALANCE,City,0,4,,,,-,process,1000544051,2026-11-13,2026-11-14,,-
-CK 99M2,TIKI,Charles & Keith,City,0,34,,,,-,process,1000544800,2026-11-16,2026-11-16,,-
-CK 99M2,TIKI,Charles & Keith,City,0,3,,,,-,process,1000544816,2026-11-16,2026-11-16,,-
-CV 99M2,TIKI,CONVERSE,City,0,110,,,,-,process,1000544806,2026-11-16,2026-11-16,,-
-NBL 99M2,TIKI,NEW BALANCE,City,0,9,,,,-,process,1000544807,2026-11-16,2026-11-16,,-
 5808,Birkenstock Vạn Hạnh,BIRKENSTOCK,City,1,2,,,,có mã lệch,process,1000544866,2026-11-16,2026-11-17,,-
 5808,Birkenstock Vạn Hạnh,BIRKENSTOCK,City,0,1,,,,CL,process,1000544936,2026-11-16,2026-11-17,,-
 5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,0,4,,,,-,Pending,1000544874,2026-11-16,,,-
@@ -33,7 +20,6 @@ CV 99M2,TIKI,CONVERSE,City,0,1,,,,-,process,1000545302,2026-11-18,2026-11-16,,-
 PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000545303,2026-11-18,2026-11-16,,-
 PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000545304,2026-11-18,2026-11-16,,-
 PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000545305,2026-11-18,2026-11-16,,-
-PD 99M2,TIKI,Pedro,City,0,117,,,,-,process,1000545310,2026-11-18,2026-11-16,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,0,2,,,,-,Pending,1000545384,2026-11-18,,,-
 1141,PD BÌNH DƯƠNG,Pedro,province,9,100,,,,-,Pending,1000545439,2026-11-18,,,-
 1157,PD BÌNH TÂN,Pedro,City,4,40,,,,-,process,1000545440,2026-11-18,2026-11-18,,-
