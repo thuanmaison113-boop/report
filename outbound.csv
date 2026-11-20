@@ -42,7 +42,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64134,2026-11-20,,post null,0,Pedro,1129,PD SÀI GÒN,City,4500239815,80244128,NEW W48,0,,,166
 64135,2026-11-20,,post null,0,Pedro,1130,PD THẢO ĐIỀN,City,4500239816,80244129,NEW W48,0,,,125
 64136,2026-11-20,2026-11-20,posted,0,Pedro,1131,PD VẠN HẠNH,City,4500239817,80244130,NEW W48,10,135,,135
-64137,2026-11-20,,post null,0,Pedro,1132,PD LÊ VĂN SỸ,City,4500239818,80244131,NEW W48,0,,,136
+64137,2026-11-20,2026-11-20,posted,0,Pedro,1132,PD LÊ VĂN SỸ,City,4500239818,80244131,NEW W48,10,136,,136
 64138,2026-11-20,,post null,0,Pedro,1136,PD HAI BÀ TRƯNG,City,4500239819,80244132,NEW W48,0,,,116
 64142,2026-11-20,,post null,0,Pedro,1137,PD VŨNG TÀU,province,4500239823,80244136,NEW W48,0,,,93
 64143,2026-11-20,,post null,0,Pedro,1139,PD CẦN THƠ,province,4500239824,80244137,NEW W48,0,,,99
@@ -53,7 +53,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64140,2026-11-20,,post null,0,Pedro,1151,PD QUANG TRUNG,City,4500239821,80244134,NEW W48,0,,,117
 64141,2026-11-20,,post null,0,Pedro,1152,PD PARC MALL Q8,City,4500239822,80244135,NEW W48,0,,,91
 64150,2026-11-20,,post null,0,Pedro,1157,PD BÌNH TÂN,City,4500239831,80244144,NEW W48,0,,,118
-64151,2026-11-20,,post null,0,Pedro,1158,Pedro Cresscent Mall,City,4500239832,80244145,NEW W48,0,,,130
+64151,2026-11-20,2026-11-20,posted,0,Pedro,1158,Pedro Cresscent Mall,City,4500239832,80244145,NEW W48,8,130,,130
 64125,2026-11-20,,post null,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500239766,80244118,Vat tu ,0,,,2050
 64126,2026-11-20,,post null,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500239767,80244119,vat tu ,0,,,150
 64127,2026-11-20,,post null,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500239768,80244120,vat tu ,0,,,180
@@ -63,4 +63,4 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64255,2026-11-20,,post null,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,City,4500240210,80244469,TIKI ,0,,,29
 64123,2026-11-20,,post null,0,Distribution Center,D122,KHO HÀ NỘI - SÀI ĐỒNG,province,4500239614,80243989,LC,0,,,1185
 64092,2026-11-20,2026-11-19,posted,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,City,4500239538,80243844,TIKI ,4,60,,60
-64149,2026-11-20,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,City,4500239830,80244143,NEW W48,0,,,139
+64149,2026-11-20,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,City,4500239830,80244143,TIKI,0,,,139
