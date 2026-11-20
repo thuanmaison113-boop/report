@@ -31,11 +31,11 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64293,2026-11-20,,post null,0,Charles & Keith,1059,CK HÙNG VƯƠNG,City,4500240306,80244550,BSD3 804,0,,,2
 64276,2026-11-20,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,City,4500240289,80244527,BSD3 800,0,,,44
 64294,2026-11-20,,post null,0,Charles & Keith,1060,CK VÕ VĂN NGÂN,City,4500240307,80244551,BSD3 804,0,,,8
-64277,2026-11-20,,post null,0,Charles & Keith,1061,CK Kiên Giang,province,4500240290,80244528,BSD3 800,0,,,28
+64277,2026-11-20,2026-11-20,posted,0,Charles & Keith,1061,CK Kiên Giang,province,4500240290,80244528,BSD3 800,3,28,,28
 64295,2026-11-20,,post null,0,Charles & Keith,1061,CK Kiên Giang,province,4500240308,80244552,BSD3 804,0,,,9
 64278,2026-11-20,,post null,0,Charles & Keith,1062,CK VIVO,City,4500240291,80244529,BSD3 800,0,,,46
 64296,2026-11-20,,post null,0,Charles & Keith,1062,CK VIVO,City,4500240309,80244553,BSD3 804,0,,,4
-64279,2026-11-20,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,City,4500240292,80244530,BSD3 800,0,,,49
+64279,2026-11-20,2026-11-20,posted,0,Charles & Keith,1063,CK PARC MALL Q8,City,4500240292,80244530,BSD3 800,4,49,,49
 64297,2026-11-20,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,City,4500240310,80244554,BSD3 804,0,,,9
 64280,2026-11-20,,post null,0,Charles & Keith,1067,CK Crescent Mall,City,4500240293,80244531,BSD3 800,0,,,45
 64298,2026-11-20,,post null,0,Charles & Keith,1067,CK Crescent Mall,City,4500240311,80244555,BSD3 804,0,,,3
@@ -66,7 +66,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64300,2026-11-20,2026-11-20,posted,0,BIRKENSTOCK,5806,Birkenstock Lotte Tây Hồ,province,4500240339,80244657,shop order thêm,1,1,,0
 64302,2026-11-20,2026-11-20,posted,pxk,BIRKENSTOCK,5808,Birkenstock Vạn Hạnh,City,4500240341,80244661,chênh lệch pullback-trả DO món thiếu,0,1,,1
 64036,2026-11-20,2026-11-19,posted,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,City,4500239373,80243783,TIKI ,22,310,,310
-64255,2026-11-20,,post null,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,City,4500240210,80244469,TIKI ,0,,,29
+64255,2026-11-20,2026-11-20,posted,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,City,4500240210,80244469,TIKI ,3,29,,29
 64123,2026-11-20,2026-11-20,posted,0,Distribution Center,D122,KHO HÀ NỘI - SÀI ĐỒNG,province,4500239614,80243989,LC,35,1185,,1185
 64092,2026-11-20,2026-11-19,posted,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,City,4500239538,80243844,TIKI ,4,60,,60
 64149,2026-11-20,,post null,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,City,4500239830,80244143,TIKI,0,,,139
