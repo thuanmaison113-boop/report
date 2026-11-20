@@ -1,8 +1,6 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
 1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,3,,,,-,process,1000539001,2026-10-31,2026-11-13,,-
 1137,PD VŨNG TÀU,Pedro,province,1,10,,,,-,process,1000543437,2026-11-12,2026-11-14,,-
-1153,PD HUẾ,Pedro,province,8,118,,,,-,process,1000543529,2026-11-12,2026-11-17,,-
-1144,PD DN VINCOM,Pedro,province,8,118,,,,-,process,1000544024,2026-11-13,2026-11-17,,-
 CK 99M3,KHO ECOM THỦ ĐỨC,Charles & Keith,City,0,33,,,,-,process,1000544048,2026-11-13,2026-11-14,,-
 PD 99M3,KHO ECOM THỦ ĐỨC,Pedro,City,0,8,,,,-,process,1000544049,2026-11-13,2026-11-14,,-
 BK 99M3,KHO ECOM THỦ ĐỨC,BIRKENSTOCK,City,0,1,,,,-,process,1000544052,2026-11-13,2026-11-14,,-
@@ -36,8 +34,12 @@ PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000545305,2026-11-18,2026-11-16,,-
 1151,PD QUANG TRUNG,Pedro,City,3,3,,,,KCL,process,1000545637,2026-11-19,2026-11-18,,-
 1152,PD PARC MALL Q8,Pedro,City,3,51,,,,-,process,1000545639,2026-11-19,2026-11-18,,-
 1136,PD HAI BÀ TRƯNG,Pedro,City,2,31,,,,-,process,1000545658,2026-11-19,2026-11-18,,-
-1129,PD SÀI GÒN,Pedro,City,2,32,,,,-,Pending,-,,2026-11-18,,-
-1131,PD VẠN HẠNH,Pedro,City,1,23,,,,-,Pending,-,,2026-11-18,,-
 CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,province,0,73,,,,-,Pending,80244091,2026-11-19,,,-
-1131,PD VẠN HẠNH,Pedro,City,0,23,,,,-,Pending,1000545684,2026-11-19,,,-
-1129,PD SÀI GÒN,Pedro,City,0,32,,,,-,Pending,1000545800,2026-11-19,,,-
+1131,PD VẠN HẠNH,Pedro,City,1,23,,,,-,process,1000545684,2026-11-19,2026-11-18,,-
+1129,PD SÀI GÒN,Pedro,City,2,32,,,,-,process,1000545800,2026-11-19,2026-11-18,,-
+PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,province,0,88,,,,-,Pending,80244465,2026-11-19,,,-
+1146,PD DN LÊ DUẨN,Pedro,province,0,24,,,,-,Pending,1000545871,2026-11-19,,,-
+1153,PD HUẾ,Pedro,province,0,25,,,,-,Pending,1000545878,2026-11-19,,,-
+CK 99M3,KHO ECOM THỦ ĐỨC,Charles & Keith,City,0,25,,,,QC,process,1000545943,2026-11-19,2026-11-20,,-
+1137,PD VŨNG TÀU,Pedro,province,0,58,,,,-,Pending,1000545978,2026-11-19,,,-
+1139,PD CẦN THƠ,Pedro,province,0,42,,,,-,Pending,1000545989,2026-11-19,,,-
