@@ -1,5 +1,5 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
-1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,3,,,,-,process,1000539001,2026-10-31,2026-11-13,,-
+1049,CK BÌNH DƯƠNG,Charles & Keith,province,0,3,,,,CL,process,1000539001,2026-10-31,2026-11-13,,-
 5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,0,4,,,,-,Pending,1000544874,2026-11-16,,,-
 CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000545299,2026-11-18,2026-11-16,,-
 CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000545300,2026-11-18,2026-11-16,,-
@@ -9,7 +9,6 @@ PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000545303,2026-11-18,2026-11-16,,-
 PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000545304,2026-11-18,2026-11-16,,-
 PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000545305,2026-11-18,2026-11-16,,-
 5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,0,2,,,,-,Pending,1000545384,2026-11-18,,,-
-1158,Pedro Cresscent Mall,Pedro,City,1,,1,,,KCL,process,1000545463,2026-11-18,2026-11-18,,-
 CK D122,KHO HÀ NỘI - SÀI ĐỒNG,Charles & Keith,province,0,73,,,,-,Pending,80244091,2026-11-19,,,-
 PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,province,0,88,,,,-,Pending,80244465,2026-11-19,,,-
 1146,PD DN LÊ DUẨN,Pedro,province,0,24,,,,-,Pending,1000545871,2026-11-19,,,-
