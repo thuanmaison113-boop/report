@@ -2,7 +2,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64157,2026-11-23,2026-11-23,posted,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500239837,80244179,NEW WEEK 48 ,7,52,,52
 64368,2026-11-23,2026-11-23,posted,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500239873,80244878,NEW 598 599,25,256,,256
 64416,2026-11-23,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500240695,80244937,TÚI GIẤY,0,,,100
-64433,2026-11-23,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500240745,80244985,BSD1 W48,0,,,136
+64433,2026-11-23,2026-11-23,posted,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500240745,80244985,BSD1 W48,11,136,,136
 64434,2026-11-23,,post null,0,Charles & Keith,1021,CK NGUYỄN TRÃI,City,4500240763,80245000,BSD1 W48 804,0,,,10
 64158,2026-11-23,2026-11-23,posted,0,Charles & Keith,1025,CK LÊ VĂN SỸ,City,4500239838,80244180,NEW WEEK 48 ,7,53,,53
 64369,2026-11-23,,post null,0,Charles & Keith,1025,CK LÊ VĂN SỸ,City,4500239874,80244879,NEW 598 599,0,,,246
@@ -23,11 +23,11 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64372,2026-11-23,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,City,4500239877,80244882,NEW 598 599,0,,,284
 64402,2026-11-23,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,City,4500240749,80244920,BSD1 W48,0,,,162
 64420,2026-11-23,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,City,4500240699,80244941,TÚI GIẤY,0,,,300
-64373,2026-11-23,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500239878,80244883,NEW 598 599,0,,,95
+64373,2026-11-23,2026-11-23,posted,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500239878,80244883,NEW 598 599,10,95,,95
 64403,2026-11-23,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500240750,80244922,BSD1 W48,0,,,102
 64421,2026-11-23,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500240700,80244942,TÚI GIẤY,0,,,300
 64438,2026-11-23,,post null,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500240767,80245004,BSD1 W48 804,0,,,20
-64374,2026-11-23,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500239879,80244884,NEW 598 599,0,,,186
+64374,2026-11-23,2026-11-23,posted,0,Charles & Keith,1047,CK CẦN THƠ,province,4500239879,80244884,NEW 598 599,17,186,,186
 64404,2026-11-23,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500240751,80244925,BSD1 W48,0,,,163
 64422,2026-11-23,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500240701,80244943,TÚI GIẤY,0,,,5
 64439,2026-11-23,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500240768,80245005,BSD1 W48 804,0,,,2
@@ -38,7 +38,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64423,2026-11-23,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500240702,80244944,TÚI GIẤY,0,,,5
 64440,2026-11-23,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500240769,80245006,BSD1 W48 804,0,,,15
 64163,2026-11-23,2026-11-23,posted,0,Charles & Keith,1050,CK TÂN PHÚ,City,4500239845,80244185,NEW WEEK 48 ,3,28,,28
-64376,2026-11-23,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,City,4500239881,80244886,NEW 598 599,0,,,170
+64376,2026-11-23,2026-11-23,posted,0,Charles & Keith,1050,CK TÂN PHÚ,City,4500239881,80244886,NEW 598 599,15,170,,170
 64406,2026-11-23,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,City,4500240753,80244927,BSD1 W48,0,,,277
 64424,2026-11-23,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,City,4500240703,80244945,TÚI GIẤY,0,,,5
 64441,2026-11-23,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,City,4500240770,80245007,BSD1 W48 804,0,,,9
@@ -49,12 +49,12 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64442,2026-11-23,,post null,0,Charles & Keith,1051,CK SÀI GÒN,City,4500240771,80245008,BSD1 W48 804,0,,,11
 64165,2026-11-23,2026-11-23,posted,0,Charles & Keith,1052,CK BÌNH TÂN,City,4500239847,80244187,NEW WEEK 48 ,3,29,,29
 64172,2026-11-23,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,City,4500239893,80244194,NEW W48 804,0,,,7
-64378,2026-11-23,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,City,4500239883,80244888,NEW 598 599,0,,,180
+64378,2026-11-23,2026-11-23,posted,0,Charles & Keith,1052,CK BÌNH TÂN,City,4500239883,80244888,NEW 598 599,15,179,,180
 64408,2026-11-23,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,City,4500240755,80244929,BSD1 W48,0,,,78
 64426,2026-11-23,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,City,4500240705,80244947,TÚI GIẤY,0,,,5
 64443,2026-11-23,,post null,0,Charles & Keith,1052,CK BÌNH TÂN,City,4500240772,80245009,BSD1 W48 804,0,,,1
 64173,2026-11-23,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500239894,80244195,NEW W48 804,1,8,,8
-64379,2026-11-23,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500239884,80244889,NEW 598 599,0,,,114
+64379,2026-11-23,2026-11-23,posted,0,Charles & Keith,1058,CK Biên Hòa,province,4500239884,80244889,NEW 598 599,9,114,,114
 64409,2026-11-23,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500240756,80244930,BSD1 W48,0,,,84
 64427,2026-11-23,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500240708,80244948,TÚI GIẤY,0,,,5
 64444,2026-11-23,,post null,0,Charles & Keith,1058,CK Biên Hòa,province,4500240773,80245010,BSD1 W48 804,0,,,2
@@ -75,7 +75,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64412,2026-11-23,,post null,0,Charles & Keith,1061,CK Kiên Giang,province,4500240759,80244933,BSD1 W48,0,,,30
 64168,2026-11-23,2026-11-23,posted,0,Charles & Keith,1062,CK VIVO,City,4500239852,80244190,NEW WEEK 48 ,2,19,,19
 64177,2026-11-23,2026-11-23,posted,0,Charles & Keith,1062,CK VIVO,City,4500239898,80244199,NEW W48 804,1,4,,4
-64383,2026-11-23,,post null,0,Charles & Keith,1062,CK VIVO,City,4500239888,80244893,NEW 598 599,0,,,122
+64383,2026-11-23,2026-11-23,posted,0,Charles & Keith,1062,CK VIVO,City,4500239888,80244893,NEW 598 599,11,122,,122
 64413,2026-11-23,,post null,0,Charles & Keith,1062,CK VIVO,City,4500240760,80244934,BSD1 W48,0,,,63
 64430,2026-11-23,,post null,0,Charles & Keith,1062,CK VIVO,City,4500240709,80244951,TÚI GIẤY,0,,,5
 64447,2026-11-23,,post null,0,Charles & Keith,1062,CK VIVO,City,4500240776,80245013,BSD1 W48 804,0,,,10
