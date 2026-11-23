@@ -14,7 +14,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64400,2026-11-23,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,City,4500240747,80244916,BSD1 W48,0,,,390
 64418,2026-11-23,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,City,4500240697,80244939,T┌I GI?Y,0,,,305
 64436,2026-11-23,,post null,0,Charles & Keith,1036,CK ĐỒNG KHỞI,City,4500240765,80245002,BSD1 W48 804,0,,,8
-64160,2026-11-23,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,City,4500239840,80244182,NEW WEEK 48 ,0,,,29
+64160,2026-11-23,2026-11-23,posted,0,Charles & Keith,1038,CK THẢO ĐIỀN,City,4500239840,80244182,NEW WEEK 48 ,3,29,,29
 64371,2026-11-23,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,City,4500239876,80244881,NEW 598 599,0,,,179
 64401,2026-11-23,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,City,4500240748,80244918,BSD1 W48,0,,,97
 64419,2026-11-23,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,City,4500240698,80244940,T┌I GI?Y,0,,,605
@@ -37,7 +37,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64405,2026-11-23,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500240752,80244926,BSD1 W48,0,,,260
 64423,2026-11-23,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500240702,80244944,T┌I GI?Y,0,,,5
 64440,2026-11-23,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500240769,80245006,BSD1 W48 804,0,,,15
-64163,2026-11-23,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,City,4500239845,80244185,NEW WEEK 48 ,0,,,28
+64163,2026-11-23,2026-11-23,posted,0,Charles & Keith,1050,CK TÂN PHÚ,City,4500239845,80244185,NEW WEEK 48 ,3,28,,28
 64376,2026-11-23,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,City,4500239881,80244886,NEW 598 599,0,,,170
 64406,2026-11-23,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,City,4500240753,80244927,BSD1 W48,0,,,277
 64424,2026-11-23,,post null,0,Charles & Keith,1050,CK TÂN PHÚ,City,4500240703,80244945,T┌I GI?Y,0,,,5
@@ -79,7 +79,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64413,2026-11-23,,post null,0,Charles & Keith,1062,CK VIVO,City,4500240760,80244934,BSD1 W48,0,,,63
 64430,2026-11-23,,post null,0,Charles & Keith,1062,CK VIVO,City,4500240709,80244951,T┌I GI?Y,0,,,5
 64447,2026-11-23,,post null,0,Charles & Keith,1062,CK VIVO,City,4500240776,80245013,BSD1 W48 804,0,,,10
-64169,2026-11-23,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,City,4500239853,80244191,NEW WEEK 48 ,0,,,19
+64169,2026-11-23,2026-11-23,posted,0,Charles & Keith,1063,CK PARC MALL Q8,City,4500239853,80244191,NEW WEEK 48 ,2,19,,19
 64178,2026-11-23,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,City,4500239899,80244200,NEW W48 804,0,,,5
 64384,2026-11-23,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,City,4500239889,80244894,NEW 598 599,0,,,136
 64414,2026-11-23,,post null,0,Charles & Keith,1063,CK PARC MALL Q8,City,4500240761,80244935,BSD1 W48,0,,,97
