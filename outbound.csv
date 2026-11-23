@@ -20,7 +20,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64419,2026-11-23,2026-11-23,posted,0,Charles & Keith,1038,CK THẢO ĐIỀN,City,4500240698,80244940,TÚI GIẤY,5,,605,605
 64437,2026-11-23,,post null,0,Charles & Keith,1038,CK THẢO ĐIỀN,City,4500240766,80245003,BSD1 W48 804,0,,,3
 64161,2026-11-23,2026-11-23,posted,0,Charles & Keith,1039,CK VẠN HẠNH,City,4500239841,80244183,NEW WEEK 48 ,5,49,,49
-64372,2026-11-23,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,City,4500239877,80244882,NEW 598 599,0,,,284
+64372,2026-11-23,2026-11-23,posted,0,Charles & Keith,1039,CK VẠN HẠNH,City,4500239877,80244882,NEW 598 599,26,284,,284
 64402,2026-11-23,,post null,0,Charles & Keith,1039,CK VẠN HẠNH,City,4500240749,80244920,BSD1 W48,0,,,162
 64420,2026-11-23,2026-11-23,posted,0,Charles & Keith,1039,CK VẠN HẠNH,City,4500240699,80244941,TÚI GIẤY,2,,300,300
 64373,2026-11-23,2026-11-23,posted,0,Charles & Keith,1044,CK VŨNG TÀU,province,4500239878,80244883,NEW 598 599,10,95,,95
@@ -33,7 +33,7 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64439,2026-11-23,,post null,0,Charles & Keith,1047,CK CẦN THƠ,province,4500240768,80245005,BSD1 W48 804,0,,,2
 64162,2026-11-23,2026-11-23,posted,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500239844,80244184,NEW WEEK 48 ,3,28,,28
 64171,2026-11-23,2026-11-23,posted,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500239892,80244193,NEW W48 804,1,1,,1
-64375,2026-11-23,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500239880,80244885,NEW 598 599,0,,,202
+64375,2026-11-23,2026-11-23,posted,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500239880,80244885,NEW 598 599,18,202,,202
 64405,2026-11-23,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500240752,80244926,BSD1 W48,0,,,260
 64423,2026-11-23,2026-11-23,posted,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500240702,80244944,TÚI GIẤY,1,,5,5
 64440,2026-11-23,,post null,0,Charles & Keith,1049,CK BÌNH DƯƠNG,province,4500240769,80245006,BSD1 W48 804,0,,,15
@@ -128,14 +128,14 @@ id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region
 64128,2026-11-23,2026-11-21,posted,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500239770,80244121,vat tu ,2,,50,50
 64484,2026-11-23,,post null,0,BIRKENSTOCK,5801,Birkenstock Sài Gòn Centre,City,4500240886,80245135,WEEK 47,0,,,100
 64494,2026-11-23,,post null,0,BIRKENSTOCK,5801,Birkenstock Sài Gòn Centre,City,4500240882,80245145,WEEK 47,0,,,150
-64500,2026-11-23,,post null,0,BIRKENSTOCK,5801,Birkenstock Sài Gòn Centre,City,4500240904,80245149,grab,0,1,,0
+64500,2026-11-23,2026-11-23,posted,0,BIRKENSTOCK,5801,Birkenstock Sài Gòn Centre,City,4500240904,80245149,grab,0,1,,0
 64485,2026-11-23,,post null,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,City,4500240887,80245136,WEEK 47,0,,,93
 64495,2026-11-23,,post null,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,City,4500240883,80245146,WEEK 47,0,,,150
-64499,2026-11-23,,post null,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,City,4500240897,80245134,grab,0,2,,0
+64499,2026-11-23,2026-11-23,posted,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,City,4500240897,80245134,grab,0,2,,0
 64486,2026-11-23,,post null,0,BIRKENSTOCK,5803,Birkenstock Crescent Mall,City,4500240888,80245137,WEEK 47,0,,,68
 64496,2026-11-23,,post null,0,BIRKENSTOCK,5803,Birkenstock Crescent Mall,City,4500240884,80245147,WEEK 47,0,,,150
 64487,2026-11-23,,post null,0,BIRKENSTOCK,5808,Birkenstock Vạn Hạnh,City,4500240889,80245138,WEEK 47,0,,,41
 64488,2026-11-23,,post null,0,BIRKENSTOCK,5811,Birkenstock Vincom Landmark Hồ Chí Minh,City,4500240890,80245139,WEEK 47,0,,,30
-64498,2026-11-23,,post null,0,BIRKENSTOCK,5811,Birkenstock Vincom Landmark Hồ Chí Minh,City,4500240903,80245150,grab,0,1,,0
+64498,2026-11-23,2026-11-23,posted,0,BIRKENSTOCK,5811,Birkenstock Vincom Landmark Hồ Chí Minh,City,4500240903,80245150,grab,0,1,,0
 64346,2026-11-23,,post null,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,City,4500240209,80245131,TIKI,0,,,63
 64341,2026-11-23,2026-11-23,posted,0,Pedro,PD 99M3,KHO ECOM THỦ ĐỨC,City,4500240204,80244740,TIKI,7,94,,94
