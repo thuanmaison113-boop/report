@@ -1,10 +1,15 @@
 id,delivery_date,post_date,check,checklist,brand_name,shop_code,shop_name,region,PO_num,DO_num,type,box_qty,product_qty,paper_qty,order_qty
+64525,2026-11-25,,post null,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500241092,80245365,vật tư,0,,,420
+64526,2026-11-25,,post null,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500241093,80245366,vật tư,0,,,463
+64527,2026-11-25,,post null,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500241094,80245367,vật tư,0,,,212
+64528,2026-11-25,,post null,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500241084,80245390,vật tư,0,,,1
+64529,2026-11-25,,post null,0,Multibrand,4000,KHO CHUNG VẬT TƯ ECOM,City,4500241098,80245391,vật tư,0,,,1
 64523,2026-11-25,2026-11-25,posted,0,BIRKENSTOCK,5801,Birkenstock Sài Gòn Centre,City,4500241121,80245358,book nhất tín tới nhà khách,1,1,,0
 64524,2026-11-25,,post null,0,BIRKENSTOCK,5802,Birkenstock Vincom Đồng Khởi,City,4500241122,80245387,đang dính cont,1,1,,0
-64506,2026-11-25,,post null,0,BIRKENSTOCK,5805,Birkens Gold Coast NT,province,4500240911,80245168,WEEK 47,0,,,8
+64506,2026-11-25,,post null,0,BIRKENSTOCK,5805,Birkens Gold Coast NT,province,4500240911,80245168,WEEK 47,1,8,,8
 64497,2026-11-25,,post null,0,BIRKENSTOCK,5806,Birkenstock Lotte Tây Hồ,province,4500240885,80245148,TÚI GIÁY ,0,,,150
-64507,2026-11-25,,post null,0,BIRKENSTOCK,5806,Birkenstock Lotte Tây Hồ,province,4500240912,80245169,WEEK 47,0,,,24
-64508,2026-11-25,,post null,0,BIRKENSTOCK,5807,Birkenstock Centre Hà Nội,province,4500240913,80245170,WEEK 47,0,,,15
-64509,2026-11-25,,post null,0,BIRKENSTOCK,5809,Birkenstock Đà Nẵng VC,province,4500240914,80245171,WEEK 47,0,,,35
-64510,2026-11-25,,post null,0,BIRKENSTOCK,5810,Birkenstock VINCOM TDH,province,4500240915,80245172,WEEK 47,0,,,28
+64507,2026-11-25,,post null,0,BIRKENSTOCK,5806,Birkenstock Lotte Tây Hồ,province,4500240912,80245169,WEEK 47,2,24,,24
+64508,2026-11-25,,post null,0,BIRKENSTOCK,5807,Birkenstock Centre Hà Nội,province,4500240913,80245170,WEEK 47,2,15,,15
+64509,2026-11-25,,post null,0,BIRKENSTOCK,5809,Birkenstock Đà Nẵng VC,province,4500240914,80245171,WEEK 47,3,35,,35
+64510,2026-11-25,,post null,0,BIRKENSTOCK,5810,Birkenstock VINCOM TDH,province,4500240915,80245172,WEEK 47,2,28,,28
 64511,2026-11-25,,post null,0,Charles & Keith,CK 99M3,KHO ECOM THỦ ĐỨC,City,4500240943,80245190,TIKI ,0,,,238
