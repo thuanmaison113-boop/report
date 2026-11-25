@@ -1,15 +1,5 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
-CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000545299,2026-11-18,2026-11-16,,-
-CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000545300,2026-11-18,2026-11-16,,-
-CV 99M2,TIKI,CONVERSE,City,0,1,,,,-,process,1000545301,2026-11-18,2026-11-16,,-
-CV 99M2,TIKI,CONVERSE,City,0,1,,,,-,process,1000545302,2026-11-18,2026-11-16,,-
-PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000545303,2026-11-18,2026-11-16,,-
-PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000545304,2026-11-18,2026-11-16,,-
-PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000545305,2026-11-18,2026-11-16,,-
 PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,province,0,88,,,,-,Pending,80244465,2026-11-19,,,-
-PD 99M2,TIKI,Pedro,City,0,22,,,,-,Pending,1000546309,2026-11-20,,,-
-CV 99M2,TIKI,CONVERSE,City,0,2,,,,-,Pending,1000546298,2026-11-20,,,-
-ONS 99M2,TIKI,ON RUNNING,City,0,19,,,,-,Pending,1000546301,2026-11-20,,,-
 CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,Pending,1000546794,2026-11-22,,,-
 CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,Pending,1000546795,2026-11-22,,,-
 5810,Birkenstock VINCOM TDH,BIRKENSTOCK,province,0,16,,,,-,Pending,1000547157,2026-11-23,,,-
