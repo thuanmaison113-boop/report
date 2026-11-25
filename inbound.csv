@@ -1,5 +1,5 @@
 shop_code,shop_name,brand_name,region,box_qty,product_qty,taras_qty,paper_qty,vm_qty,input_type,status,DO_num,GI_date,arrival_date,GR_date,note
-5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,0,4,,,,-,Pending,1000544874,2026-11-16,,,-
+5809,Birkenstock Đà Nẵng VC,BIRKENSTOCK,province,1,4,,,,-,process,1000544874,2026-11-16,2026-11-23,,-
 CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000545299,2026-11-18,2026-11-16,,-
 CK 99M2,TIKI,Charles & Keith,City,0,1,,,,-,process,1000545300,2026-11-18,2026-11-16,,-
 CV 99M2,TIKI,CONVERSE,City,0,1,,,,-,process,1000545301,2026-11-18,2026-11-16,,-
@@ -7,7 +7,7 @@ CV 99M2,TIKI,CONVERSE,City,0,1,,,,-,process,1000545302,2026-11-18,2026-11-16,,-
 PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000545303,2026-11-18,2026-11-16,,-
 PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000545304,2026-11-18,2026-11-16,,-
 PD 99M2,TIKI,Pedro,City,0,1,,,,-,process,1000545305,2026-11-18,2026-11-16,,-
-5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,0,2,,,,-,Pending,1000545384,2026-11-18,,,-
+5806,Birkenstock Lotte Tây Hồ,BIRKENSTOCK,province,1,2,,,,-,process,1000545384,2026-11-18,2026-11-23,,-
 PD D122,KHO HÀ NỘI - SÀI ĐỒNG,Pedro,province,0,88,,,,-,Pending,80244465,2026-11-19,,,-
 1146,PD DN LÊ DUẨN,Pedro,province,2,24,,,,-,process,1000545871,2026-11-19,2026-11-23,,-
 1153,PD HUẾ,Pedro,province,0,25,,,,-,Pending,1000545878,2026-11-19,,,-
